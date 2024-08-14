@@ -179,7 +179,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The Bamiyan Valley is the most monumental expression of the western Buddhism. It was an important centre of pilgrimage over many centuries. Due to their symbolic values, the monuments have suffered at different times of their existence, including the deliberate destruction in 2001, which shook the whole world.</p>",
     year: 2003,
     longitude: 67.82525,
-    latitude: 34.84694
+    latitude: 34.84694,
     area_hectares: 158.9265
 });
     MERGE (s:Site {
@@ -190,7 +190,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>The Minaret of Jam is an outstanding example of Islamic architecture and ornamentation in this region and played a significant role in their further dissemination.</p>",
     year: 2002,
     longitude: 64.51588889,
-    latitude: 34.39641667
+    latitude: 34.39641667,
     area_hectares: 70.0
 });
     MERGE (s:Site {
@@ -199,7 +199,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2005,
     longitude: 20.13333333,
-    latitude: 40.06944444
+    latitude: 40.06944444,
     area_hectares: 58.9
 });
     MERGE (s:Site {
@@ -208,7 +208,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 20.02611111,
-    latitude: 39.75111111
+    latitude: 39.75111111,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -217,7 +217,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 4.78684,
-    latitude: 35.81844
+    latitude: 35.81844,
     area_hectares: 150.0
 });
     MERGE (s:Site {
@@ -226,7 +226,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 9.0,
-    latitude: 25.5
+    latitude: 25.5,
     area_hectares: 7200000.0
 });
     MERGE (s:Site {
@@ -235,7 +235,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 3.68333,
-    latitude: 32.48333
+    latitude: 32.48333,
     area_hectares: 665.03
 });
     MERGE (s:Site {
@@ -244,7 +244,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 5.73667,
-    latitude: 36.32056
+    latitude: 36.32056,
     area_hectares: 30.6
 });
     MERGE (s:Site {
@@ -253,7 +253,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 2.383333333,
-    latitude: 36.55
+    latitude: 36.55,
     area_hectares: 52.16
 });
     MERGE (s:Site {
@@ -262,7 +262,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 6.63333,
-    latitude: 35.45
+    latitude: 35.45,
     area_hectares: 90.54
 });
     MERGE (s:Site {
@@ -271,7 +271,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 3.06028,
-    latitude: 36.78333
+    latitude: 36.78333,
     area_hectares: 54.7
 });
     MERGE (s:Site {
@@ -280,7 +280,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (v):</em> The Madriu-Perafita-Claror Valley is a microcosm of the way its inhabitants have harvested the scarce resources of the high Pyrenees over the past millennia to create a sustainable living environment in harmony with the mountain landscape. The Valley is a reflection of an ancient communal system of land management that has survived for over 700 years.</p>",
     year: 2004,
     longitude: 1.595555556,
-    latitude: 42.49472222
+    latitude: 42.49472222,
     area_hectares: 4247.0
 });
     MERGE (s:Site {
@@ -289,7 +289,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 14.24972222,
-    latitude: -6.268888889
+    latitude: -6.268888889,
     area_hectares: 89.29
 });
     MERGE (s:Site {
@@ -298,7 +298,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: -61.76166667,
-    latitude: 17.00694444
+    latitude: 17.00694444,
     area_hectares: 255.0
 });
     MERGE (s:Site {
@@ -307,7 +307,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -73.24944,
-    latitude: -50.0
+    latitude: -50.0,
     area_hectares: 726927.0
 });
     MERGE (s:Site {
@@ -316,7 +316,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -54.13333333,
-    latitude: -25.51805556
+    latitude: -25.51805556,
     area_hectares: 55000.0
 });
     MERGE (s:Site {
@@ -325,7 +325,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iii):</em> The Cueva de las Manos contains an outstanding collection of prehistoric rock art which bears witness to the culture of the earliest human societies in South America.</p>",
     year: 1999,
     longitude: -70.66666667,
-    latitude: -47.15
+    latitude: -47.15,
     area_hectares: 600.0
 });
     MERGE (s:Site {
@@ -334,7 +334,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (x):</em> Peninsula Vald s contains very important and significant natural habitats for the in-situ conservation of several threatened species of outstanding universal value, and specifically its globally important concentration of breeding southern right whales, which is an endangered species. It is also important because of the breeding populations of southern elephant seals and southern sea lions. The area exhibits an exceptional example of adaptation of hunting techniques by the orca to the local coastal conditions.</p>",
     year: 1999,
     longitude: -64.0,
-    latitude: -42.5
+    latitude: -42.5,
     area_hectares: 360000.0
 });
     MERGE (s:Site {
@@ -343,7 +343,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (viii):</em> The site contains a complete sequence of fossiliferous continental sediments representing the entire Triassic Period (45 million years) of geological history. No other place in the world has a fossil record comparable to that of Ischigualasto-Talampaya which reveals the evolution of vertebrate life and the nature of palaeoenvironments in the Triassic Period.</p>",
     year: 2000,
     longitude: -68.0,
-    latitude: -30.0
+    latitude: -30.0,
     area_hectares: 275369.0
 });
     MERGE (s:Site {
@@ -353,7 +353,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The religious, social, and economic experiment carried out in South America for over 150 years by the Society of Jesus produced a unique form of material expression, which is illustrated by the Jesuit buildings and ensembles of C&oacute;rdoba and the estancias.</p>",
     year: 2000,
     longitude: -64.19111,
-    latitude: -31.42056
+    latitude: -31.42056,
     area_hectares: 38.12
 });
     MERGE (s:Site {
@@ -363,7 +363,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criteria (iv) and (v):</em> The Quebrada de Humahuaca valley reflects the way its strategic position has engendered settlement, agriculture and trade. Its distinctive pre-Hispanic and pre-Incan settlements, as a group with their associated field systems, form a dramatic addition to the landscape and one that can certainly be called outstanding.</p>",
     year: 2003,
     longitude: -65.34886111,
-    latitude: -23.19986111
+    latitude: -23.19986111,
     area_hectares: 172116.4375
 });
     MERGE (s:Site {
@@ -372,7 +372,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: -71.8728,
-    latitude: -42.8528
+    latitude: -42.8528,
     area_hectares: 188379.0
 });
     MERGE (s:Site {
@@ -381,7 +381,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the Monastery of Haghpat on the basis of cultural <em>criteria (ii) and (iv)</em> considering that it is of outstanding universal value and an exceptional example of ecclesiastical architecture that developed in Armenia in the 10th to 13th centuries which is unique by virtue of its blending of elements of both Byzantine church architecture and the traditional vernacular building style of this region.</p>",
     year: 1996,
     longitude: 44.71028,
-    latitude: 41.095
+    latitude: 41.095,
     area_hectares: 2.65
 });
     MERGE (s:Site {
@@ -390,7 +390,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (ii):</em> The monastery of Geghard, with its remarkable rock-cut churches and tombs, is an exceptionally well preserved and complete example of medieval Armenian monastic architecture and decorative art, with many innovatory features which had a profound influence on subsequent developments in the region.</p>",
     year: 2000,
     longitude: 44.79667,
-    latitude: 40.15889
+    latitude: 40.15889,
     area_hectares: 2.7
 });
     MERGE (s:Site {
@@ -400,7 +400,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iii):</em> The churches at Echmiatsin and the archaeological site of Zvartnots vividly depict both the spirituality and the innovatory artistic achievement of the Armenian Church from its foundation.</p>",
     year: 2000,
     longitude: 44.29514,
-    latitude: 40.15931
+    latitude: 40.15931,
     area_hectares: 74.3
 });
     MERGE (s:Site {
@@ -409,7 +409,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 132.8333333,
-    latitude: -12.83333333
+    latitude: -12.83333333,
     area_hectares: 1980994.92
 });
     MERGE (s:Site {
@@ -418,7 +418,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 147.7,
-    latitude: -18.28611111
+    latitude: -18.28611111,
     area_hectares: 34870000.0
 });
     MERGE (s:Site {
@@ -427,7 +427,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 151.2152778,
-    latitude: -33.85666667
+    latitude: -33.85666667,
     area_hectares: 5.8
 });
     MERGE (s:Site {
@@ -436,7 +436,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 143.0,
-    latitude: -34.0
+    latitude: -34.0,
     area_hectares: 240000.0
 });
     MERGE (s:Site {
@@ -445,7 +445,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 145.4166667,
-    latitude: -41.58333333
+    latitude: -41.58333333,
     area_hectares: 1584233.0
 });
     MERGE (s:Site {
@@ -454,7 +454,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 159.0883333,
-    latitude: -31.56555556
+    latitude: -31.56555556,
     area_hectares: 146300.0
 });
     MERGE (s:Site {
@@ -463,7 +463,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 150.05,
-    latitude: -28.25
+    latitude: -28.25,
     area_hectares: 370000.0
 });
     MERGE (s:Site {
@@ -472,7 +472,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 131.0,
-    latitude: -25.33333333
+    latitude: -25.33333333,
     area_hectares: 132566.0
 });
     MERGE (s:Site {
@@ -481,7 +481,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 144.9666667,
-    latitude: -15.65
+    latitude: -15.65,
     area_hectares: 893453.0
 });
     MERGE (s:Site {
@@ -490,7 +490,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed this property under <em>criteria (viii) </em>and <em>(ix)</em>. It noted that this site is the only volcanically active sub-Antarctic island and illustrates ongoing geomorphic processes and glacial dynamics in the coastal and submarine environment and sub-Antarctic flora and fauna, with no record of alien species. The Committee repeated its request by the sixteenth session for further documentation on the marine resources of the site.</p>",
     year: 1997,
     longitude: 73.5,
-    latitude: -53.1
+    latitude: -53.1,
     area_hectares: 658903.0
 });
     MERGE (s:Site {
@@ -499,7 +499,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 113.4361111,
-    latitude: -25.48611111
+    latitude: -25.48611111,
     area_hectares: 2200902.0
 });
     MERGE (s:Site {
@@ -508,7 +508,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided that the site provides an unique example of exposure of the ocean crust above the sea level and of geological evidence for sea-floor spreading, and is an exposure of the oceanic plate boundary between the Pacific and Australian/Indian plates, exposed with active faults and ongoing tectonic movements.</p>",
     year: 1997,
     longitude: 158.8955556,
-    latitude: -54.59472222
+    latitude: -54.59472222,
     area_hectares: 540000.0
 });
     MERGE (s:Site {
@@ -517,7 +517,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 153.1333333,
-    latitude: -25.21666667
+    latitude: -25.21666667,
     area_hectares: 184000.0
 });
     MERGE (s:Site {
@@ -526,7 +526,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 138.7166667,
-    latitude: -19.08333333
+    latitude: -19.08333333,
     area_hectares: 10326.0
 });
     MERGE (s:Site {
@@ -535,7 +535,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criteria (ix) and (x):</em> Australia&rsquo;s eucalypt vegetation is worthy of recognition as of outstanding universal value, because of its adaptability and evolution in post-Gondwana isolation. The site contains a wide and balanced representation of eucalypt habitats from wet and dry sclerophyll, mallee heathlands, as well as localised swamps, wetlands, and grassland. 90 eucalypt taxa (13% of the global total) and representation of all four groups of eucalypts occur. There is also a high level of endemism with 114 endemic taxa found in the area as well as 120 nationally rare and threatened plant taxa. The site hosts several evolutionary relic species (Wollemia, Microstrobos, Acrophyllum) which have persisted in highly restricted microsites.</p>",
     year: 2000,
     longitude: 150.0,
-    latitude: -33.7
+    latitude: -33.7,
     area_hectares: 1032649.0
 });
     MERGE (s:Site {
@@ -545,7 +545,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vii):</em> Superlative natural phenomena or natural beauty and aesthetic importance Although PNP has been widely known in Australia only during the past 20 years and it remains relatively inaccessible, it has become recognised internationally for its exceptional natural beauty. The prime scenic attraction is the extraordinary array of banded, beehive-shaped cone towers comprising the Bungle Bungle Range. These have become emblematic of the park and are internationally renowned among Australia&rsquo;s natural attractions. The dramatically sculptured structures, unrivalled in their scale, extent, grandeur and diversity of forms anywhere in the world, undergo remarkable seasonal variation in appearance, including striking colour transition following rain. The intricate maze of towers is accentuated by sinuous, narrow, sheer-sided gorges lined with majestic Livistona fan palms. These and the soaring cliffs up to 250 m high are cut by seasonal waterfalls and pools, creating the major tourist attractions in the park, with evocative names such as Echidna Chasm, and Frog Hole, Piccaninny and Cathedral Gorges. The diversity of landforms and ecosystems elsewhere in the park are representative of the larger region, and lack a unique aesthetic quality, but provide a sympathetic visual buffer for the massif. The powerful aesthetic experience of the Bungle Bungles has aroused huge interest among the public, and the ranges figure prominently in national and international advertising of Australia&rsquo;s tourist attractions, matching the prominence of the Uluru-Kata Tjuta National Park. Photographers and travel writers include the Bungle Bungles among the world&rsquo;s natural wonders, some describing them as Australia&rsquo;s equivalent of the Grand Canyon.</p>",
     year: 2003,
     longitude: 128.5,
-    latitude: -17.5
+    latitude: -17.5,
     area_hectares: 239723.0
 });
     MERGE (s:Site {
@@ -554,7 +554,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (ii):</em> The Royal Exhibition Building and the surrounding Carlton Gardens, as the main extant survivors of a Palace of Industry and its setting, together reflect the global influence of the international exhibition movement of the 19th and early 20th centuries. The movement showcased technological innovation and change, which helped promote a rapid increase in industrialisation and international trade through the exchange of knowledge and ideas.</p>",
     year: 2004,
     longitude: 144.9702778,
-    latitude: -37.80611111
+    latitude: -37.80611111,
     area_hectares: 26.0
 });
     MERGE (s:Site {
@@ -563,7 +563,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 150.9944444,
-    latitude: -33.37833333
+    latitude: -33.37833333,
     area_hectares: 1502.51
 });
     MERGE (s:Site {
@@ -572,7 +572,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 113.8102778,
-    latitude: -22.5625
+    latitude: -22.5625,
     area_hectares: 705015.0
 });
     MERGE (s:Site {
@@ -581,7 +581,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural <em>criteria (ii), (iv) and (vi)</em> and considered that the site is of outstanding universal value being an important example of a European ecclesiastical city- state which preserves to a remarkable degree its dramatic townscape, its historically significant urban fabric and a large number of outstanding ecclesiastical and secular buildings from several centuries. It is also noteworthy for its associations with the arts, and in particular with music in the person of its famous son, Wolfgang Amadeus Mozart.</p>",
     year: 1996,
     longitude: 13.04333333,
-    latitude: 47.80055556
+    latitude: 47.80055556,
     area_hectares: 236.0
 });
     MERGE (s:Site {
@@ -591,7 +591,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> With the construction of the Semmering Railway, areas of great natural beauty became more easily accessible and as a result these were developed for residential and recreational use, creating a new form of cultural landscape.</p>",
     year: 1998,
     longitude: 15.82797222,
-    latitude: 47.64877778
+    latitude: 47.64877778,
     area_hectares: 156.18
 });
     MERGE (s:Site {
@@ -601,7 +601,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property as an ensemble on the basis of cultural <em>criteria (i) and (iv)</em> considering that the site is of outstanding universal value being an especially well preserved example of the Baroque princely residential ensemble, which constitutes an outstanding example of a Gesamtkunstwerk. The Palace and Gardens are exceptional by virtue of the evidence that they preserve of modifications over several centuries that vividly illustrate the tastes, interests and aspirations of successive Habsburg monarchs.</p>",
     year: 1996,
     longitude: 16.31333333,
-    latitude: 48.18666667
+    latitude: 48.18666667,
     area_hectares: 186.28
 });
     MERGE (s:Site {
@@ -610,7 +610,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of <em>criteria (iii) and (iv)</em>, considering that the Hallstatt-Dachstein/Salzkammergut alpine region is an outstanding example of a natural landscape of great beauty and scientific interest which also contains evidence of a fundamental human economic activity, the whole integrated in a harmonious and mutually beneficial manner.</p>",
     year: 1997,
     longitude: 13.64638889,
-    latitude: 47.55944444
+    latitude: 47.55944444,
     area_hectares: 28446.2
 });
     MERGE (s:Site {
@@ -619,7 +619,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1999,
     longitude: 15.39166667,
-    latitude: 47.07416667
+    latitude: 47.07416667,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -629,7 +629,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The architecture, the human settlements, and the agricultural use of the land in the Wachau vividly illustrate a basically medieval landscape which has evolved organically and harmoniously over time.</p>",
     year: 2000,
     longitude: 15.43416667,
-    latitude: 48.36444444
+    latitude: 48.36444444,
     area_hectares: 18387.0
 });
     MERGE (s:Site {
@@ -640,7 +640,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> Since the 16th century Vienna has been universally acknowledged to be the musical capital of Europe.</p>",
     year: 2001,
     longitude: 16.38333333,
-    latitude: 48.21666667
+    latitude: 48.21666667,
     area_hectares: 371.0
 });
     MERGE (s:Site {
@@ -649,7 +649,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iv):</em> The Walled City of Baku represents an outstanding and rare example of an historic urban ensemble and architecture with influence from Zoroastrian, Sassanian, Arabic, Persian, Shirvani, Ottoman, and Russian cultures.</p>",
     year: 2000,
     longitude: 49.83333333,
-    latitude: 40.36666667
+    latitude: 40.36666667,
     area_hectares: 21.5
 });
     MERGE (s:Site {
@@ -658,7 +658,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 49.375,
-    latitude: 40.125
+    latitude: 40.125,
     area_hectares: 537.22
 });
     MERGE (s:Site {
@@ -669,7 +669,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>The palaces of Dilmun are unique examples of public architecture of this culture, which had an impact on architecture in general in the region. The different fortifications are the best examples of defence works from the 3rd century B.C to the 16th century AD, all on one site. The protected palm groves surrounding the site are an illustration of the typical landscape and agriculture of the region, since the 3rd century BC.</p>",
     year: 2005,
     longitude: 50.52722222,
-    latitude: 26.23306
+    latitude: 26.23306,
     area_hectares: 70.4
 });
     MERGE (s:Site {
@@ -678,7 +678,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 50.61351,
-    latitude: 26.24128
+    latitude: 26.24128,
     area_hectares: 35086.81
 });
     MERGE (s:Site {
@@ -687,7 +687,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 89.8,
-    latitude: 22.66667
+    latitude: 22.66667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -696,7 +696,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 88.98333333,
-    latitude: 25.03333333
+    latitude: 25.03333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -705,7 +705,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed the site under <em>criteria (ix)</em> and <em>(x) </em> as one of the largest remaining areas of mangroves in the world, which supports an exceptional biodiversity with a wide range of flora and fauna, including the Bengal Tiger and provides a significant example of on-going ecological processes (monsoon rains, flooding, delta formation, tidal influence and plant colonisation).</p>",
     year: 1997,
     longitude: 89.18333,
-    latitude: 21.95
+    latitude: 21.95,
     area_hectares: 139500.0
 });
     MERGE (s:Site {
@@ -714,7 +714,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: -59.61388889,
-    latitude: 13.09666667
+    latitude: 13.09666667,
     area_hectares: 187.0
 });
     MERGE (s:Site {
@@ -724,7 +724,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion iv:</em> The region in which Mir Castle stands has a long history of political and cultural confrontation and coalescence, which is graphically represented in the form and appearance of the ensemble.</p>",
     year: 2000,
     longitude: 26.47272222,
-    latitude: 53.45108333
+    latitude: 53.45108333,
     area_hectares: 27.0
 });
     MERGE (s:Site {
@@ -735,7 +735,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi): </em>The Radziwill family was particularly significant for being associated with the interpretation of the influences from Southern and Western Europe and the transmission of the ideas in the Central and Eastern Europe.</p>",
     year: 2005,
     longitude: 26.69139,
-    latitude: 53.22278
+    latitude: 53.22278,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -746,7 +746,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv)</em>: The b guinages constitute an outstanding example of an architectural ensemble associated with a religious movement characteristic of the Middle Ages associating both secular and conventual values.</p>",
     year: 1998,
     longitude: 4.47375,
-    latitude: 51.03097222
+    latitude: 51.03097222,
     area_hectares: 59.95
 });
     MERGE (s:Site {
@@ -756,7 +756,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> These boat-lifts represent the apogee of the application of engineering technology to the construction of canals.</p>",
     year: 1998,
     longitude: 4.13722,
-    latitude: 50.48111
+    latitude: 50.48111,
     area_hectares: 67.3436
 });
     MERGE (s:Site {
@@ -766,7 +766,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Through the nature and quality of its architecture and of its outstanding quality as a public open space, the Grand-Place illustrates in an exceptional way the evolution and achievements of a highly successful mercantile city of northern Europe at the height of its prosperity.</p>",
     year: 1998,
     longitude: 4.35242,
-    latitude: 50.84668
+    latitude: 50.84668,
     area_hectares: 1.48
 });
     MERGE (s:Site {
@@ -777,7 +777,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi): </em>The town of Brugge has been the birthplace of the Flemish Primitives and a centre of patronage and development of painting in the Middle Ages with artists such as Jan van Eyck and Hans Memling.</p>",
     year: 2000,
     longitude: 3.22527,
-    latitude: 51.20891
+    latitude: 51.20891,
     area_hectares: 410.0
 });
     MERGE (s:Site {
@@ -788,7 +788,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Town Houses of Victor Horta are outstanding examples of Art Nouveau architecture brilliantly illustrating the transition from the 19th to the 20th century in art, thought, and society.</p>",
     year: 2000,
     longitude: 4.36223,
-    latitude: 50.82806
+    latitude: 50.82806,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -799,7 +799,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The flint mines at Spiennes are outstanding examples of the Neolithic mining of flint, which marked a seminal stage of human technological and cultural progress.</p>",
     year: 2000,
     longitude: 3.97879,
-    latitude: 50.43077
+    latitude: 50.43077,
     area_hectares: 172.0
 });
     MERGE (s:Site {
@@ -809,7 +809,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> In its imposing dimensions, the Cathedral of Notre-Dame in Tournai is an outstanding example of the great edifices of the school of the north of the Seine, precursors of the vastness of the Gothic cathedrals.</p>",
     year: 2000,
     longitude: 3.38926,
-    latitude: 50.60603
+    latitude: 50.60603,
     area_hectares: 0.4963
 });
     MERGE (s:Site {
@@ -821,7 +821,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi): </em> The Plantin-Moretus complex is tangibly associated with ideas, beliefs, technologies and literary and artistic works of outstanding universal significance.</p>",
     year: 2005,
     longitude: 4.39778,
-    latitude: 51.21833
+    latitude: 51.21833,
     area_hectares: 0.23
 });
     MERGE (s:Site {
@@ -830,7 +830,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: 4.416111111,
-    latitude: 50.835
+    latitude: 50.835,
     area_hectares: 0.86
 });
     MERGE (s:Site {
@@ -839,7 +839,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 3.838333333,
-    latitude: 50.43527778
+    latitude: 50.43527778,
     area_hectares: 118.07
 });
     MERGE (s:Site {
@@ -848,7 +848,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed the Belize Barrier Reef Reserve System under natural <em>criteria (vii), (ix) and (x)</em> as the largest barrier reef in the Northern hemisphere, as a serial nomination consisting of seven sites. The Reef illustrates a classic example of reefs through fringing, barrier and atoll reef types.</p>",
     year: 1996,
     longitude: -87.05833333,
-    latitude: 16.75
+    latitude: 16.75,
     area_hectares: 96300.0
 });
     MERGE (s:Site {
@@ -857,7 +857,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 1.983333333,
-    latitude: 7.183333333
+    latitude: 7.183333333,
     area_hectares: 47.6
 });
     MERGE (s:Site {
@@ -866,7 +866,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -65.75306,
-    latitude: -19.58361
+    latitude: -19.58361,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -875,7 +875,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: -60.5,
-    latitude: -16.0
+    latitude: -16.0,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -884,7 +884,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: -65.25917,
-    latitude: -19.04306
+    latitude: -19.04306,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -894,7 +894,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>The buildings of Tiwanaku are exceptional examples of the ceremonial and public architecture and art of one of the most important manifestations of the civilizations of the Andean region.</p>",
     year: 2000,
     longitude: -68.67778,
-    latitude: -16.55833333
+    latitude: -16.55833333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -904,7 +904,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion iii:</em> Samaipata bears outstanding witness to the existence in this Andean region of a culture with highly developed religious traditions, illustrated dramatically in the form of immense rock sculptures.</p>",
     year: 1998,
     longitude: -63.81666667,
-    latitude: -18.16666667
+    latitude: -18.16666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -913,7 +913,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criteria (ix) and (x):</em> The site contains an array of habitat types including evergreen rainforests, palm forests, cerrado, swamps, savannahs, gallery forests, and semi-deciduous dry forests. The cerrado habitats found on the Huanchaca Meseta have been isolated for millions of years providing an ideal living laboratory for the study of the evolution of these ecosystems. The site also contains a high diversity of plant and animal species, including viable populations of many globally threatened large vertebrates.</p>",
     year: 2000,
     longitude: -60.86667,
-    latitude: -14.26667
+    latitude: -14.26667,
     area_hectares: 1523446.0
 });
     MERGE (s:Site {
@@ -922,7 +922,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (vi): </em>With the  renaissance  of the Old Bridge and its surroundings, the symbolic power and meaning of the City of Mostar - as an exceptional and universal symbol of coexistence of communities from diverse cultural, ethnic and religious backgrounds - has been reinforced and strengthened, underlining the unlimited efforts of human solidarity for peace and powerful co-operation in the face of overwhelming catastrophes.</p>",
     year: 2005,
     longitude: 17.81092,
-    latitude: 43.34812
+    latitude: 43.34812,
     area_hectares: 7.6
 });
     MERGE (s:Site {
@@ -931,7 +931,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 19.288025,
-    latitude: 43.78144444
+    latitude: 43.78144444,
     area_hectares: 1.5
 });
     MERGE (s:Site {
@@ -942,7 +942,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><strong>Criterion vi: </strong>The Tsodilo outcrops have immense symbolic and religious significance for the human communities who continue to survive in this hostile environment.</p>",
     year: 2001,
     longitude: 21.73333333,
-    latitude: -18.75
+    latitude: -18.75,
     area_hectares: 4800.0
 });
     MERGE (s:Site {
@@ -951,7 +951,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 22.9,
-    latitude: -19.28333333
+    latitude: -19.28333333,
     area_hectares: 2023590.0
 });
     MERGE (s:Site {
@@ -960,7 +960,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: -43.50555556,
-    latitude: -20.38888889
+    latitude: -20.38888889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -969,7 +969,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: -34.845,
-    latitude: -8.013333333
+    latitude: -8.013333333,
     area_hectares: 120.0
 });
     MERGE (s:Site {
@@ -978,7 +978,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -38.5,
-    latitude: -12.96666667
+    latitude: -12.96666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -987,7 +987,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -43.85777778,
-    latitude: -20.49972222
+    latitude: -20.49972222,
     area_hectares: 2.19
 });
     MERGE (s:Site {
@@ -996,7 +996,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -54.43333,
-    latitude: -25.68333
+    latitude: -25.68333,
     area_hectares: 169695.88
 });
     MERGE (s:Site {
@@ -1005,7 +1005,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -47.9,
-    latitude: -15.78333
+    latitude: -15.78333,
     area_hectares: 11268.92
 });
     MERGE (s:Site {
@@ -1014,7 +1014,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: -42.33333333,
-    latitude: -8.416666667
+    latitude: -8.416666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1023,7 +1023,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (iii), (iv) and (v), considering that the Historic Centre of S&atilde;o Luis do Maranh&atilde;o is an outstanding example of a Portuguese colonial town that adapted successfully to the climatic conditions in equatorial South America and which has preserved its urban fabric, harmoniously integrated with its natural setting, to an exceptional degree.</p>",
     year: 1997,
     longitude: -44.3025,
-    latitude: -2.514166667
+    latitude: -2.514166667,
     area_hectares: 66.65
 });
     MERGE (s:Site {
@@ -1032,7 +1032,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (ii) Diamantina shows how explorers of the Brazilian territory, diamond prospectors, and representatives of the Crown were able to adapt European models to an American context in the 18th century, thus creating a culture that was faithful to its roots yet completely original. Criterion (iv) The urban and architectural group of Diamantina, perfectly integrated into a wild landscape, is a fine example of an adventurous spirit combined with a quest for refinement so typical of human nature.</p>",
     year: 1999,
     longitude: -43.6,
-    latitude: -18.23333333
+    latitude: -18.23333333,
     area_hectares: 28.5
 });
     MERGE (s:Site {
@@ -1042,7 +1042,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> The site displays the biological richness and evolutionary history of the few remaining areas of Atlantic forest of northeast Brazil. The site reveals a pattern of evolution of great interest to science and importance for conservation. The fact that only these few scattered remnants of a once vast forest remain, make them an irreplaceable part of the world&rsquo;s forest heritage.</p>",
     year: 1999,
     longitude: -39.25,
-    latitude: -16.5
+    latitude: -16.5,
     area_hectares: 111930.0
 });
     MERGE (s:Site {
@@ -1051,7 +1051,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Atlantic Forests (Southeast) contain the best and largest remaining examples of Atlantic forest in the southeast region of Brazil. The 25 protected areas that make up the site display the biological richness and evolutionary history of the few remaining areas of Atlantic forest of southeast Brazil. The area is also exceptionally diverse with high numbers of rare and endemic species. With its &ldquo;mountains to the sea&rdquo; attitudinal gradient, its estuary, wild rivers, karst and numerous waterfalls, the site also has exceptional scenic values.</p>",
     year: 1999,
     longitude: -48.0,
-    latitude: -24.16667
+    latitude: -24.16667,
     area_hectares: 468193.0
 });
     MERGE (s:Site {
@@ -1061,7 +1061,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion iv:</em> Goi s represents the evolution of a form of urban structure and architecture characteristic of the colonial settlement of South America, making full use of local materials and techniques and conserving its exceptional setting.</p>",
     year: 2001,
     longitude: -50.13336,
-    latitude: -15.93328
+    latitude: -15.93328,
     area_hectares: 40.3
 });
     MERGE (s:Site {
@@ -1071,7 +1071,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> The expanded property substantially increases the already impressive protection offered by Ja&uacute; National Park to the biological diversity, habitats, and endangered species found in the Central Amazon region. The area is one of the Endemic Bird Areas of the World, is considered as one of the World Wildlife Fund&rsquo;s 200 Priority Ecoregion for Conservation, and it is also a Centre of Plant Diversity. The expansion of Ja&uacute; National Park to include an important sample of Varzea ecosystems, igap&oacute; forests, lakes and channels significantly increases the representation of the aquatic biodiversity of the Central Amazon region. Expansion of the site also enhance the protection of key threatened species including giant arapaima fish, the Amazonian manatee, the black caiman, and two species of river dolphin.</p>",
     year: 2000,
     longitude: -62.00833333,
-    latitude: -2.333333333
+    latitude: -2.333333333,
     area_hectares: 5323018.0
 });
     MERGE (s:Site {
@@ -1081,7 +1081,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>The site plays a key role in the dispersion of nutrients to the entire basin and is the most important reserve for maintaining fish stocks in the Pantanal. The area preserves habitats representative of the Pantanal that contain a number of globally threatened species. The area is a refuge for fauna as it is the only area of the Pantanal that remains partially inundated during the dry season.</p>",
     year: 2000,
     longitude: -57.38333,
-    latitude: -17.71667
+    latitude: -17.71667,
     area_hectares: 187818.0
 });
     MERGE (s:Site {
@@ -1092,7 +1092,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> FNNMP/AdRBR is a key site for the protection of biodiversity and endangered species in the Southern Atlantic. Providing a large proportion of the insular habitat of the South Atlantic, the site is a repository for the maintenance of marine biodiversity at the ocean basin level. It is important for the conservation of endangered and threatened species of marine turtles, particularly the hawksbill turtle. The site accommodates the largest concentration of tropical seabirds to be found in the Western Atlantic Ocean, and is a Global Centre of Bird Endemism. The site also contains the only remaining sample of the Insular Atlantic Forest and the only oceanic mangrove in the South Atlantic region.</p>",
     year: 2001,
     longitude: -32.42511111,
-    latitude: -3.857944444
+    latitude: -3.857944444,
     area_hectares: 42270.0
 });
     MERGE (s:Site {
@@ -1102,7 +1102,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> CAS contains samples of all key habitats that characterise the Cerrado ecoregion   one of Earth s oldest tropical ecosystems. It contains over 60% of all floral species and almost 80% of all vertebrate species described for the Cerrado. With the exception of the Giant Otter, all of the Cerrado s endangered large mammals occur in the site. In addition, the site supports many rare small mammals and bird species that do not occur elsewhere in the Cerrado and a number of species new to science have been discovered in CPA.</p>",
     year: 2001,
     longitude: -47.68461111,
-    latitude: -14.00569444
+    latitude: -14.00569444,
     area_hectares: 367356.0
 });
     MERGE (s:Site {
@@ -1111,7 +1111,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: -43.29138889,
-    latitude: -22.94777778
+    latitude: -22.94777778,
     area_hectares: 7248.78
 });
     MERGE (s:Site {
@@ -1120,7 +1120,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: -37.21,
-    latitude: -11.01611111
+    latitude: -11.01611111,
     area_hectares: 3.0
 });
     MERGE (s:Site {
@@ -1129,7 +1129,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: -43.97361111,
-    latitude: -19.85194444
+    latitude: -19.85194444,
     area_hectares: 154.0
 });
     MERGE (s:Site {
@@ -1138,7 +1138,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: -43.18739444,
-    latitude: -22.89711111
+    latitude: -22.89711111,
     area_hectares: 0.3895
 });
     MERGE (s:Site {
@@ -1147,7 +1147,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 23.26666667,
-    latitude: 42.65
+    latitude: 42.65,
     area_hectares: 0.68
 });
     MERGE (s:Site {
@@ -1156,7 +1156,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 27.15,
-    latitude: 43.3
+    latitude: 43.3,
     area_hectares: 1.2
 });
     MERGE (s:Site {
@@ -1165,7 +1165,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 25.4,
-    latitude: 42.61666667
+    latitude: 42.61666667,
     area_hectares: 0.0155
 });
     MERGE (s:Site {
@@ -1174,7 +1174,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 25.96666667,
-    latitude: 43.71666667
+    latitude: 43.71666667,
     area_hectares: 171.9
 });
     MERGE (s:Site {
@@ -1183,7 +1183,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 23.4,
-    latitude: 42.11666667
+    latitude: 42.11666667,
     area_hectares: 10.7
 });
     MERGE (s:Site {
@@ -1192,7 +1192,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 27.73,
-    latitude: 42.65611
+    latitude: 42.65611,
     area_hectares: 27.1
 });
     MERGE (s:Site {
@@ -1201,7 +1201,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 27.07806,
-    latitude: 44.11444
+    latitude: 44.11444,
     area_hectares: 638.0
 });
     MERGE (s:Site {
@@ -1210,7 +1210,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 23.43047222,
-    latitude: 41.74272222
+    latitude: 41.74272222,
     area_hectares: 38350.04
 });
     MERGE (s:Site {
@@ -1219,7 +1219,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 26.66667,
-    latitude: 43.66667
+    latitude: 43.66667,
     area_hectares: 647.6
 });
     MERGE (s:Site {
@@ -1228,7 +1228,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: -3.583333333,
-    latitude: 10.25
+    latitude: 10.25,
     area_hectares: 1.113
 });
     MERGE (s:Site {
@@ -1237,7 +1237,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: -23.60519444,
-    latitude: 14.91513889
+    latitude: 14.91513889,
     area_hectares: 209.1
 });
     MERGE (s:Site {
@@ -1246,7 +1246,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 103.8333333,
-    latitude: 13.43333333
+    latitude: 13.43333333,
     area_hectares: 40100.0
 });
     MERGE (s:Site {
@@ -1255,7 +1255,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 104.6838889,
-    latitude: 14.38833333
+    latitude: 14.38833333,
     area_hectares: 154.7
 });
     MERGE (s:Site {
@@ -1264,7 +1264,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 105.0430556,
-    latitude: 12.8725
+    latitude: 12.8725,
     area_hectares: 840.03
 });
     MERGE (s:Site {
@@ -1273,7 +1273,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 13.0,
-    latitude: 3.0
+    latitude: 3.0,
     area_hectares: 526000.0
 });
     MERGE (s:Site {
@@ -1282,7 +1282,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: -55.61666667,
-    latitude: 51.46666667
+    latitude: 51.46666667,
     area_hectares: 7991.0
 });
     MERGE (s:Site {
@@ -1291,7 +1291,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: -125.5894444,
-    latitude: 61.54722222
+    latitude: 61.54722222,
     area_hectares: 476560.0
 });
     MERGE (s:Site {
@@ -1300,7 +1300,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -111.4922222,
-    latitude: 50.76777778
+    latitude: 50.76777778,
     area_hectares: 7825.0
 });
     MERGE (s:Site {
@@ -1309,7 +1309,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -131.2202778,
-    latitude: 52.095
+    latitude: 52.095,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1318,7 +1318,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -113.6238889,
-    latitude: 49.74944444
+    latitude: 49.74944444,
     area_hectares: 4000.0
 });
     MERGE (s:Site {
@@ -1327,7 +1327,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -112.2933333,
-    latitude: 59.35833333
+    latitude: 59.35833333,
     area_hectares: 4480000.0
 });
     MERGE (s:Site {
@@ -1336,7 +1336,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -71.21055556,
-    latitude: 46.80944444
+    latitude: 46.80944444,
     area_hectares: 135.0
 });
     MERGE (s:Site {
@@ -1345,7 +1345,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -116.4797222,
-    latitude: 51.42472222
+    latitude: 51.42472222,
     area_hectares: 2299104.0
 });
     MERGE (s:Site {
@@ -1354,7 +1354,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -57.53138889,
-    latitude: 49.6125
+    latitude: 49.6125,
     area_hectares: 180500.0
 });
     MERGE (s:Site {
@@ -1363,7 +1363,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (viii):</em> In its representation of vertebrate life, Miguasha is the most outstanding fossil site in the world for illustrating the Devonian as the  Age of Fishes . The area is of paramount importance in having the greatest number and best preserved fossil specimens found anywhere in the world of the lobe-finned fishes that gave rise to the first four-legged, air-breathing terrestrial vertebrates - the tetrapodes.</p>",
     year: 1999,
     longitude: -66.35305556,
-    latitude: 48.105
+    latitude: 48.105,
     area_hectares: 87.3
 });
     MERGE (s:Site {
@@ -1372,7 +1372,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -64.30916667,
-    latitude: 44.37611111
+    latitude: 44.37611111,
     area_hectares: 33.85
 });
     MERGE (s:Site {
@@ -1381,7 +1381,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: -75.765125,
-    latitude: 44.99438611
+    latitude: 44.99438611,
     area_hectares: 21454.81
 });
     MERGE (s:Site {
@@ -1390,7 +1390,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: -64.43583333,
-    latitude: 45.70972222
+    latitude: 45.70972222,
     area_hectares: 689.0
 });
     MERGE (s:Site {
@@ -1399,7 +1399,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p align=left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary natural challenges and cultural ordeals.</p>""p align="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary natural challenges and cultural ord"" align="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary natural challenges and cult""align="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary natural challenges a""lign="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary natural challe""ign="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary natural c""gn="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary natur""n="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary na""="left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary """left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary""left">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordinary""eft">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extraordi""ft">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extrao""t">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome extr""">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome ext"">The Landscape of Grand Pr&eacute; is an outstanding example and enduring model of the human capacity to overcome ext"",
     year: 2012,
     longitude: -64.30722222,
-    latitude: 45.11833333
+    latitude: 45.11833333,
     area_hectares: 1323.24
 });
     MERGE (s:Site {
@@ -1408,7 +1408,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: -56.42952222,
-    latitude: 51.726925
+    latitude: 51.726925,
     area_hectares: 312.973
 });
     MERGE (s:Site {
@@ -1417,7 +1417,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: -95.41127778,
-    latitude: 51.82641667
+    latitude: 51.82641667,
     area_hectares: 2904000.0
 });
     MERGE (s:Site {
@@ -1426,7 +1426,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: -53.21111111,
-    latitude: 46.635
+    latitude: 46.635,
     area_hectares: 146.0
 });
     MERGE (s:Site {
@@ -1435,7 +1435,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 21.5,
-    latitude: 9.0
+    latitude: 9.0,
     area_hectares: 1740000.0
 });
     MERGE (s:Site {
@@ -1444,7 +1444,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 20.50555556,
-    latitude: 19.055
+    latitude: 19.055,
     area_hectares: 62808.0
 });
     MERGE (s:Site {
@@ -1453,7 +1453,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 21.86277778,
-    latitude: 17.04166667
+    latitude: 17.04166667,
     area_hectares: 2441200.0
 });
     MERGE (s:Site {
@@ -1462,7 +1462,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -109.45,
-    latitude: -27.15
+    latitude: -27.15,
     area_hectares: 6666.0
 });
     MERGE (s:Site {
@@ -1471,7 +1471,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii: Valpara&iacute;so is an exceptional testimony to the early phase of globalisation in the late 19th century, when it became the leading merchant port on the sea routes of the Pacific coast of South America.</p>",
     year: 2003,
     longitude: -71.628,
-    latitude: -33.04063889
+    latitude: -33.04063889,
     area_hectares: 23.2
 });
     MERGE (s:Site {
@@ -1481,7 +1481,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (iii): The mestizo culture resulting from Jesuit missionary activities in the 17th and 18th centuries has survived intact in the Chilo&eacute; archipelago, and achieves its highest expression in the outstanding wooden churches.</p>",
     year: 2000,
     longitude: -73.76666667,
-    latitude: -42.5
+    latitude: -42.5,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1492,7 +1492,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>The saltpeter mines in the north of Chile together became the largest producers of natural saltpeter in the world, transforming the Pampa and indirectly the agricultural lands that benefited from the fertilisers the works produced. The two works represent this transformation process.</p>",
     year: 2005,
     longitude: -69.79406,
-    latitude: -20.20582
+    latitude: -20.20582,
     area_hectares: 573.48
 });
     MERGE (s:Site {
@@ -1501,7 +1501,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: -70.38277778,
-    latitude: -34.08444444
+    latitude: -34.08444444,
     area_hectares: 17.2
 });
     MERGE (s:Site {
@@ -1510,7 +1510,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 117.1,
-    latitude: 36.26667
+    latitude: 36.26667,
     area_hectares: 25000.0
 });
     MERGE (s:Site {
@@ -1519,7 +1519,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 116.08333,
-    latitude: 40.41667
+    latitude: 40.41667,
     area_hectares: 2151.55
 });
     MERGE (s:Site {
@@ -1531,7 +1531,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Imperial Palaces provide outstanding examples of the greatest palatial architectural ensembles in China. They illustrate the grandeur of the imperial institution from the Qing Dynasty to the earlier Ming and Yuan dynasties, as well as Manchu traditions, and present evidence on the evolution of this architecture in the 17th and 18th centuries.</p>",
     year: 1987,
     longitude: 123.4469444,
-    latitude: 41.79416667
+    latitude: 41.79416667,
     area_hectares: 12.96
 });
     MERGE (s:Site {
@@ -1540,7 +1540,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 94.81667,
-    latitude: 40.13333
+    latitude: 40.13333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1549,7 +1549,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 109.1,
-    latitude: 34.38333333
+    latitude: 34.38333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1558,7 +1558,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 115.9166667,
-    latitude: 39.73333333
+    latitude: 39.73333333,
     area_hectares: 480.0
 });
     MERGE (s:Site {
@@ -1567,7 +1567,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 118.18333,
-    latitude: 30.16667
+    latitude: 30.16667,
     area_hectares: 16060.0
 });
     MERGE (s:Site {
@@ -1576,7 +1576,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 103.91667,
-    latitude: 33.08333
+    latitude: 33.08333,
     area_hectares: 72000.0
 });
     MERGE (s:Site {
@@ -1585,7 +1585,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 103.82222,
-    latitude: 32.75417
+    latitude: 32.75417,
     area_hectares: 60000.0
 });
     MERGE (s:Site {
@@ -1594,7 +1594,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 110.5,
-    latitude: 29.33333
+    latitude: 29.33333,
     area_hectares: 26400.0
 });
     MERGE (s:Site {
@@ -1603,7 +1603,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 117.93833,
-    latitude: 40.98694
+    latitude: 40.98694,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1612,7 +1612,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 116.975,
-    latitude: 35.61167
+    latitude: 35.61167,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1621,7 +1621,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 111.0,
-    latitude: 32.46667
+    latitude: 32.46667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1630,7 +1630,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 91.11717,
-    latitude: 29.65792
+    latitude: 29.65792,
     area_hectares: 60.5
 });
     MERGE (s:Site {
@@ -1639,7 +1639,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of cultural cultural criteria (ii), (iii), (iv) and (vi) as a cultural landscape of outstanding aesthetic value and its powerful associations with Chinese spiritual and cultural life.</p>",
     year: 1996,
     longitude: 115.8666667,
-    latitude: 29.43333333
+    latitude: 29.43333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1648,7 +1648,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property under cultural criteria (iv) and (vi) considering the area of Mt. Emei is of exceptional cultural significance, since it is the place where Buddhism first became established on Chinese territory and from where it spread widely throughout the east. It is also an area of natural beauty into which the human element has been integrated, and natural criterion (x) for its high plant species diversity with a large number of endemic species. It also underlined the importance of the link between the tangible and intangible, the natural and the cultural.</p>",
     year: 1996,
     longitude: 103.76925,
-    latitude: 29.5449
+    latitude: 29.5449,
     area_hectares: 15400.0
 });
     MERGE (s:Site {
@@ -1657,7 +1657,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of cultural criteria (ii), (iv) and (v). Lijiang is an exceptional ancient town set in a dramatic landscape which represents the harmonious fusion of different cultural traditions to produce an urban landscape of outstanding quality.</p>",
     year: 1997,
     longitude: 100.23333,
-    latitude: 26.86667
+    latitude: 26.86667,
     area_hectares: 145.6
 });
     MERGE (s:Site {
@@ -1666,7 +1666,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii), (iii) and (iv), considering that the Ancient City of Ping Yao is an outstanding example of a Han Chinese city of the Ming and Qing Dynasties (14th-20th centuries) that has retained all its features to an exceptional degree and in doing so provides a remarkably complete picture of cultural, social, economic, and religious development during one of the most seminal periods of Chinese history.</p>",
     year: 1997,
     longitude: 112.15444,
-    latitude: 37.20139
+    latitude: 37.20139,
     area_hectares: 245.62
 });
     MERGE (s:Site {
@@ -1675,7 +1675,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (i), (ii), (iii), (iv) and (v), considering that the four classical gardens of Suzhou are masterpieces of Chinese landscape garden design in which art, nature, and ideas are integrated perfectly to create ensembles of great beauty and peaceful harmony, and four gardens are integral to the entire historic urban plan.</p>",
     year: 1997,
     longitude: 120.45,
-    latitude: 31.31666667
+    latitude: 31.31666667,
     area_hectares: 11.922
 });
     MERGE (s:Site {
@@ -1684,7 +1684,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion i: The Summer Palace in Beijing is an outstanding expression of the creative art of Chinese landscape garden design, incorporating the works of humankind and nature in a harmonious whole. Criterion ii: The Summer Palace epitomizes the philosophy and practice of Chinese garden design, which played a key role in the development of this cultural form throughout the East. Criterion iii: The imperial Chinese garden, illustrated by the Summer Palace, is a potent symbol of one of the major world civilizations.</p>",
     year: 1998,
     longitude: 116.1411111,
-    latitude: 39.91055556
+    latitude: 39.91055556,
     area_hectares: 297.0
 });
     MERGE (s:Site {
@@ -1693,7 +1693,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion i: The Temple of Heaven is a masterpiece of architecture and landscape design which simply and graphically illustrates a cosmogony of great importance for the evolution of one of the world&rsquo;s great civilizations. Criterion ii: The symbolic layout and design of the Temple of Heaven had a profound influence on architecture and planning in the Far East over many centuries. Criterion iii: For more than two thousand years China was ruled by a series of feudal dynasties, the legitimacy of which is symbolized by the design and layout of the Temple of Heaven.</p>",
     year: 1998,
     longitude: 116.4447222,
-    latitude: 39.84555556
+    latitude: 39.84555556,
     area_hectares: 215.0
 });
     MERGE (s:Site {
@@ -1704,7 +1704,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Cultural Criterion (vi): Mount Wuyi was the cradle of Neo-Confucianism, a doctrine that played a dominant role in the countries of Eastern and South-Eastern Asia for many centuries and influenced philosophy and government over much of the world.</p>",
     year: 1999,
     longitude: 117.68333,
-    latitude: 27.71667
+    latitude: 27.71667,
     area_hectares: 107044.0
 });
     MERGE (s:Site {
@@ -1715,7 +1715,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (iii): The eclectic nature of religious belief in later Imperial China is given material expression in the exceptional artistic heritage of the Dazu rock art.</p>",
     year: 1999,
     longitude: 105.705,
-    latitude: 29.70111
+    latitude: 29.70111,
     area_hectares: 20.41
 });
     MERGE (s:Site {
@@ -1726,7 +1726,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (vi): The temples of Mount Qingcheng are closely associated with the foundation of Taoism, one of the most influential religions of East Asia over a long period of history.</p>",
     year: 2000,
     longitude: 103.60528,
-    latitude: 31.00167
+    latitude: 31.00167,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -1737,7 +1737,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (v): The traditional non-urban settlements of China, which have to a very large extent disappeared during the past century, are exceptionally well preserved in the villages of Xidi and Hongcun.</p>",
     year: 2000,
     longitude: 117.9875,
-    latitude: 29.90444444
+    latitude: 29.90444444,
     area_hectares: 52.0
 });
     MERGE (s:Site {
@@ -1748,7 +1748,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (iii): The high cultural level and sophisticated society of Tang Dynasty China is encapsulated in the exceptional stone carvings of the Longmen Grottoes.</p>",
     year: 2000,
     longitude: 112.4666667,
-    latitude: 34.46666667
+    latitude: 34.46666667,
     area_hectares: 331.0
 });
     MERGE (s:Site {
@@ -1759,7 +1759,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The Ming and Qing Tombs are dazzling illustrations of the beliefs, world view, and geomantic theories of Fengshui prevalent in feudal China. They have served as burial edifices for illustrious personages and as the theatre for major events that have marked the history of China.</p>",
     year: 2000,
     longitude: 124.7938889,
-    latitude: 41.70722222
+    latitude: 41.70722222,
     area_hectares: 3434.9399
 });
     MERGE (s:Site {
@@ -1771,7 +1771,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (iv): The Buddhist tradition of religious cave art achieved its first major impact at Yungang, where it developed its own distinct character and artistic power.</p>",
     year: 2001,
     longitude: 113.12222,
-    latitude: 40.10972
+    latitude: 40.10972,
     area_hectares: 348.75
 });
     MERGE (s:Site {
@@ -1783,7 +1783,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (x): Biodiversity and threatened species Northwest Yunnan is the area of richest biodiversity in China and may be the most biologically diverse temperate region on earth. The site encompasses most of the natural habitats in the Hengduan Mountains, one of the world's most important remaining areas for the conservation of the earth's biodiversity. The outstanding topographic and climatic diversity of the site, coupled with its location at the juncture of the East Asia, Southeast Asia, and Tibetan Plateau biogeographical realms and its function as a N-S corridor for the movement of plants and animals (especially during the ice ages), marks it as a truly unique landscape, which still retains a high degree of natural character despite thousands of years of human habitation. As the last remaining stronghold for an extensive suite of rare and endangered plants and animals, the site is of outstanding universal value.</p>",
     year: 2003,
     longitude: 98.40638889,
-    latitude: 27.895
+    latitude: 27.895,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -1795,7 +1795,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi): </em> Macao has been associated with the exchange of a variety of cultural, spiritual, scientific and technical influences between the Western and Chinese civilisations. These ideas directly motivated the introduction of crucial changes in China, ultimately ending the era of imperial feudal system and establishing the modern republic.</p>",
     year: 2005,
     longitude: 113.5364611,
-    latitude: 22.19129194
+    latitude: 22.19129194,
     area_hectares: 16.1678
 });
     MERGE (s:Site {
@@ -1804,7 +1804,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 102.7799806,
-    latitude: 23.09327778
+    latitude: 23.09327778,
     area_hectares: 16603.22
 });
     MERGE (s:Site {
@@ -1813,7 +1813,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 112.5658611,
-    latitude: 22.28551944
+    latitude: 22.28551944,
     area_hectares: 371.948
 });
     MERGE (s:Site {
@@ -1822,7 +1822,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 117.6858333,
-    latitude: 25.02305556
+    latitude: 25.02305556,
     area_hectares: 152.65
 });
     MERGE (s:Site {
@@ -1831,7 +1831,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 114.3138889,
-    latitude: 36.12666667
+    latitude: 36.12666667,
     area_hectares: 414.0
 });
     MERGE (s:Site {
@@ -1844,7 +1844,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The capital cities of the Koguryo Kingdom represent a perfect blending of human creation and nature whether with the rocks or with forests and rivers.</p>",
     year: 2004,
     longitude: 126.1872222,
-    latitude: 41.15694444
+    latitude: 41.15694444,
     area_hectares: 4164.8599
 });
     MERGE (s:Site {
@@ -1853,7 +1853,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 103.0,
-    latitude: 30.83333333
+    latitude: 30.83333333,
     area_hectares: 924500.0
 });
     MERGE (s:Site {
@@ -1862,7 +1862,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 110.3544444,
-    latitude: 24.92333333
+    latitude: 24.92333333,
     area_hectares: 49537.0
 });
     MERGE (s:Site {
@@ -1871,7 +1871,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: 113.5633333,
-    latitude: 39.03055556
+    latitude: 39.03055556,
     area_hectares: 18415.0
 });
     MERGE (s:Site {
@@ -1880,7 +1880,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 118.0644444,
-    latitude: 28.91583333
+    latitude: 28.91583333,
     area_hectares: 22950.0
 });
     MERGE (s:Site {
@@ -1889,7 +1889,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 113.0677194,
-    latitude: 34.45874722
+    latitude: 34.45874722,
     area_hectares: 825.0
 });
     MERGE (s:Site {
@@ -1900,7 +1900,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 120.1408333,
-    latitude: 30.2375
+    latitude: 30.2375,
     area_hectares: 3322.88
 });
     MERGE (s:Site {
@@ -1909,7 +1909,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 106.0425,
-    latitude: 28.42194444
+    latitude: 28.42194444,
     area_hectares: 82151.0
 });
     MERGE (s:Site {
@@ -1918,7 +1918,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 102.9772222,
-    latitude: 24.66888889
+    latitude: 24.66888889,
     area_hectares: 512.0
 });
     MERGE (s:Site {
@@ -1927,7 +1927,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 116.1851278,
-    latitude: 42.358
+    latitude: 42.358,
     area_hectares: 25131.27
 });
     MERGE (s:Site {
@@ -1936,7 +1936,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 80.35416667,
-    latitude: 41.96833333
+    latitude: 41.96833333,
     area_hectares: 606833.0
 });
     MERGE (s:Site {
@@ -1945,7 +1945,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 112.4683333,
-    latitude: 34.69388889
+    latitude: 34.69388889,
     area_hectares: 20819.11
 });
     MERGE (s:Site {
@@ -1954,7 +1954,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 109.9669444,
-    latitude: 28.99861111
+    latitude: 28.99861111,
     area_hectares: 781.28
 });
     MERGE (s:Site {
@@ -1963,7 +1963,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 107.0230556,
-    latitude: 22.25555556
+    latitude: 22.25555556,
     area_hectares: 6621.6
 });
     MERGE (s:Site {
@@ -1972,7 +1972,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 110.2438889,
-    latitude: 31.46972222
+    latitude: 31.46972222,
     area_hectares: 73318.0
 });
     MERGE (s:Site {
@@ -1981,7 +1981,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 118.0619444,
-    latitude: 24.4475
+    latitude: 24.4475,
     area_hectares: 316.2
 });
     MERGE (s:Site {
@@ -1990,7 +1990,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 108.68,
-    latitude: 27.89555556
+    latitude: 27.89555556,
     area_hectares: 40275.0
 });
     MERGE (s:Site {
@@ -1999,7 +1999,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -75.53333333,
-    latitude: 10.41666667
+    latitude: 10.41666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2008,7 +2008,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: -77.0,
-    latitude: 7.666666667
+    latitude: 7.666666667,
     area_hectares: 72000.0
 });
     MERGE (s:Site {
@@ -2017,7 +2017,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -74.43333333,
-    latitude: 9.233333333
+    latitude: 9.233333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2026,7 +2026,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -76.03333333,
-    latitude: 2.583333333
+    latitude: 2.583333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2035,7 +2035,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -76.23333333,
-    latitude: 1.916666667
+    latitude: 1.916666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2044,7 +2044,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: -75.68166667,
-    latitude: 5.471666667
+    latitude: 5.471666667,
     area_hectares: 141120.0
 });
     MERGE (s:Site {
@@ -2053,7 +2053,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: -72.79722222,
-    latitude: 0.525277778
+    latitude: 0.525277778,
     area_hectares: 2782354.0
 });
     MERGE (s:Site {
@@ -2062,7 +2062,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: -81.61666667,
-    latitude: 3.966666667
+    latitude: 3.966666667,
     area_hectares: 857500.0
 });
     MERGE (s:Site {
@@ -2071,7 +2071,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed Cocos Island National Park under natural criteria (ix) and (x) because of the critical habitats the site provides for marine wildlife including large pelagic species, especially sharks.</p>",
     year: 1997,
     longitude: -87.06666667,
-    latitude: 5.533333333
+    latitude: 5.533333333,
     area_hectares: 199790.0
 });
     MERGE (s:Site {
@@ -2080,7 +2080,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1999,
     longitude: -85.61666667,
-    latitude: 10.85
+    latitude: 10.85,
     area_hectares: 147000.0
 });
     MERGE (s:Site {
@@ -2089,7 +2089,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: -83.4775,
-    latitude: 8.911388889
+    latitude: 8.911388889,
     area_hectares: 24.73
 });
     MERGE (s:Site {
@@ -2098,7 +2098,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: -7.66667,
-    latitude: 5.75
+    latitude: 5.75,
     area_hectares: 330000.0
 });
     MERGE (s:Site {
@@ -2107,7 +2107,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -4.0,
-    latitude: 9.0
+    latitude: 9.0,
     area_hectares: 1150000.0
 });
     MERGE (s:Site {
@@ -2116,7 +2116,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 3.736388889,
-    latitude: 5.195833333
+    latitude: 5.195833333,
     area_hectares: 109.89
 });
     MERGE (s:Site {
@@ -2125,7 +2125,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 18.09139,
-    latitude: 42.65056
+    latitude: 42.65056,
     area_hectares: 96.7
 });
     MERGE (s:Site {
@@ -2134,7 +2134,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 16.44333,
-    latitude: 43.50944
+    latitude: 43.50944,
     area_hectares: 20.8
 });
     MERGE (s:Site {
@@ -2143,7 +2143,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 15.61444,
-    latitude: 44.87778
+    latitude: 44.87778,
     area_hectares: 29630.77
 });
     MERGE (s:Site {
@@ -2152,7 +2152,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii), (iii) and (iv), considering that the Episcopal complex of the Euphrasian Basilica in the historic centre of Porec is an outstanding example of an early Christian episcopal ensemble that is exceptional by virtue of its completeness and its unique Basilican cathedral.</p>",
     year: 1997,
     longitude: 13.59444,
-    latitude: 45.22917
+    latitude: 45.22917,
     area_hectares: 1.1
 });
     MERGE (s:Site {
@@ -2161,7 +2161,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii) and (iv), considering that Trogir is an excellent example of a medieval town built on and conforming with the layout of a Hellenistic and Roman city that has conserved its urban fabric to an exceptional degree and with the minimum of modern interventions, in which the trajectory of social and cultural development is clearly visible in every aspect of the townscape.</p>",
     year: 1997,
     longitude: 16.25167,
-    latitude: 43.5125
+    latitude: 43.5125,
     area_hectares: 6.4
 });
     MERGE (s:Site {
@@ -2170,7 +2170,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><strong>Criterion (i):</strong> The structural characteristics of the Cathedral of St James in &Scaron;ibenik make it a unique and outstanding building in which Gothic and Renaissance forms have been successfully blended. Criterion ii The Cathedral of St James is the fruitful outcome of considerable interchanges of influences between the three culturally different regions of Northern Italy, Dalmatia, and Tuscany in the 15th and 16th centuries. These interchanges created the conditions for unique and outstanding solutions to the technical and structural problems of constructing the cathedral vaulting and dome. Criterion iv The Cathedral of St James in &Scaron;ibenik is a unique testimony to the transition from the Gothic to the Renaissance period in church architecture.</p>",
     year: 2000,
     longitude: 15.89038,
-    latitude: 43.73629
+    latitude: 43.73629,
     area_hectares: 0.1
 });
     MERGE (s:Site {
@@ -2179,7 +2179,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 16.63861111,
-    latitude: 43.18166667
+    latitude: 43.18166667,
     area_hectares: 1376.53
 });
     MERGE (s:Site {
@@ -2188,7 +2188,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: -82.35,
-    latitude: 23.13333333
+    latitude: 23.13333333,
     area_hectares: 238.7
 });
     MERGE (s:Site {
@@ -2197,7 +2197,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -79.98444444,
-    latitude: 21.80305556
+    latitude: 21.80305556,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2207,7 +2207,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> AHNP contains the most important and significant natural habitats for in-situ conservation of terrestrial biological diversity in the entire insular Caribbean. It contains 16 of 28 plant formations defined for Cuba, the largest island in the Caribbean, which is a unique biogeographic province. It is one of the most important sites for conservation of endemic flora in the entire Western Hemisphere &ndash; nearly 70% of the 1,302 spermatophytes already described, of an estimated total of 1,800-2,000, are endemic to the park. AHNP is one of the most biologically diverse terrestrial tropical ecosystems in an island setting anywhere on earth. Endemism rates for vertebrates and invertebrates found in the park are also very high. Many of these are threatened because of their small range. Because of their uniqueness and the fact that they represent unique evolutionary processes, they are of outstanding universal value from the point of view of science and conservation.</p>",
     year: 2001,
     longitude: -75.0,
-    latitude: 20.45
+    latitude: 20.45,
     area_hectares: 71140.0
 });
     MERGE (s:Site {
@@ -2216,7 +2216,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (iv):The Vi&ntilde;ales valley is an outstanding karst landscape in which traditional methods of agriculture (notably tobacco growing) have survived unchanged for several centuries. The region also preserves a rich vernacular tradition in its architecture, its crafts, and its music.</p>",
     year: 1999,
     longitude: -83.71667,
-    latitude: 22.61667
+    latitude: 22.61667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2225,7 +2225,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (iv) and (v), considering that the Castle of San Pedro de la Roca and its associated defensive works are of exceptional value because they constitute the largest and most comprehensive example of the principles of Renaissance military engineering adapted to the requirements of European colonial powers in the Caribbean.</p>",
     year: 1997,
     longitude: -75.87083333,
-    latitude: 19.96666667
+    latitude: 19.96666667,
     area_hectares: 93.88
 });
     MERGE (s:Site {
@@ -2234,7 +2234,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The uplifted marine terraces of the Desembarco del Granma National Park and associated ongoing development of karst topography and features, represent a globally significant example of geomorphologic and physiographic features and ongoing geological processes. The area includes spectacular stair-step terraces and cliffs and the ecosystems that have evolved on them, as well as some of the most pristine and impressive coastal cliffs bordering the Western Atlantic between the Canadian Maritimes and southern South America.</p>",
     year: 1999,
     longitude: -77.63333,
-    latitude: 19.88333
+    latitude: 19.88333,
     area_hectares: 41863.0
 });
     MERGE (s:Site {
@@ -2243,7 +2243,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii The remains of the 19th and early 20th century coffee plantations in eastern Cuba are unique and eloquent testimony to a form of agricultural exploitation of virgin forest, the traces of which have disappeared elsewhere in the world. Criterion iv The production of coffee in eastern Cuba during the 19th and early 20th centuries resulted in the creation of a unique cultural landscape, illustrating a significant stage in the development of this form of agriculture.</p>",
     year: 2000,
     longitude: -75.39138889,
-    latitude: 20.03
+    latitude: 20.03,
     area_hectares: 81475.0
 });
     MERGE (s:Site {
@@ -2253,7 +2253,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>Cienfuegos is the first and an outstanding example of an architectural ensemble representing the new ideas of modernity, hygiene and order, in urban planning as these developed in the Latin America from the 19th century.</p>",
     year: 2005,
     longitude: -80.45278,
-    latitude: 22.14722
+    latitude: 22.14722,
     area_hectares: 70.0
 });
     MERGE (s:Site {
@@ -2262,7 +2262,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: -77.91861111,
-    latitude: 21.37861111
+    latitude: 21.37861111,
     area_hectares: 54.0
 });
     MERGE (s:Site {
@@ -2271,7 +2271,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 32.40556,
-    latitude: 34.75833
+    latitude: 34.75833,
     area_hectares: 162.0171
 });
     MERGE (s:Site {
@@ -2280,7 +2280,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 33.09583333,
-    latitude: 34.92027778
+    latitude: 34.92027778,
     area_hectares: 3.693
 });
     MERGE (s:Site {
@@ -2289,7 +2289,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (ii):</em> In the prehistoric period, Cyprus played a key role in the transmission of culture from the Near East to the European world. Criterion (iii): Choirokhoitia is an exceptionally well preserved archaeological site that has provided, and will continue to provide, scientific data of great importance relating to the spread of civilization from Asia to the Mediterranean world. Criterion (iv): Both the excavated remains and the untouched part of Choirokhoitia demonstrate clearly the origins of proto-urban settlement in the Mediterranean region and beyond.</p>",
     year: 1998,
     longitude: 33.34333,
-    latitude: 34.79833
+    latitude: 34.79833,
     area_hectares: 6.2
 });
     MERGE (s:Site {
@@ -2298,7 +2298,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 14.41944,
-    latitude: 50.08972
+    latitude: 50.08972,
     area_hectares: 1106.36
 });
     MERGE (s:Site {
@@ -2307,7 +2307,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 14.31666667,
-    latitude: 48.81666667
+    latitude: 48.81666667,
     area_hectares: 51.91
 });
     MERGE (s:Site {
@@ -2316,7 +2316,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 15.45,
-    latitude: 49.18333
+    latitude: 49.18333,
     area_hectares: 36.0
 });
     MERGE (s:Site {
@@ -2325,7 +2325,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 15.94205833,
-    latitude: 49.5802
+    latitude: 49.5802,
     area_hectares: 0.64
 });
     MERGE (s:Site {
@@ -2334,7 +2334,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 15.26666667,
-    latitude: 49.95
+    latitude: 49.95,
     area_hectares: 62.437
 });
     MERGE (s:Site {
@@ -2343,7 +2343,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (i),(ii) and (iv) considering that the site is of outstanding universal value being a cultural landscape which is an exceptional example of the designed landscape that evolved in the Enlightenment and afterwards under the care of a single family. It succeeds in bringing together in harmony cultural monuments from successive periods and both indigenous and exotic natural elements to create an outstanding work of human creativity. The Committee decided to include criterion (i) to the proposed criteria since the ensemble is an outstanding example of human creativity.</p>",
     year: 1996,
     longitude: 16.775,
-    latitude: 48.77583
+    latitude: 48.77583,
     area_hectares: 14320.0
 });
     MERGE (s:Site {
@@ -2353,7 +2353,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Holy Trinity Column constituted a unique material demonstration of religious faith in central Europe during the Baroque period, and the Olomouc example represents its most outstanding expression.</p>",
     year: 2000,
     longitude: 17.25045833,
-    latitude: 49.59393611
+    latitude: 49.59393611,
     area_hectares: 0.05
 });
     MERGE (s:Site {
@@ -2363,7 +2363,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Gardens and Castle at Krom     are an exceptionally complete and well preserved example of a princely residence and its associated landscape of the 17th and 18th centuries.</p>",
     year: 1998,
     longitude: 17.37722222,
-    latitude: 49.3
+    latitude: 49.3,
     area_hectares: 74.5
 });
     MERGE (s:Site {
@@ -2373,7 +2373,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The exceptional completeness and excellent preservation of Holasovice and its buildings make it an outstanding example of traditional rural settlement in central Europe.</p>",
     year: 1998,
     longitude: 14.25277778,
-    latitude: 48.95972222
+    latitude: 48.95972222,
     area_hectares: 11.4
 });
     MERGE (s:Site {
@@ -2383,7 +2383,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Litomy l Castle illustrates in an exceptional way the aristocratic residences of central Europe in the Renaissance and their subsequent development under the influence of new artistic movements.</p>",
     year: 1999,
     longitude: 16.31444,
-    latitude: 49.87361
+    latitude: 49.87361,
     area_hectares: 4.25
 });
     MERGE (s:Site {
@@ -2394,7 +2394,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Architecture was revolutionized by the Modern Movement in the 1920s and the work of Mies van der Rohe, epitomized by the Tugendhat Villa, played a major role in its worldwide diffusion and acceptance.</p>",
     year: 2001,
     longitude: 16.61605556,
-    latitude: 49.20718333
+    latitude: 49.20718333,
     area_hectares: 0.73
 });
     MERGE (s:Site {
@@ -2404,7 +2404,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iii):</em> the Jewish Quarter of Trebic is an exceptional testimony to the cultural traditions related to the Jewish diaspora in central Europe.</p>",
     year: 2003,
     longitude: 15.87888889,
-    latitude: 49.21722222
+    latitude: 49.21722222,
     area_hectares: 6.55
 });
     MERGE (s:Site {
@@ -2416,7 +2416,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>The complex of Koguryo Tombs is an important example of burial typology.</p>",
     year: 2004,
     longitude: 125.415,
-    latitude: 38.86305556
+    latitude: 38.86305556,
     area_hectares: 232.9
 });
     MERGE (s:Site {
@@ -2425,7 +2425,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 126.5080556,
-    latitude: 37.98166667
+    latitude: 37.98166667,
     area_hectares: 494.2
 });
     MERGE (s:Site {
@@ -2434,7 +2434,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 29.16666667,
-    latitude: 0.916666667
+    latitude: 0.916666667,
     area_hectares: 800000.0
 });
     MERGE (s:Site {
@@ -2443,7 +2443,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 29.25,
-    latitude: 4.0
+    latitude: 4.0,
     area_hectares: 500000.0
 });
     MERGE (s:Site {
@@ -2452,7 +2452,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 28.75,
-    latitude: -2.5
+    latitude: -2.5,
     area_hectares: 600000.0
 });
     MERGE (s:Site {
@@ -2461,7 +2461,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 21.0,
-    latitude: -2.0
+    latitude: -2.0,
     area_hectares: 3600000.0
 });
     MERGE (s:Site {
@@ -2470,7 +2470,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed the property as one of the most important sites for conservation, including the rare Okapi and rich floral diversity, under natural <em>criterion (x)</em>. The Committee expressed its hope that the activities outlined in the new management plan would ensure the integrity of the site. Considering the civil unrest in the country, the question of the long-term security of the site was raised.</p>",
     year: 1996,
     longitude: 28.5,
-    latitude: 2.0
+    latitude: 2.0,
     area_hectares: 1372625.0
 });
     MERGE (s:Site {
@@ -2479,7 +2479,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 12.07972222,
-    latitude: 55.64222222
+    latitude: 55.64222222,
     area_hectares: 0.4
 });
     MERGE (s:Site {
@@ -2488,7 +2488,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iv):</em> Kronborg Castle is an outstanding example of the Renaissance castle, and one which played a highly significant role in the history of this region of northern Europe.</p>",
     year: 2000,
     longitude: 12.62083333,
-    latitude: 56.03889
+    latitude: 56.03889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2497,7 +2497,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 9.42,
-    latitude: 55.75638889
+    latitude: 55.75638889,
     area_hectares: 12.7
 });
     MERGE (s:Site {
@@ -2507,7 +2507,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vii):</em> The combination of a huge ice sheet and a fast moving glacial ice-stream calving into a fjord covered by icebergs is a phenomenon only seen in Greenland and Antarctica. Ilulissat offers both scientists and visitors easy access for close view of the calving glacier front as it cascades down from the ice sheet and into the ice-choked fjord. The wild and highly scenic combination of rock, ice and sea, along with the dramatic sounds produced by the moving ice, combine to present a memorable natural spectacle.</p>",
     year: 2004,
     longitude: -49.5,
-    latitude: 69.13333333
+    latitude: 69.13333333,
     area_hectares: 402400.0
 });
     MERGE (s:Site {
@@ -2516,7 +2516,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 12.42333333,
-    latitude: 55.26722222
+    latitude: 55.26722222,
     area_hectares: 50.0
 });
     MERGE (s:Site {
@@ -2525,7 +2525,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 9.481388889,
-    latitude: 55.35555556
+    latitude: 55.35555556,
     area_hectares: 21.2
 });
     MERGE (s:Site {
@@ -2534,7 +2534,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 12.35777778,
-    latitude: 55.91361111
+    latitude: 55.91361111,
     area_hectares: 4543.0
 });
     MERGE (s:Site {
@@ -2543,7 +2543,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: -45.59805556,
-    latitude: 61.16444444
+    latitude: 61.16444444,
     area_hectares: 34.892
 });
     MERGE (s:Site {
@@ -2552,7 +2552,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: -51.43320556,
-    latitude: 67.06393056
+    latitude: 67.06393056,
     area_hectares: 417800.0
 });
     MERGE (s:Site {
@@ -2561,7 +2561,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed the Morne Trois Pitons National Park on the basis of natural <em>criteria (viii)</em> and <em>(x)</em> for its diverse flora with endemic species of vascular plants, its volcanoes, rivers and waterfalls, illustrating ongoing geo-morphological processes with high scenic value.</p>",
     year: 1997,
     longitude: -61.28333333,
-    latitude: 15.26666667
+    latitude: 15.26666667,
     area_hectares: 6857.0
 });
     MERGE (s:Site {
@@ -2570,7 +2570,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: -69.91666667,
-    latitude: 18.48333333
+    latitude: 18.48333333,
     area_hectares: 106.0
 });
     MERGE (s:Site {
@@ -2579,7 +2579,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: -91.0,
-    latitude: -0.81667
+    latitude: -0.81667,
     area_hectares: 14066514.0
 });
     MERGE (s:Site {
@@ -2588,7 +2588,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: -78.5,
-    latitude: -0.003888889
+    latitude: -0.003888889,
     area_hectares: 320.0
 });
     MERGE (s:Site {
@@ -2597,7 +2597,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -78.33333,
-    latitude: -1.83333
+    latitude: -1.83333,
     area_hectares: 271925.0
 });
     MERGE (s:Site {
@@ -2606,7 +2606,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (ii): Cuenca illustrates the successful implantation of the principles of Renaissance urban planning in the Americas. Criterion (iv): The successful fusion of different societies and cultures in Latin America is vividly symbolized by the layout and townscape of Cuenca. Criterion (v): Cuenca is an outstanding example of a planned inland Spanish colonial city.</p>",
     year: 1999,
     longitude: -78.98333333,
-    latitude: -2.883333333
+    latitude: -2.883333333,
     area_hectares: 224.14
 });
     MERGE (s:Site {
@@ -2615,7 +2615,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 31.13041,
-    latitude: 29.97604
+    latitude: 29.97604,
     area_hectares: 16358.52
 });
     MERGE (s:Site {
@@ -2624,7 +2624,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 32.6,
-    latitude: 25.73333
+    latitude: 25.73333,
     area_hectares: 7390.16
 });
     MERGE (s:Site {
@@ -2633,7 +2633,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 31.62611,
-    latitude: 22.33639
+    latitude: 22.33639,
     area_hectares: 374.48
 });
     MERGE (s:Site {
@@ -2642,7 +2642,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 31.26111,
-    latitude: 30.05
+    latitude: 30.05,
     area_hectares: 523.66
 });
     MERGE (s:Site {
@@ -2651,7 +2651,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 29.66666667,
-    latitude: 30.83583333
+    latitude: 30.83583333,
     area_hectares: 182.72
 });
     MERGE (s:Site {
@@ -2663,7 +2663,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The St Catherine&rsquo;s area, centred on the holy mountain of Mount Sina&iuml; (Jebel Musa, Mount Horeb), like the Old City of Jerusalem, is sacred to three world religions: Christianity, Islam, and Judaism.</p>",
     year: 2002,
     longitude: 33.97543,
-    latitude: 28.55623
+    latitude: 28.55623,
     area_hectares: 60100.0
 });
     MERGE (s:Site {
@@ -2672,7 +2672,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (viii): </em>Wadi Al-Hitan is the most important site in the world to demonstrate one of the iconic changes that make up the record of life on Earth: the evolution of the whales. It portrays vividly their form and mode of life during their transition from land animals to a marine existence. It exceeds the values of other comparable sites in terms of the number, concentration and quality of its fossils, and their accessibility and setting in an attractive and protected landscape. It accords with key principles of the IUCN study on fossil World Heritage Sites, and represents significant values that are currently absent from the World Heritage List.</p>",
     year: 2005,
     longitude: 30.18333,
-    latitude: 29.33333
+    latitude: 29.33333,
     area_hectares: 20015.0
 });
     MERGE (s:Site {
@@ -2681,7 +2681,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -89.36916667,
-    latitude: 13.8275
+    latitude: 13.8275,
     area_hectares: 3200.0
 });
     MERGE (s:Site {
@@ -2690,7 +2690,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 38.93583333,
-    latitude: 15.33527778
+    latitude: 15.33527778,
     area_hectares: 481.0
 });
     MERGE (s:Site {
@@ -2699,7 +2699,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of <em>criteria (ii) and (iv)</em>, considering that Tallinn is an outstanding and exceptionally complete and well preserved example of a medieval northern European trading city that retains the salient features of this unique form of economic and social community to a remarkable degree.</p>",
     year: 1997,
     longitude: 24.73333333,
-    latitude: 59.43333
+    latitude: 59.43333,
     area_hectares: 113.0
 });
     MERGE (s:Site {
@@ -2708,7 +2708,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: 38.06666667,
-    latitude: 13.18333333
+    latitude: 13.18333333,
     area_hectares: 13600.0
 });
     MERGE (s:Site {
@@ -2717,7 +2717,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 40.57939,
-    latitude: 11.10006
+    latitude: 11.10006,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2726,7 +2726,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 38.6121,
-    latitude: 8.43491
+    latitude: 8.43491,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2735,7 +2735,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 38.71861,
-    latitude: 14.13019
+    latitude: 14.13019,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2744,7 +2744,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 35.96666667,
-    latitude: 4.8
+    latitude: 4.8,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2753,7 +2753,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: 39.04042,
-    latitude: 12.02935
+    latitude: 12.02935,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2762,7 +2762,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 37.46617,
-    latitude: 12.60692
+    latitude: 12.60692,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2771,7 +2771,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 42.13777778,
-    latitude: 9.308888889
+    latitude: 9.308888889,
     area_hectares: 48.0
 });
     MERGE (s:Site {
@@ -2780,7 +2780,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 37.4,
-    latitude: 5.3
+    latitude: 5.3,
     area_hectares: 23000.0
 });
     MERGE (s:Site {
@@ -2789,7 +2789,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 178.8345333,
-    latitude: -17.68337778
+    latitude: -17.68337778,
     area_hectares: 69.6
 });
     MERGE (s:Site {
@@ -2799,7 +2799,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Sammallahdenm&auml;ki cemetery is an outstanding example of Bronze Age funerary practices in Scandinavia.</p>",
     year: 1999,
     longitude: 21.7775,
-    latitude: 61.12056
+    latitude: 61.12056,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2808,7 +2808,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 21.51167,
-    latitude: 61.12806
+    latitude: 61.12806,
     area_hectares: 29.0
 });
     MERGE (s:Site {
@@ -2817,7 +2817,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 24.98722,
-    latitude: 60.14722
+    latitude: 60.14722,
     area_hectares: 210.0
 });
     MERGE (s:Site {
@@ -2826,7 +2826,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 25.18333,
-    latitude: 62.25
+    latitude: 62.25,
     area_hectares: 2.98
 });
     MERGE (s:Site {
@@ -2835,7 +2835,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural <em>criterion (iv)</em> considering that the Groundwood and Board Mill and its associated habitation is an outstanding and remarkably well preserved example of the small-scale rural industrial settlement associated with pulp, paper, and board production that flourished in northern Europe and North America in the 19th and early 20th centuries, of which only a handful survives to the present day.</p>",
     year: 1996,
     longitude: 26.64083,
-    latitude: 61.06194
+    latitude: 61.06194,
     area_hectares: 22.778
 });
     MERGE (s:Site {
@@ -2844,7 +2844,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -1.51056,
-    latitude: 48.63556
+    latitude: 48.63556,
     area_hectares: 6560.0
 });
     MERGE (s:Site {
@@ -2853,7 +2853,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 1.487222222,
-    latitude: 48.4475
+    latitude: 48.4475,
     area_hectares: 1.06
 });
     MERGE (s:Site {
@@ -2862,7 +2862,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 2.119444444,
-    latitude: 48.805
+    latitude: 48.805,
     area_hectares: 1070.0
 });
     MERGE (s:Site {
@@ -2871,7 +2871,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 3.748333333,
-    latitude: 47.46638889
+    latitude: 47.46638889,
     area_hectares: 183.0
 });
     MERGE (s:Site {
@@ -2880,7 +2880,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 1.17,
-    latitude: 45.0575
+    latitude: 45.0575,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -2889,7 +2889,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 2.698055556,
-    latitude: 48.40194444
+    latitude: 48.40194444,
     area_hectares: 144.0
 });
     MERGE (s:Site {
@@ -2898,7 +2898,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 2.301666667,
-    latitude: 49.895
+    latitude: 49.895,
     area_hectares: 1.54
 });
     MERGE (s:Site {
@@ -2907,7 +2907,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 4.808416667,
-    latitude: 44.13572222
+    latitude: 44.13572222,
     area_hectares: 9.45
 });
     MERGE (s:Site {
@@ -2916,7 +2916,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 4.630694444,
-    latitude: 43.67763889
+    latitude: 43.67763889,
     area_hectares: 65.0
 });
     MERGE (s:Site {
@@ -2925,7 +2925,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 4.38911,
-    latitude: 47.63944
+    latitude: 47.63944,
     area_hectares: 5.77
 });
     MERGE (s:Site {
@@ -2935,7 +2935,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 5.876388889,
-    latitude: 46.9375
+    latitude: 46.9375,
     area_hectares: 10.48
 });
     MERGE (s:Site {
@@ -2944,7 +2944,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 4.806111111,
-    latitude: 43.95277778
+    latitude: 43.95277778,
     area_hectares: 8.2
 });
     MERGE (s:Site {
@@ -2953,7 +2953,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 6.183333333,
-    latitude: 48.69361111
+    latitude: 48.69361111,
     area_hectares: 7.0
 });
     MERGE (s:Site {
@@ -2962,7 +2962,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 0.86611,
-    latitude: 46.56472
+    latitude: 46.56472,
     area_hectares: 1.61
 });
     MERGE (s:Site {
@@ -2971,7 +2971,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 8.628833333,
-    latitude: 42.32519444
+    latitude: 42.32519444,
     area_hectares: 11800.0
 });
     MERGE (s:Site {
@@ -2980,7 +2980,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 4.535277778,
-    latitude: 43.94722222
+    latitude: 43.94722222,
     area_hectares: 0.3257
 });
     MERGE (s:Site {
@@ -2989,7 +2989,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of <em>criteria (ii) and (iv)</em>, considering that the historic town of Carcassonne is an excellent example of a medieval fortified town whose massive defences were constructed on walls dating from Late Antiquity. It is of exceptional importance by virtue of the restoration work carried out in the second half of the 19th century by Viollet-le-Duc, which had a profound influence on subsequent developments in conservation principles and practice.</p>",
     year: 1997,
     longitude: 2.358888889,
-    latitude: 43.21055556
+    latitude: 43.21055556,
     area_hectares: 11.0
 });
     MERGE (s:Site {
@@ -2998,7 +2998,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 7.748888889,
-    latitude: 48.58444444
+    latitude: 48.58444444,
     area_hectares: 183.0
 });
     MERGE (s:Site {
@@ -3007,7 +3007,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 2.294166667,
-    latitude: 48.85833333
+    latitude: 48.85833333,
     area_hectares: 365.0
 });
     MERGE (s:Site {
@@ -3016,7 +3016,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 4.032777778,
-    latitude: 49.25333333
+    latitude: 49.25333333,
     area_hectares: 4.16
 });
     MERGE (s:Site {
@@ -3025,7 +3025,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 2.398333333,
-    latitude: 47.08222222
+    latitude: 47.08222222,
     area_hectares: 0.85
 });
     MERGE (s:Site {
@@ -3034,7 +3034,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural <em>criteria (i), (ii), (iv) and (vi)</em> considering that the site is of outstanding universal value being one of the greatest engineering achievements of the Modern Age, providing the model for the flowering of technology that led directly to the Industrial Revolution and the modern technological age. Additionally, it combines with its technological innovation a concern for high aesthetic architectural and landscape design that has few parallels. The Committee endorsed the inscription of this property as the Canal du Midi clearly is an exceptional example of a designed landscape</p>",
     year: 1996,
     longitude: 1.416388889,
-    latitude: 43.61138889
+    latitude: 43.61138889,
     area_hectares: 1172.0
 });
     MERGE (s:Site {
@@ -3045,7 +3045,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The Pilgrimage Route of Santiago de Compostela bears exceptional witness to the power and influence of Christian faith among people of all classes and countries in Europe during the Middle Ages.</p>",
     year: 1998,
     longitude: 0.722944444,
-    latitude: 45.18405556
+    latitude: 45.18405556,
     area_hectares: 97.21
 });
     MERGE (s:Site {
@@ -3055,7 +3055,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> By virtue of the special way in which it has developed spatially, Lyon illustrates in an exceptional way the progress and evolution of architectural design and town planning over many centuries.</p>",
     year: 1998,
     longitude: 4.83333,
-    latitude: 45.76722
+    latitude: 45.76722,
     area_hectares: 427.0
 });
     MERGE (s:Site {
@@ -3065,7 +3065,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Provins preserves to a high degree the architecture and urban layout that characterize these great medieval fair towns.</p>",
     year: 2001,
     longitude: 3.298888889,
-    latitude: 48.55972222
+    latitude: 48.55972222,
     area_hectares: 108.0
 });
     MERGE (s:Site {
@@ -3075,7 +3075,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The intensive cultivation of grapes for wine production in a precisely defined region and the resulting landscape is illustrated in an exceptional way by the historic Jurisdiction of Saint-Emilion.</p>",
     year: 1999,
     longitude: -0.155277778,
-    latitude: 44.89472222
+    latitude: 44.89472222,
     area_hectares: 7847.0
 });
     MERGE (s:Site {
@@ -3086,7 +3086,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The landscape of the Loire Valley, and more particularly its many cultural monuments, illustrate to an exceptional degree the ideals of the Renaissance and the Age of the Enlightenment on western European thought and design.</p>",
     year: 2000,
     longitude: 0.70278,
-    latitude: 47.39889
+    latitude: 47.39889,
     area_hectares: 86021.0
 });
     MERGE (s:Site {
@@ -3095,7 +3095,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 164.5663889,
-    latitude: -20.41194444
+    latitude: -20.41194444,
     area_hectares: 1574300.0
 });
     MERGE (s:Site {
@@ -3104,7 +3104,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 3.473055556,
-    latitude: 44.22027778
+    latitude: 44.22027778,
     area_hectares: 302319.0
 });
     MERGE (s:Site {
@@ -3114,7 +3114,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>Le Havre is an outstanding post-war example of urban planning and architecture based on the unity of methodology and system of prefabrication, the systematic use of a modular grid and the innovative exploitation of the potential of concrete.</p>",
     year: 2005,
     longitude: 0.1075,
-    latitude: 49.49278
+    latitude: 49.49278,
     area_hectares: 133.0
 });
     MERGE (s:Site {
@@ -3123,7 +3123,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: -0.572222222,
-    latitude: 44.83888889
+    latitude: 44.83888889,
     area_hectares: 1731.0
 });
     MERGE (s:Site {
@@ -3132,7 +3132,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 6.026944444,
-    latitude: 47.23611111
+    latitude: 47.23611111,
     area_hectares: 1153.16
 });
     MERGE (s:Site {
@@ -3141,7 +3141,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 55.48,
-    latitude: -21.09944444
+    latitude: -21.09944444,
     area_hectares: 105838.0
 });
     MERGE (s:Site {
@@ -3150,7 +3150,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 2.1425,
-    latitude: 43.92833333
+    latitude: 43.92833333,
     area_hectares: 19.47
 });
     MERGE (s:Site {
@@ -3159,7 +3159,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 3.546111111,
-    latitude: 50.4625
+    latitude: 50.4625,
     area_hectares: 3943.0
 });
     MERGE (s:Site {
@@ -3168,7 +3168,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 4.864444444,
-    latitude: 47.05805556
+    latitude: 47.05805556,
     area_hectares: 13219.0
 });
     MERGE (s:Site {
@@ -3177,7 +3177,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 4.416111111,
-    latitude: 44.3875
+    latitude: 44.3875,
     area_hectares: 9.0
 });
     MERGE (s:Site {
@@ -3186,7 +3186,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 2.965111111,
-    latitude: 45.77938889
+    latitude: 45.77938889,
     area_hectares: 24223.0
 });
     MERGE (s:Site {
@@ -3195,7 +3195,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 3.946111111,
-    latitude: 49.0775
+    latitude: 49.0775,
     area_hectares: 1101.72
 });
     MERGE (s:Site {
@@ -3204,7 +3204,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: -151.3723778,
-    latitude: -16.8414
+    latitude: -16.8414,
     area_hectares: 2124.0
 });
     MERGE (s:Site {
@@ -3213,7 +3213,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 11.5,
-    latitude: -0.5
+    latitude: -0.5,
     area_hectares: 491291.0
 });
     MERGE (s:Site {
@@ -3222,7 +3222,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii: James Island and Related Sites on the River Gambia provide an exceptional testimony to the different facets of the African-European encounter, from the 15th to 20th centuries. The River Gambia formed the first trade route into the interior of Africa and became an early corridor for the slave trade. Criterion vi: James Island and Related Sites, the villages and the batteries, were directly and tangibly associated with the beginning and the conclusion of the slave trade, retaining its memory related to the African Diaspora.</p>",
     year: 2003,
     longitude: -16.35719444,
-    latitude: 13.31616667
+    latitude: 13.31616667,
     area_hectares: 7.5981
 });
     MERGE (s:Site {
@@ -3231,7 +3231,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 44.71639,
-    latitude: 41.84389
+    latitude: 41.84389,
     area_hectares: 3.85
 });
     MERGE (s:Site {
@@ -3240,7 +3240,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (iv) and (v), considering that the region of Upper Svaneti is of outstanding universal value being an exceptional landscape that has preserved to a remarkable degree its original medieval appearance, notable for the distribution, form, and architecture of its human settlements.</p>",
     year: 1996,
     longitude: 43.01139,
-    latitude: 42.91639
+    latitude: 42.91639,
     area_hectares: 1.06
 });
     MERGE (s:Site {
@@ -3249,7 +3249,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 42.76833333,
-    latitude: 42.29472222
+    latitude: 42.29472222,
     area_hectares: 4.2
 });
     MERGE (s:Site {
@@ -3258,7 +3258,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: 6.084444444,
-    latitude: 50.77444444
+    latitude: 50.77444444,
     area_hectares: 0.2
 });
     MERGE (s:Site {
@@ -3267,7 +3267,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 8.443055556,
-    latitude: 49.31666667
+    latitude: 49.31666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3276,7 +3276,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 9.93889,
-    latitude: 49.79278
+    latitude: 49.79278,
     area_hectares: 14.77
 });
     MERGE (s:Site {
@@ -3285,7 +3285,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 9.94389,
-    latitude: 52.15278
+    latitude: 52.15278,
     area_hectares: 0.58
 });
     MERGE (s:Site {
@@ -3294,7 +3294,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 10.90013889,
-    latitude: 47.68127778
+    latitude: 47.68127778,
     area_hectares: 0.1
 });
     MERGE (s:Site {
@@ -3303,7 +3303,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 10.69167,
-    latitude: 53.86667
+    latitude: 53.86667,
     area_hectares: 81.1
 });
     MERGE (s:Site {
@@ -3312,7 +3312,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 6.909777778,
-    latitude: 50.82502778
+    latitude: 50.82502778,
     area_hectares: 89.0
 });
     MERGE (s:Site {
@@ -3321,7 +3321,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural <em>criteria (i), (ii) and (iv)</em> considering that the monument is of outstanding universal value being an exceptional work of human creative genius, constructed over more than six centuries and a powerful testimony to the strength and persistence of Christian belief in medieval and modern Europe.</p>",
     year: 1996,
     longitude: 6.957222222,
-    latitude: 50.94111111
+    latitude: 50.94111111,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -3330,7 +3330,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 6.633333333,
-    latitude: 49.75
+    latitude: 49.75,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3339,7 +3339,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 8.56858,
-    latitude: 49.65369
+    latitude: 49.65369,
     area_hectares: 3.34
 });
     MERGE (s:Site {
@@ -3348,7 +3348,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 13.03333333,
-    latitude: 52.4
+    latitude: 52.4,
     area_hectares: 2064.0
 });
     MERGE (s:Site {
@@ -3358,7 +3358,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The 18th century was a seminal period for landscape design, of which the Garden Kingdom of Dessau-W rlitz is an exceptional and wide-ranging illustration.</p>",
     year: 2000,
     longitude: 12.42083,
-    latitude: 51.8425
+    latitude: 51.8425,
     area_hectares: 14500.0
 });
     MERGE (s:Site {
@@ -3367,7 +3367,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 11.15,
-    latitude: 51.78333
+    latitude: 51.78333,
     area_hectares: 90.0
 });
     MERGE (s:Site {
@@ -3376,7 +3376,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 8.81306,
-    latitude: 49.00083
+    latitude: 49.00083,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3385,7 +3385,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 10.34,
-    latitude: 51.82
+    latitude: 51.82,
     area_hectares: 1009.89
 });
     MERGE (s:Site {
@@ -3394,7 +3394,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 10.88888889,
-    latitude: 49.89166667
+    latitude: 49.89166667,
     area_hectares: 142.0
 });
     MERGE (s:Site {
@@ -3403,7 +3403,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 6.85,
-    latitude: 49.24444
+    latitude: 49.24444,
     area_hectares: 7.46
 });
     MERGE (s:Site {
@@ -3412,7 +3412,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 8.75389,
-    latitude: 49.91667
+    latitude: 49.91667,
     area_hectares: 42.0
 });
     MERGE (s:Site {
@@ -3421,7 +3421,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1996,
     longitude: 11.3295,
-    latitude: 50.97477778
+    latitude: 50.97477778,
     area_hectares: 8.1614
 });
     MERGE (s:Site {
@@ -3430,7 +3430,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of <em>criteria (iv) and (vi)</em>, considering that it is of outstanding universal value bearing unique testimony to the Protestant Reformation, which was one of the most significant events in the religious and political history of the world and constitutes outstanding examples of 19th century historicism. The Committee congratulated the German authorities on this nomination and considered that its symbolic value clearly justifies inscription under cultural criterion (vi).</p>",
     year: 1996,
     longitude: 12.65278,
-    latitude: 51.86472
+    latitude: 51.86472,
     area_hectares: 0.83
 });
     MERGE (s:Site {
@@ -3440,7 +3440,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> Enlightened ducal patronage attracted many of the leading writers and thinkers in Germany, such as Goethe, Schiller, and Herder to Weimar in the late 18th and early 19th centuries, making it the cultural centre of the Europe of the day.</p>",
     year: 1998,
     longitude: 11.32861,
-    latitude: 50.9775
+    latitude: 50.9775,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3450,7 +3450,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The art museum is a social phenomenon that owes its origins to the Age of Enlightenment and its extension to all people to the French Revolution. The Museumsinsel is the most outstanding example of this concept given material form and a symbolic central urban setting.</p>",
     year: 1999,
     longitude: 13.39861111,
-    latitude: 52.51972222
+    latitude: 52.51972222,
     area_hectares: 8.6
 });
     MERGE (s:Site {
@@ -3460,7 +3460,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The Castle of Wartburg is rich in cultural associations, most notably its role as the place of exile of Martin Luther, who composed his German translation of the New Testament there. It is also a powerful symbol of German integration and unity.</p>",
     year: 1999,
     longitude: 10.307,
-    latitude: 50.96677778
+    latitude: 50.96677778,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3471,7 +3471,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The monastery of Reichenau was a highly significant artistic centre of great significance to the history of art in Europe in the 10th and 11th centuries, as is superbly illustrated by its monumental wall paintings and its illuminations.</p>",
     year: 2000,
     longitude: 9.061305556,
-    latitude: 47.69872222
+    latitude: 47.69872222,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3481,7 +3481,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iii):</em> The technological and other structures of Zollverein XII is representative of a crucial period in the development of traditional heavy industries in Europe, when sympathetic and positive use was made of architectural designs of outstanding quality.</p>",
     year: 2001,
     longitude: 7.046111111,
-    latitude: 51.49138889
+    latitude: 51.49138889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3492,7 +3492,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The Middle Rhine Valley is an outstanding example of an evolving traditional way of life and means of communication in a narrow river valley. The terracing of its steep slopes in particular has shaped the landscape in many ways for more than two millennia. However, this form of land-use is under threat from the socio-economic pressures of the present day.</p>",
     year: 2002,
     longitude: 7.694166667,
-    latitude: 50.17361111
+    latitude: 50.17361111,
     area_hectares: 27250.0
 });
     MERGE (s:Site {
@@ -3502,7 +3502,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Stralsund and Wismar have crucial importance in the development of the building techniques and urban form that became typical of the Hanseatic trading towns, well documented in the major parish churches, the town hall of Stralsund, and the commercial building types, such as the Dielenhaus.</p>",
     year: 2002,
     longitude: 13.08527778,
-    latitude: 54.3025
+    latitude: 54.3025,
     area_hectares: 168.0
 });
     MERGE (s:Site {
@@ -3513,7 +3513,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> the ensemble of the town hall and Roland of Bremen with its symbolism is directly associated with the development of the ideas of civic autonomy and market freedom in the Holy Roman Empire. The Bremen Roland is referred to a historical figure, paladin of Charlemagne, who became the source for the French &lsquo;chanson de geste&rsquo; and other medieval and Renaissance epic poetry.</p>",
     year: 2004,
     longitude: 8.807472222,
-    latitude: 53.07597222
+    latitude: 53.07597222,
     area_hectares: 0.287
 });
     MERGE (s:Site {
@@ -3522,7 +3522,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 12.09916667,
-    latitude: 49.02055556
+    latitude: 49.02055556,
     area_hectares: 182.8
 });
     MERGE (s:Site {
@@ -3531,7 +3531,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 13.45,
-    latitude: 52.44833333
+    latitude: 52.44833333,
     area_hectares: 88.1
 });
     MERGE (s:Site {
@@ -3540,7 +3540,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 9.811111111,
-    latitude: 51.98361111
+    latitude: 51.98361111,
     area_hectares: 1.88
 });
     MERGE (s:Site {
@@ -3549,7 +3549,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>It is today the most important and best preserved example of court opera house architecture and of the Baroque opera culture. The theatre is a masterwork of Baroque court theatre architecture by Giuseppe Galli Bibiena in terms of its tiered loge form and acoustic, decorative and iconological properties. It marks a specific point in the development of opera houses, being a court opera house located not within a palace but as an urban element in the public space, foreshadowing the great public opera houses of the 19th century.</p>",
     year: 2012,
     longitude: 11.57861111,
-    latitude: 49.94444444
+    latitude: 49.94444444,
     area_hectares: 0.19
 });
     MERGE (s:Site {
@@ -3558,7 +3558,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 9.393055556,
-    latitude: 51.31583333
+    latitude: 51.31583333,
     area_hectares: 558.7
 });
     MERGE (s:Site {
@@ -3567,7 +3567,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 9.41025,
-    latitude: 51.77827778
+    latitude: 51.77827778,
     area_hectares: 12.0
 });
     MERGE (s:Site {
@@ -3576,7 +3576,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 9.999444444,
-    latitude: 53.54555556
+    latitude: 53.54555556,
     area_hectares: 26.08
 });
     MERGE (s:Site {
@@ -3585,7 +3585,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 11.804,
-    latitude: 51.15480556
+    latitude: 51.15480556,
     area_hectares: 1.82
 });
     MERGE (s:Site {
@@ -3594,7 +3594,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 9.765555556,
-    latitude: 48.38777778
+    latitude: 48.38777778,
     area_hectares: 462.1
 });
     MERGE (s:Site {
@@ -3603,7 +3603,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 9.454111111,
-    latitude: 54.46194444
+    latitude: 54.46194444,
     area_hectares: 227.55
 });
     MERGE (s:Site {
@@ -3612,7 +3612,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -0.49361,
-    latitude: 5.39103
+    latitude: 5.39103,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3621,7 +3621,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: -1.625833333,
-    latitude: 6.401111111
+    latitude: 6.401111111,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3630,7 +3630,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 21.89694,
-    latitude: 37.43498
+    latitude: 37.43498,
     area_hectares: 20.46
 });
     MERGE (s:Site {
@@ -3639,7 +3639,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 22.49617,
-    latitude: 38.48149
+    latitude: 38.48149,
     area_hectares: 51.04
 });
     MERGE (s:Site {
@@ -3648,7 +3648,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 23.72618,
-    latitude: 37.97087
+    latitude: 37.97087,
     area_hectares: 3.04
 });
     MERGE (s:Site {
@@ -3657,7 +3657,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 24.21667,
-    latitude: 40.26667
+    latitude: 40.26667,
     area_hectares: 33042.3
 });
     MERGE (s:Site {
@@ -3666,7 +3666,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 21.63333,
-    latitude: 39.71667
+    latitude: 39.71667,
     area_hectares: 271.87
 });
     MERGE (s:Site {
@@ -3675,7 +3675,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 22.965,
-    latitude: 40.63833
+    latitude: 40.63833,
     area_hectares: 5.327
 });
     MERGE (s:Site {
@@ -3684,7 +3684,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 23.11666667,
-    latitude: 37.66666667
+    latitude: 37.66666667,
     area_hectares: 1393.8
 });
     MERGE (s:Site {
@@ -3693,7 +3693,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 28.22778,
-    latitude: 36.44722
+    latitude: 36.44722,
     area_hectares: 65.85
 });
     MERGE (s:Site {
@@ -3702,7 +3702,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1989,
     longitude: 22.36667,
-    latitude: 37.08056
+    latitude: 37.08056,
     area_hectares: 54.43
 });
     MERGE (s:Site {
@@ -3711,7 +3711,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1989,
     longitude: 21.66666667,
-    latitude: 37.65
+    latitude: 37.65,
     area_hectares: 105.6
 });
     MERGE (s:Site {
@@ -3720,7 +3720,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 25.26667,
-    latitude: 37.4
+    latitude: 37.4,
     area_hectares: 350.64
 });
     MERGE (s:Site {
@@ -3729,7 +3729,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 22.75,
-    latitude: 38.4
+    latitude: 38.4,
     area_hectares: 3.7
 });
     MERGE (s:Site {
@@ -3738,7 +3738,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 26.94333,
-    latitude: 37.69083
+    latitude: 37.69083,
     area_hectares: 668.35
 });
     MERGE (s:Site {
@@ -3747,7 +3747,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (i) and (iii) considering that the site is of outstanding universal value representing an exceptional testimony to a significant development in European civilization, at the transition from classical city-state to the imperial structure of the Hellenistic and Roman periods. This is vividly demonstrated in particular by the remarkable series of royal tombs and their rich contents. The Committee decided to add to the proposed criteria cultural criterion (i), since the paintings found at Vergina are of extraordinarily high quality and historical importance.</p>",
     year: 1996,
     longitude: 22.31833,
-    latitude: 40.47139
+    latitude: 40.47139,
     area_hectares: 1420.81
 });
     MERGE (s:Site {
@@ -3759,7 +3759,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> Mycenae and Tiryns are indissolubly linked with the Homeric epics, the Iliad and the Odyssey, the influence of which upon European literature and the arts has been profound for more than three millennia.</p>",
     year: 1999,
     longitude: 22.75,
-    latitude: 37.73333333
+    latitude: 37.73333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3770,7 +3770,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The Monastery of Hagios Ioannis Theologos and the Cave of the Apocalypse commemorate the site where St John the Theologian (Divine), the &ldquo;Beloved Disciple&rdquo;, composed two of the most sacred Christian works, his Gospel and the Apocalypse.</p>",
     year: 1999,
     longitude: 26.55,
-    latitude: 37.3
+    latitude: 37.3,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3779,7 +3779,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 19.9275,
-    latitude: 39.62394139
+    latitude: 39.62394139,
     area_hectares: 70.0
 });
     MERGE (s:Site {
@@ -3788,7 +3788,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 24.28527778,
-    latitude: 41.01472222
+    latitude: 41.01472222,
     area_hectares: 87.545
 });
     MERGE (s:Site {
@@ -3797,7 +3797,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -89.61666667,
-    latitude: 17.21666667
+    latitude: 17.21666667,
     area_hectares: 57600.0
 });
     MERGE (s:Site {
@@ -3806,7 +3806,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -90.66666667,
-    latitude: 14.56666667
+    latitude: 14.56666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3815,7 +3815,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -89.04025,
-    latitude: 15.27059
+    latitude: 15.27059,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3824,7 +3824,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: -72.24417,
-    latitude: 19.57361
+    latitude: 19.57361,
     area_hectares: 25285.59
 });
     MERGE (s:Site {
@@ -3833,7 +3833,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 12.45736,
-    latitude: 41.90216
+    latitude: 41.90216,
     area_hectares: 44.0
 });
     MERGE (s:Site {
@@ -3842,7 +3842,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: -89.13333,
-    latitude: 14.85
+    latitude: 14.85,
     area_hectares: 15.095
 });
     MERGE (s:Site {
@@ -3851,7 +3851,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: -84.675,
-    latitude: 15.74444444
+    latitude: 15.74444444,
     area_hectares: 350000.0
 });
     MERGE (s:Site {
@@ -3860,7 +3860,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 19.07067,
-    latitude: 47.48242
+    latitude: 47.48242,
     area_hectares: 473.3
 });
     MERGE (s:Site {
@@ -3869,7 +3869,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 19.52917,
-    latitude: 47.99444
+    latitude: 47.99444,
     area_hectares: 144.5
 });
     MERGE (s:Site {
@@ -3879,7 +3879,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The landscape of the Hortob&aacute;gy National Park preserves intact and visible the evidence of its traditional use over more than two millennia and represents the harmonious interaction between human beings and nature.</p>",
     year: 1999,
     longitude: 21.15678,
-    latitude: 47.59458
+    latitude: 47.59458,
     area_hectares: 74820.0
 });
     MERGE (s:Site {
@@ -3888,7 +3888,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (iv) and (vi) considering that the site is of outstanding universal value illustrating in an exceptional manner the structure and setting of an early Christian Monastery that has evolved over a thousand years of continuous use. Its location and the early date of its foundation bear unique witness to the propagation and continuity of Christianity in Central Europe.</p>",
     year: 1996,
     longitude: 17.78444,
-    latitude: 47.55889
+    latitude: 47.55889,
     area_hectares: 47.4
 });
     MERGE (s:Site {
@@ -3898,7 +3898,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The unique Early Christian sepulchral art and architecture of the northern and western Roman provinces is exceptionally well and fully illustrated by the Sopianae cemetery at P cs.</p>",
     year: 2000,
     longitude: 18.22778,
-    latitude: 46.07444
+    latitude: 46.07444,
     area_hectares: 3.76
 });
     MERGE (s:Site {
@@ -3908,7 +3908,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The entire landscape of the Tokaji wine region, including both vineyards and long established settlements, vividly illustrates the specialized form of traditional land-use that it represents.</p>",
     year: 2002,
     longitude: 21.35,
-    latitude: 48.15
+    latitude: 48.15,
     area_hectares: 13255.0
 });
     MERGE (s:Site {
@@ -3918,7 +3918,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> Pride in the strong association of the Althing to mediaeval Germanic/Norse governance, known through the 12th century Icelandic sagas, and reinforced during the fight for independence in the 19th century, have, together with the powerful natural setting of the assembly grounds, given the site iconic status as a shrine for the national.</p>",
     year: 2004,
     longitude: -21.03725,
-    latitude: 64.25380556
+    latitude: 64.25380556,
     area_hectares: 9270.0
 });
     MERGE (s:Site {
@@ -3927,7 +3927,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: -20.60222222,
-    latitude: 63.30305556
+    latitude: 63.30305556,
     area_hectares: 3370.0
 });
     MERGE (s:Site {
@@ -3936,7 +3936,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 77.24083333,
-    latitude: 28.65555556
+    latitude: 28.65555556,
     area_hectares: 49.1815
 });
     MERGE (s:Site {
@@ -3945,7 +3945,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed the site on the World Heritage List under criteria (ii) and (iv).</p>",
     year: 1993,
     longitude: 77.25056,
-    latitude: 28.59333
+    latitude: 28.59333,
     area_hectares: 27.04
 });
     MERGE (s:Site {
@@ -3954,7 +3954,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed the site on the World Heritage List under criterion (iv)</p>",
     year: 1993,
     longitude: 77.18528,
-    latitude: 28.52583
+    latitude: 28.52583,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3963,7 +3963,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 73.91167,
-    latitude: 15.50222
+    latitude: 15.50222,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3972,7 +3972,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 75.81667,
-    latitude: 15.94833
+    latitude: 15.94833,
     area_hectares: 5.56
 });
     MERGE (s:Site {
@@ -3981,7 +3981,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 79.92222,
-    latitude: 24.85222
+    latitude: 24.85222,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -3990,7 +3990,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 76.47167,
-    latitude: 15.31444
+    latitude: 15.31444,
     area_hectares: 4187.24
 });
     MERGE (s:Site {
@@ -3999,7 +3999,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 75.7,
-    latitude: 20.55333
+    latitude: 20.55333,
     area_hectares: 8242.0
 });
     MERGE (s:Site {
@@ -4008,7 +4008,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 75.17917,
-    latitude: 20.02639
+    latitude: 20.02639,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4017,7 +4017,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 72.93583,
-    latitude: 18.96667
+    latitude: 18.96667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4026,7 +4026,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 86.09472,
-    latitude: 19.8875
+    latitude: 19.8875,
     area_hectares: 10.62
 });
     MERGE (s:Site {
@@ -4036,7 +4036,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 74.64611111,
-    latitude: 24.88333333
+    latitude: 24.88333333,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -4045,7 +4045,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 80.19167,
-    latitude: 12.61667
+    latitude: 12.61667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4057,7 +4057,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Great Chola temples at Thanjavur, at Gangaikondacholapuram and Darasuram are outstanding examples of the architecture and the representation of the Chola ideology.</p>",
     year: 1987,
     longitude: 79.1325,
-    latitude: 10.78305556
+    latitude: 10.78305556,
     area_hectares: 21.88
 });
     MERGE (s:Site {
@@ -4066,7 +4066,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 78.03333333,
-    latitude: 27.18333333
+    latitude: 27.18333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4075,7 +4075,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 78.04222,
-    latitude: 27.17417
+    latitude: 27.17417,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4084,7 +4084,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 77.66417,
-    latitude: 27.09444
+    latitude: 27.09444,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4094,7 +4094,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x): </em>The Valley of Flowers is internationally important on account of its diverse alpine flora, representative of the West Himalaya biogeographic zone. The rich diversity of species reflects the valley&rsquo;s location within a transition zone between the Zaskar and Great Himalaya ranges to the north and south, respectively, and between the Eastern and Western Himalaya flora. A number of plant species are internationally threatened, several have not been recorded from elsewhere in Uttaranchal and two have not been recorded in Nanda Devi National Park. The diversity of threatened species of medicinal plants is higher than has been recorded in other Indian Himalayan protected areas. The entire Nanda Devi Biosphere Reserve lies within the Western Himalayas Endemic Bird Area (EBA). Seven restricted-range bird species are endemic to this part of the EBA.</p>",
     year: 1988,
     longitude: 79.66667,
-    latitude: 30.71667
+    latitude: 30.71667,
     area_hectares: 71783.0
 });
     MERGE (s:Site {
@@ -4103,7 +4103,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 93.41666667,
-    latitude: 26.66666667
+    latitude: 26.66666667,
     area_hectares: 42996.0
 });
     MERGE (s:Site {
@@ -4112,7 +4112,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 91.03055556,
-    latitude: 26.725
+    latitude: 26.725,
     area_hectares: 39100.0
 });
     MERGE (s:Site {
@@ -4121,7 +4121,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 77.50861111,
-    latitude: 27.15888889
+    latitude: 27.15888889,
     area_hectares: 2873.0
 });
     MERGE (s:Site {
@@ -4130,7 +4130,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 88.89583333,
-    latitude: 21.945
+    latitude: 21.945,
     area_hectares: 133010.0
 });
     MERGE (s:Site {
@@ -4139,7 +4139,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1989,
     longitude: 77.73972,
-    latitude: 23.47944
+    latitude: 23.47944,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4148,7 +4148,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 72.10166667,
-    latitude: 23.85888889
+    latitude: 23.85888889,
     area_hectares: 4.68
 });
     MERGE (s:Site {
@@ -4157,7 +4157,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (iii): Bhimbetka reflects a long interaction between people and the landscape, as demonstrated in the quantity and quality of its rock art. Criterion (v): Bhimbetka is closely associated with a hunting and gathering economy as demonstrated in the rock art and in the relicts of this tradition in the local adivasi villages on the periphery of this site.</p>",
     year: 2003,
     longitude: 77.58333333,
-    latitude: 22.92777778
+    latitude: 22.92777778,
     area_hectares: 1893.0
 });
     MERGE (s:Site {
@@ -4166,7 +4166,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1999,
     longitude: 76.93583,
-    latitude: 11.51028
+    latitude: 11.51028,
     area_hectares: 88.99
 });
     MERGE (s:Site {
@@ -4176,7 +4176,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Chhatrapati Shivaji Terminus is an outstanding example of late 19th century railway architecture in the British Commonwealth, characterized by Victorian Gothic Revival and traditional Indian features, as well as its advanced structural and technical solutions.</p>",
     year: 2004,
     longitude: 72.83620278,
-    latitude: 18.94012222
+    latitude: 18.94012222,
     area_hectares: 2.85
 });
     MERGE (s:Site {
@@ -4189,7 +4189,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (vi): The Mahabodhi Temple Complex in Bodh Gaya has direct association with the life of the Lord Buddha, being the place where He attained the supreme and perfect insight.</p>",
     year: 2002,
     longitude: 84.99389,
-    latitude: 24.69528
+    latitude: 24.69528,
     area_hectares: 4.86
 });
     MERGE (s:Site {
@@ -4201,7 +4201,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The Champaner-Pavagadh Archaeological Park is a place of worship and continuous pilgrimage for Hindu believers.</p>",
     year: 2004,
     longitude: 73.53333333,
-    latitude: 22.48333333
+    latitude: 22.48333333,
     area_hectares: 1328.89
 });
     MERGE (s:Site {
@@ -4210,7 +4210,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 75.825,
-    latitude: 26.92472222
+    latitude: 26.92472222,
     area_hectares: 1.8652
 });
     MERGE (s:Site {
@@ -4219,7 +4219,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 77.24972222,
-    latitude: 8.529722222
+    latitude: 8.529722222,
     area_hectares: 795315.0
 });
     MERGE (s:Site {
@@ -4228,7 +4228,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 77.58333333,
-    latitude: 31.83333333
+    latitude: 31.83333333,
     area_hectares: 90540.0
 });
     MERGE (s:Site {
@@ -4237,7 +4237,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 72.83008333,
-    latitude: 18.92980556
+    latitude: 18.92980556,
     area_hectares: 66.34
 });
     MERGE (s:Site {
@@ -4246,7 +4246,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 85.44388889,
-    latitude: 25.13666667
+    latitude: 25.13666667,
     area_hectares: 23.0
 });
     MERGE (s:Site {
@@ -4255,7 +4255,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 88.37722222,
-    latitude: 27.76472222
+    latitude: 27.76472222,
     area_hectares: 178400.0
 });
     MERGE (s:Site {
@@ -4265,7 +4265,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 72.58805556,
-    latitude: 23.02638889
+    latitude: 23.02638889,
     area_hectares: 535.7
 });
     MERGE (s:Site {
@@ -4274,7 +4274,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 110.20361,
-    latitude: -7.60778
+    latitude: -7.60778,
     area_hectares: 25.51
 });
     MERGE (s:Site {
@@ -4283,7 +4283,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated site under cultural criteria (iii) and (vi) as one of the key sites for the understanding of human evolution that admirably illustrates the development of Homo sapiens sapiens from the Lower Pleistocene to the present through the outstanding fossil and artefactual material that it has produced.</p>",
     year: 1996,
     longitude: 110.8166667,
-    latitude: -7.4
+    latitude: -7.4,
     area_hectares: 5600.0
 });
     MERGE (s:Site {
@@ -4292,7 +4292,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 105.3333333,
-    latitude: -6.75
+    latitude: -6.75,
     area_hectares: 78525.0
 });
     MERGE (s:Site {
@@ -4301,7 +4301,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 119.48944,
-    latitude: -8.54333
+    latitude: -8.54333,
     area_hectares: 219322.0
 });
     MERGE (s:Site {
@@ -4310,7 +4310,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 110.49167,
-    latitude: -7.75222
+    latitude: -7.75222,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4319,7 +4319,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The site is the largest protected area in Southeast Asia (2.35 mil. ha.) and the only protected area in the world which incorporates a continuous, intact transect from snow cap to tropical marine environment, including extensive lowland wetlands. Located at the meeting point of two colliding continental plates, the area has a complex geology with on-going mountain formation as well as major sculpting by glaciation and shoreline accretion which has formed much of the lowland areas. These processes have led to a high level of endemism and the area supports the highest level of biodiversity in the region. The area also contains fossil sites that record the evolution of life on New Guinea.</p>",
     year: 1999,
     longitude: 137.83333,
-    latitude: -4.75
+    latitude: -4.75,
     area_hectares: 2350000.0
 });
     MERGE (s:Site {
@@ -4330,7 +4330,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><strong>Criterion (x):</strong> All three parks that comprise the Tropical Rainforest Heritage of Sumatra are areas of very diverse habitat and exceptional biodiversity. Collectively, the three sites include more than 50% of the total plant diversity of Sumatra. At least 92 local endemic species have been identified in Gunung Leuser National Park. The nomination contains populations of both the world s largest flower (Rafflesia arnoldi) and the tallest flower (Amorphophallus titanium). The relict lowland forests in the nominated sites are very important for conservation of the plant and animal biodiversity of the rapidly disappearing lowland forests of South East Asia. Similarly, the montane forests, although less threatened, are very important for conservation of the distinctive montane vegetation of the property.</p>",
     year: 2004,
     longitude: 101.5,
-    latitude: -2.5
+    latitude: -2.5,
     area_hectares: 2595124.0
 });
     MERGE (s:Site {
@@ -4339,7 +4339,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 115.4027778,
-    latitude: -8.259166667
+    latitude: -8.259166667,
     area_hectares: 19519.9
 });
     MERGE (s:Site {
@@ -4348,7 +4348,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 48.53333333,
-    latitude: 32.0833
+    latitude: 32.0833,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4357,7 +4357,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 52.89028,
-    latitude: 29.93444
+    latitude: 29.93444,
     area_hectares: 12.5
 });
     MERGE (s:Site {
@@ -4366,7 +4366,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 51.67777778,
-    latitude: 32.65745
+    latitude: 32.65745,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4379,7 +4379,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion vi: <br /> As the principal Zoroastrian sanctuary, Takht-e Soleyman is the foremost site associated with one of the early monotheistic religions of the world. The site has many important symbolic relationships, being also a testimony of the association of the ancient beliefs, much earlier than the Zoroastrianism, as well as in its association with significant biblical figures and legends.</p>",
     year: 2003,
     longitude: 47.235,
-    latitude: 36.60388889
+    latitude: 36.60388889,
     area_hectares: 10.0
 });
     MERGE (s:Site {
@@ -4391,7 +4391,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The &lsquo;Four Gardens&rsquo; type of royal ensemble, which was created in Pasargadae became a prototype for Western Asian architecture and design.</p>",
     year: 2004,
     longitude: 53.16729,
-    latitude: 30.19383
+    latitude: 30.19383,
     area_hectares: 159.65
 });
     MERGE (s:Site {
@@ -4402,7 +4402,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em> The Mausoleum of Oljaytu represents an outstanding achievement in the development of Persian architecture particularly in the Ilkhanid period, characterized by its innovative engineering structure, spatial proportions, architectural forms and the decorative patterns and techniques.</p>",
     year: 2005,
     longitude: 48.79667,
-    latitude: 36.43528
+    latitude: 36.43528,
     area_hectares: 790.14
 });
     MERGE (s:Site {
@@ -4414,7 +4414,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The cultural landscape of Bam is an outstanding representation of the interaction of man and nature in a desert environment, using the qanats. The system is based on a strict social system with precise tasks and responsibilities, which have been maintained in use until the present, but has now become vulnerable to irreversible change.</p>",
     year: 2004,
     longitude: 58.36666667,
-    latitude: 29.11683
+    latitude: 29.11683,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4423,7 +4423,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 47.43666667,
-    latitude: 34.38833333
+    latitude: 34.38833333,
     area_hectares: 187.0
 });
     MERGE (s:Site {
@@ -4432,7 +4432,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 45.47333333,
-    latitude: 38.97888889
+    latitude: 38.97888889,
     area_hectares: 129.2819
 });
     MERGE (s:Site {
@@ -4441,7 +4441,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: 48.83583333,
-    latitude: 32.01861111
+    latitude: 32.01861111,
     area_hectares: 240.4152
 });
     MERGE (s:Site {
@@ -4450,7 +4450,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 46.29305556,
-    latitude: 38.08138889
+    latitude: 38.08138889,
     area_hectares: 28.9733
 });
     MERGE (s:Site {
@@ -4459,7 +4459,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 53.16666667,
-    latitude: 30.16666667
+    latitude: 30.16666667,
     area_hectares: 716.35
 });
     MERGE (s:Site {
@@ -4468,7 +4468,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 51.68527778,
-    latitude: 32.66972222
+    latitude: 32.66972222,
     area_hectares: 2.0756
 });
     MERGE (s:Site {
@@ -4477,7 +4477,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 55.169,
-    latitude: 37.25802778
+    latitude: 37.25802778,
     area_hectares: 1.4754
 });
     MERGE (s:Site {
@@ -4486,7 +4486,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 51.42051111,
-    latitude: 35.68036667
+    latitude: 35.68036667,
     area_hectares: 5.3
 });
     MERGE (s:Site {
@@ -4495,7 +4495,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 55.37555556,
-    latitude: 30.16805556
+    latitude: 30.16805556,
     area_hectares: 4953.85
 });
     MERGE (s:Site {
@@ -4504,7 +4504,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 48.25611111,
-    latitude: 32.18944444
+    latitude: 32.18944444,
     area_hectares: 350.0
 });
     MERGE (s:Site {
@@ -4513,7 +4513,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 61.32777778,
-    latitude: 30.59388889
+    latitude: 30.59388889,
     area_hectares: 275.0
 });
     MERGE (s:Site {
@@ -4522,7 +4522,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 58.83888889,
-    latitude: 30.21611111
+    latitude: 30.21611111,
     area_hectares: 2278015.0
 });
     MERGE (s:Site {
@@ -4531,7 +4531,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 58.65444444,
-    latitude: 34.29
+    latitude: 34.29,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -4540,7 +4540,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 54.36916667,
-    latitude: 31.90138889
+    latitude: 31.90138889,
     area_hectares: 195.67
 });
     MERGE (s:Site {
@@ -4549,7 +4549,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 51.57045,
-    latitude: 29.77748056
+    latitude: 29.77748056,
     area_hectares: 639.3
 });
     MERGE (s:Site {
@@ -4558,7 +4558,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 43.82354306,
-    latitude: 34.34098944
+    latitude: 34.34098944,
     area_hectares: 15058.0
 });
     MERGE (s:Site {
@@ -4567,7 +4567,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 42.71833,
-    latitude: 35.58806
+    latitude: 35.58806,
     area_hectares: 323.75
 });
     MERGE (s:Site {
@@ -4576,7 +4576,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii: Founded in the 3rd millennium BCE, the most important role of Ashur was from the 14th to 9th century BCE when it was the first capital of the Assyrian empire. Ashur was also the religious capital of Assyrians, and the place for crowning and burial of its kings. Criterion iv: The excavated remains of the public and residential buildings of Ashur provide an outstanding record of the evolution of building practice from the Sumerian and Akkadian period through the Assyrian empire, as well as including the short revival during the Parthian period.</p>",
     year: 2003,
     longitude: 43.25972,
-    latitude: 35.45889
+    latitude: 35.45889,
     area_hectares: 70.0
 });
     MERGE (s:Site {
@@ -4585,7 +4585,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 44.00916667,
-    latitude: 36.19111111
+    latitude: 36.19111111,
     area_hectares: 15.6
 });
     MERGE (s:Site {
@@ -4594,7 +4594,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 47.65777778,
-    latitude: 31.56222222
+    latitude: 31.56222222,
     area_hectares: 211544.0
 });
     MERGE (s:Site {
@@ -4603,7 +4603,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed the site under <em>criteria (i), (iii) and (iv)</em> and invited the Irish authorities to control carefully future developments in and around the site and to involve ICOMOS in conservation and management planning.</p>",
     year: 1993,
     longitude: -6.45,
-    latitude: 53.69167
+    latitude: 53.69167,
     area_hectares: 770.0
 });
     MERGE (s:Site {
@@ -4612,7 +4612,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural <em>criteria (iii) and (iv)</em> considering that the site is of outstanding universal value being an exceptional, and in many respects unique example of an early religious settlement deliberately sited on a pyramidal rock in the ocean, preserved because of a remarkable environment. It illustrates, as no other site can, the extremes of a Christian monasticism characterizing much of North Africa, the Near East and Europe.</p>",
     year: 1996,
     longitude: -10.53861,
-    latitude: 51.77194
+    latitude: 51.77194,
     area_hectares: 21.9
 });
     MERGE (s:Site {
@@ -4623,7 +4623,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The tragic events during the last days of the Jewish refugees who occupied the fortress and palace of Masada make it a symbol both of Jewish cultural identity and, more universally, of the continuing human struggle between oppression and liberty.</p>",
     year: 2001,
     longitude: 35.35275,
-    latitude: 31.3135
+    latitude: 31.3135,
     area_hectares: 276.0
 });
     MERGE (s:Site {
@@ -4634,7 +4634,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> Present-day Acre is an important example of an Ottoman walled town, with typical urban components such as the citadel, mosques, khans, and baths well preserved, partly built on top of the underlying Crusader structures.</p>",
     year: 2001,
     longitude: 35.08388889,
-    latitude: 32.92833333
+    latitude: 32.92833333,
     area_hectares: 63.3
 });
     MERGE (s:Site {
@@ -4644,7 +4644,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The new town of Tel Aviv is an outstanding example of new town planning and architecture in the early 20th century, adapted to the requirements of a particular cultural and geographic context.</p>",
     year: 2003,
     longitude: 34.78333333,
-    latitude: 32.06666667
+    latitude: 32.06666667,
     area_hectares: 140.4
 });
     MERGE (s:Site {
@@ -4654,7 +4654,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v): </em> The almost fossilised remains of towns, forts, caravanserai and sophisticated agricultural systems strung out along the Incense route in the Negev desert, display an outstanding response to a hostile desert environment and one that flourished for five centuries.</p>",
     year: 2005,
     longitude: 35.16083,
-    latitude: 30.54111
+    latitude: 30.54111,
     area_hectares: 6655.0
 });
     MERGE (s:Site {
@@ -4666,7 +4666,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi): </em> The three tels, through their mentions in the Bible, constitute a religious and spiritual testimony of outstanding universal value.</p>",
     year: 2005,
     longitude: 35.18222,
-    latitude: 32.59722
+    latitude: 32.59722,
     area_hectares: 96.04
 });
     MERGE (s:Site {
@@ -4675,7 +4675,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 34.97164889,
-    latitude: 32.82939667
+    latitude: 32.82939667,
     area_hectares: 62.58
 });
     MERGE (s:Site {
@@ -4684,7 +4684,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 34.89555556,
-    latitude: 31.6
+    latitude: 31.6,
     area_hectares: 259.0
 });
     MERGE (s:Site {
@@ -4694,7 +4694,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 34.96527778,
-    latitude: 32.67
+    latitude: 32.67,
     area_hectares: 54.0
 });
     MERGE (s:Site {
@@ -4703,7 +4703,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 35.12694444,
-    latitude: 32.70222222
+    latitude: 32.70222222,
     area_hectares: 12.2
 });
     MERGE (s:Site {
@@ -4712,7 +4712,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 9.1705,
-    latitude: 45.46588889
+    latitude: 45.46588889,
     area_hectares: 1.5
 });
     MERGE (s:Site {
@@ -4721,7 +4721,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 10.29733333,
-    latitude: 45.95705556
+    latitude: 45.95705556,
     area_hectares: 432.3
 });
     MERGE (s:Site {
@@ -4730,7 +4730,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 11.25611,
-    latitude: 43.77306
+    latitude: 43.77306,
     area_hectares: 505.0
 });
     MERGE (s:Site {
@@ -4739,7 +4739,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 11.30416667,
-    latitude: 43.85777778
+    latitude: 43.85777778,
     area_hectares: 125.4
 });
     MERGE (s:Site {
@@ -4748,7 +4748,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 12.33894444,
-    latitude: 45.43430556
+    latitude: 45.43430556,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4757,7 +4757,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 10.39638889,
-    latitude: 43.72305556
+    latitude: 43.72305556,
     area_hectares: 8.87
 });
     MERGE (s:Site {
@@ -4766,7 +4766,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (i), (ii) and (iii) considering that the site is of outstanding universal value in its formal perfection and its harmonious blending of cultural elements from northern Europe, the Muslim world, and classical antiquity. Castel del Monte is a unique masterpiece of medieval military architecture, reflecting the humanism of its founder, Frederick II of Hohenstaufen.</p>",
     year: 1996,
     longitude: 16.27094444,
-    latitude: 41.08480556
+    latitude: 41.08480556,
     area_hectares: 3.1
 });
     MERGE (s:Site {
@@ -4775,7 +4775,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (i), (ii), (iii) and (iv), considering that the monumental complex at Caserta, whilst cast in the same mould as other 18th century royal establishments, is exceptional for the broad sweep of its design, incorporating not only an imposing palace and park, but also much of the surrounding natural landscape and an ambitious new town laid out according to the urban planning precepts of its time. The industrial complex of the Belvedere, designed to produce silk, is also of outstanding interest because of the idealistic principles that underlay its original conception and management.</p>",
     year: 1997,
     longitude: 14.32639,
-    latitude: 41.07333
+    latitude: 41.07333,
     area_hectares: 87.37
 });
     MERGE (s:Site {
@@ -4784,7 +4784,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 11.04167,
-    latitude: 43.46806
+    latitude: 43.46806,
     area_hectares: 13.88
 });
     MERGE (s:Site {
@@ -4793,7 +4793,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 16.61027778,
-    latitude: 40.66638889
+    latitude: 40.66638889,
     area_hectares: 1016.0
 });
     MERGE (s:Site {
@@ -4802,7 +4802,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 11.54944444,
-    latitude: 45.54916667
+    latitude: 45.54916667,
     area_hectares: 333.87
 });
     MERGE (s:Site {
@@ -4811,7 +4811,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 11.33166667,
-    latitude: 43.31861111
+    latitude: 43.31861111,
     area_hectares: 170.0
 });
     MERGE (s:Site {
@@ -4820,7 +4820,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 14.26277778,
-    latitude: 40.85138889
+    latitude: 40.85138889,
     area_hectares: 1021.0
 });
     MERGE (s:Site {
@@ -4829,7 +4829,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 9.53833,
-    latitude: 45.59333
+    latitude: 45.59333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -4839,7 +4839,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The Po Delta is an outstanding planned cultural landscape which retains its original form to a remarkable extent.</p>",
     year: 1995,
     longitude: 11.61944444,
-    latitude: 44.83777778
+    latitude: 44.83777778,
     area_hectares: 46712.0
 });
     MERGE (s:Site {
@@ -4848,7 +4848,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (iii), (iv) and (v) considering that the site is of outstanding universal value being an exceptional example of a form of building construction deriving from prehistoric construction techniques that have survived intact and functioning into the modern world.</p>",
     year: 1996,
     longitude: 17.23694,
-    latitude: 40.7825
+    latitude: 40.7825,
     area_hectares: 10.52
 });
     MERGE (s:Site {
@@ -4857,7 +4857,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (i), (ii), (iii) and (iv) considering that the site is of outstanding universal value being of remarkable significance by virtue of the supreme artistry of the mosaic art that the monuments contain, and also because of the crucial evidence that they provide of artistic and religious relationships and contacts at an important period of European cultural history.</p>",
     year: 1996,
     longitude: 12.19625,
-    latitude: 44.42041667
+    latitude: 44.42041667,
     area_hectares: 1.32
 });
     MERGE (s:Site {
@@ -4867,7 +4867,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Verona represents in an exceptional way the concept of the fortified town at several seminal stages of European history.</p>",
     year: 2000,
     longitude: 10.99388889,
-    latitude: 45.43861111
+    latitude: 45.43861111,
     area_hectares: 444.4
 });
     MERGE (s:Site {
@@ -4876,7 +4876,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (i), (ii), (iv) and (v), considering that the Residences of the Royal House of Savoy in and around Turin represent a comprehensive overview of European monumental architecture in the 17th and 18th centuries, using style, dimensions, and space to illustrate in an exceptional way the prevailing doctrine of absolute monarchy in material terms.</p>",
     year: 1997,
     longitude: 7.68572,
-    latitude: 45.07253
+    latitude: 45.07253,
     area_hectares: 370.82
 });
     MERGE (s:Site {
@@ -4885,7 +4885,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii) and (iii), considering that the Botanical Garden of Padua is the original of all botanical gardens throughout the world, and represents the birth of science, of scientific exchanges, and understanding of the relationship between nature and culture. It has made a profound contribution to the development of many modern scientific disciplines, notably botany, medicine, chemistry, ecology, and pharmacy.</p>",
     year: 1997,
     longitude: 11.88066667,
-    latitude: 45.39911111
+    latitude: 45.39911111,
     area_hectares: 2.2
 });
     MERGE (s:Site {
@@ -4894,7 +4894,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii: Aquileia was one of the largest and most wealthy cities of the Early Roman Empire. Criterion iv: By virtue of the fact that most of ancient Aquileia survives intact and unexcavated, it is the most complete example of an Early Roman city in the Mediterranean world. Criterion vi: The Patriarchal Basilican Complex in Aquileia played a decisive role in the spread of Christianity into central Europe in the early Middle Ages.</p>",
     year: 1998,
     longitude: 13.3675,
-    latitude: 45.76833333
+    latitude: 45.76833333,
     area_hectares: 155.43
 });
     MERGE (s:Site {
@@ -4903,7 +4903,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of criteria (ii), (iv) and (v), considering that the eastern Ligurian Riviera between Cinque Terre and Portovenere is a cultural site of outstanding value, representing the harmonious interaction between people and nature to produce a landscape of exceptional scenic quality that illustrates a traditional way of life that has existed for a thousand years and continues to play an important socio-economic role in the life of the community.</p>",
     year: 1997,
     longitude: 9.72917,
-    latitude: 44.10694
+    latitude: 44.10694,
     area_hectares: 4689.25
 });
     MERGE (s:Site {
@@ -4912,7 +4912,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (i), (ii), (iii) and (iv), considering that the joint creation of Lanfranco and Wiligelmo is a masterpiece of human creative genius in which a new dialectical relationship between architecture and sculpture was created in Romanesque art. The Modena complex bears exceptional witness to the cultural traditions of the 12th century and is one of the best examples of an architectural complex where religious and civic values are combined in a medieval Christian town.</p>",
     year: 1997,
     longitude: 10.92568,
-    latitude: 44.64624
+    latitude: 44.64624,
     area_hectares: 1.2
 });
     MERGE (s:Site {
@@ -4922,7 +4922,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Urbino represents a pinnacle of Renaissance art and architecture, harmoniously adapted to its physical site and to its medieval precursor in an exceptional manner.</p>",
     year: 1998,
     longitude: 12.63333,
-    latitude: 43.725
+    latitude: 43.725,
     area_hectares: 29.23
 });
     MERGE (s:Site {
@@ -4931,7 +4931,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (iii), (iv) and (v), considering that the impressive remains of the towns of Pompei and Herculaneum and their associated villas, buried by the eruption of Vesuvius in AD 79, provide a complete and vivid picture of society and daily life at a specific moment in the past that is without parallel anywhere in the world.</p>",
     year: 1997,
     longitude: 14.48333333,
-    latitude: 40.75
+    latitude: 40.75,
     area_hectares: 98.05
 });
     MERGE (s:Site {
@@ -4940,7 +4940,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of criteria (ii), (iv) and (v), considering that the Costiera Amalfitana is an outstanding example of a Mediterranean landscape, with exceptional cultural and natural scenic values resulting from its dramatic topography and historical evolution.</p>",
     year: 1997,
     longitude: 14.6,
-    latitude: 40.65
+    latitude: 40.65,
     area_hectares: 11231.0
 });
     MERGE (s:Site {
@@ -4949,7 +4949,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of criteria (i), (ii), (iii) and (iv), considering that Agrigento was one of the greatest cities of the ancient Mediterranean world, and it has been preserved in an exceptionally intact condition. Its great row of Doric temples is one of the most outstanding monuments of Greek art and culture.</p>",
     year: 1997,
     longitude: 13.59333333,
-    latitude: 37.28972222
+    latitude: 37.28972222,
     area_hectares: 934.0
 });
     MERGE (s:Site {
@@ -4958,7 +4958,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (i), (ii) and (iii), considering that the Villa del Casale at Piazza Armerina is the supreme example of a luxury Roman villa, which graphically illustrates the predominant social and economic structure of its age. The mosaics that decorate it are exceptional for their artistic quality and invention as well as their extent.</p>",
     year: 1997,
     longitude: 14.33417,
-    latitude: 37.36611
+    latitude: 37.36611,
     area_hectares: 8.92
 });
     MERGE (s:Site {
@@ -4967,7 +4967,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of cultural criteria (i), (iii) and (iv), considering that the nuraghe of Sardinia, of which Su Nuraxi is the pre-eminent example, represent an exceptional response to political and social conditions, making an imaginative and innovative use of the materials and techniques available to a prehistoric island community.</p>",
     year: 1997,
     longitude: 8.991388889,
-    latitude: 39.70583333
+    latitude: 39.70583333,
     area_hectares: 2.3254
 });
     MERGE (s:Site {
@@ -4977,7 +4977,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> In two key episodes in the development of human societies in the Mediterranean region, the Cilento area provided the only viable means of communication between the Adriatic and the Tyrrhenian seas, in the central Mediterranean region, and this is vividly illustrated by the relict cultural landscape of today.</p>",
     year: 1998,
     longitude: 15.26666667,
-    latitude: 40.28333333
+    latitude: 40.28333333,
     area_hectares: 159109.73
 });
     MERGE (s:Site {
@@ -4987,7 +4987,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (ii):</em> Study of the monuments that make up the Villa Adriana played a crucial role in the rediscovery of the elements of classical architecture by the architects of the Renaissance and the Baroque period. It also profoundly influenced many 19th and 20th century architects and designers.</p>",
     year: 1999,
     longitude: 12.77197222,
-    latitude: 41.94416667
+    latitude: 41.94416667,
     area_hectares: 80.0
 });
     MERGE (s:Site {
@@ -4996,7 +4996,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (viii):</em> The islands' volcanic landforms represent classic features in the continuing study of volcanology world-wide. With their scientific study from at least the 18th Century, the islands have provided two of the types of eruptions (Vulcanian and Strombolian) to vulcanology and geology textbooks and so have featured prominently in the education of all geoscientists for over 200 years. They continue to provide a rich field for volcanological studies of on-going geological processes in the development of landforms.</p>",
     year: 2000,
     longitude: 14.94558333,
-    latitude: 38.48786111
+    latitude: 38.48786111,
     area_hectares: 1216.0
 });
     MERGE (s:Site {
@@ -5009,7 +5009,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> Being the birthplace of the Franciscan Order, Assisi has from the Middle Ages been closely associated with the cult and diffusion of the Franciscan movement in the world, focusing on the universal message of peace and tolerance even to other religions or beliefs.</p>",
     year: 2000,
     longitude: 12.62244444,
-    latitude: 43.06616667
+    latitude: 43.06616667,
     area_hectares: 14563.25
 });
     MERGE (s:Site {
@@ -5021,7 +5021,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The eight towns of south-eastern Sicily that make up this nomination, which are characteristic of the settlement pattern and urban form of this region, are permanently at risk from earthquakes and eruptions of Mount Etna.</p>",
     year: 2002,
     longitude: 15.06891667,
-    latitude: 36.89319444
+    latitude: 36.89319444,
     area_hectares: 112.79
 });
     MERGE (s:Site {
@@ -5033,7 +5033,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The gardens of the Villa d&rsquo;Este are among the earliest and finest of the <em>giardini delle meraviglie</em> and symbolize the flowering of Renaissance culture.</p>",
     year: 2001,
     longitude: 12.79625,
-    latitude: 41.96391667
+    latitude: 41.96391667,
     area_hectares: 4.5
 });
     MERGE (s:Site {
@@ -5043,7 +5043,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The landscape of the Val d&rsquo;Orcia was celebrated by painters from the Siennese School, which flourished during the Renaissance. Images of the Val d&rsquo;Orcia, and particularly depictions of landscapes where people are depicted as living in harmony with nature, have come to be seen as icons of the Renaissance and have profoundly influenced the development of landscape thinking.</p>",
     year: 2004,
     longitude: 11.55,
-    latitude: 43.06666667
+    latitude: 43.06666667,
     area_hectares: 61187.9609
 });
     MERGE (s:Site {
@@ -5053,7 +5053,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Sacri Monti (&lsquo;Sacred Mountains&rsquo;) of northern Italy represent the successful integration of architecture and fine art into a landscape of great beauty for spiritual reasons at a critical period in the history of the Roman Catholic Church.</p>",
     year: 2003,
     longitude: 9.169555556,
-    latitude: 45.97455556
+    latitude: 45.97455556,
     area_hectares: 90.5
 });
     MERGE (s:Site {
@@ -5064,7 +5064,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Many of the tombs of Tarquinia and Cerveteri represent types of buildings which no longer exist in any other form. The cemeteries, replicas of Etruscan town planning schemes, are some of the earliest existing in the region.</p>",
     year: 2004,
     longitude: 12.10188889,
-    latitude: 42.00683333
+    latitude: 42.00683333,
     area_hectares: 326.93
 });
     MERGE (s:Site {
@@ -5076,7 +5076,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi): </em>Ancient Syracuse was directly linked to events, ideas and literary works of outstanding universal significance.</p>",
     year: 2005,
     longitude: 15.29306,
-    latitude: 37.05944
+    latitude: 37.05944,
     area_hectares: 898.46
 });
     MERGE (s:Site {
@@ -5085,7 +5085,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 8.931111111,
-    latitude: 44.41222222
+    latitude: 44.41222222,
     area_hectares: 15.777
 });
     MERGE (s:Site {
@@ -5094,7 +5094,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: 12.16305556,
-    latitude: 46.61305556
+    latitude: 46.61305556,
     area_hectares: 141902.8
 });
     MERGE (s:Site {
@@ -5103,7 +5103,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 10.79444444,
-    latitude: 45.15944444
+    latitude: 45.15944444,
     area_hectares: 235.0
 });
     MERGE (s:Site {
@@ -5112,7 +5112,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 13.43305556,
-    latitude: 46.09416667
+    latitude: 46.09416667,
     area_hectares: 14.08
 });
     MERGE (s:Site {
@@ -5121,7 +5121,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 7.963611111,
-    latitude: 44.60861111
+    latitude: 44.60861111,
     area_hectares: 10789.0
 });
     MERGE (s:Site {
@@ -5130,7 +5130,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 14.99666667,
-    latitude: 37.75611111
+    latitude: 37.75611111,
     area_hectares: 19237.0
 });
     MERGE (s:Site {
@@ -5139,7 +5139,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 13.35305556,
-    latitude: 38.11083333
+    latitude: 38.11083333,
     area_hectares: 6.235
 });
     MERGE (s:Site {
@@ -5148,7 +5148,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 7.869166667,
-    latitude: 45.4575
+    latitude: 45.4575,
     area_hectares: 71.185
 });
     MERGE (s:Site {
@@ -5157,7 +5157,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: -76.57111111,
-    latitude: 18.0775
+    latitude: 18.0775,
     area_hectares: 26251.6
 });
     MERGE (s:Site {
@@ -5166,7 +5166,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 135.7333333,
-    latitude: 34.61666667
+    latitude: 34.61666667,
     area_hectares: 15.03
 });
     MERGE (s:Site {
@@ -5175,7 +5175,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 134.7,
-    latitude: 34.83333333
+    latitude: 34.83333333,
     area_hectares: 107.0
 });
     MERGE (s:Site {
@@ -5184,7 +5184,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 130.5333333,
-    latitude: 30.33333333
+    latitude: 30.33333333,
     area_hectares: 10747.0
 });
     MERGE (s:Site {
@@ -5193,7 +5193,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 140.13,
-    latitude: 40.47
+    latitude: 40.47,
     area_hectares: 16971.0
 });
     MERGE (s:Site {
@@ -5202,7 +5202,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 135.7694444,
-    latitude: 34.98055556
+    latitude: 34.98055556,
     area_hectares: 1056.0
 });
     MERGE (s:Site {
@@ -5211,7 +5211,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 136.8833333,
-    latitude: 36.4
+    latitude: 36.4,
     area_hectares: 68.0
 });
     MERGE (s:Site {
@@ -5220,7 +5220,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the Hiroshima Peace Memorial (Genbaku Dome) on the World Heritage List, exceptionally on the basis of cultural criterion (vi).</p>",
     year: 1996,
     longitude: 132.45,
-    latitude: 34.38333333
+    latitude: 34.38333333,
     area_hectares: 0.4
 });
     MERGE (s:Site {
@@ -5229,7 +5229,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (i), (ii), (iv) and (vi) as the supreme example of this form of religious centre, setting traditional architecture of great artistic and technical merit against a dramatic natural background and thereby creating a work of art of incomparable physical beauty.</p>",
     year: 1996,
     longitude: 132.3246389,
-    latitude: 34.29441667
+    latitude: 34.29441667,
     area_hectares: 431.2
 });
     MERGE (s:Site {
@@ -5238,7 +5238,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (ii): The historic monuments of ancient Nara bear exceptional witness to the evolution of Japanese architecture and art as a result of cultural links with China and Korea which were to have a profound influence on future developments. Criterion (iii): The flowering of Japanese culture during the period when Nara was the capital is uniquely demonstrated by its architectural heritage. Criterion (iv): The layout of the Imperial Palace and the design of the surviving monuments in Nara are outstanding examples of the architecture and planning of early Asian capital cities. Criterion (vi): The Buddhist temples and Shinto shrines of Nara demonstrate the continuing spiritual power and influence of these religions in an exceptional manner.</p>",
     year: 1998,
     longitude: 135.8394444,
-    latitude: 34.67555556
+    latitude: 34.67555556,
     area_hectares: 617.0
 });
     MERGE (s:Site {
@@ -5249,7 +5249,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (vi): The Nikko shrines and temples, together with their environment, are an outstanding example of a traditional Japanese religious centre, associated with the Shinto perception of the relationship of man with nature, in which mountains and forests have a sacred meaning and are objects of veneration, in a religious practice that is still very much alive today.</p>",
     year: 1999,
     longitude: 139.6105556,
-    latitude: 36.7475
+    latitude: 36.7475,
     area_hectares: 50.8
 });
     MERGE (s:Site {
@@ -5261,7 +5261,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> Together, the sites and the forest landscape of the Kii Mountains reflect a persistent and extraordinarily well-documented tradition of sacred mountains over the past 1200 years.</p>",
     year: 2004,
     longitude: 135.7763889,
-    latitude: 33.83694444
+    latitude: 33.83694444,
     area_hectares: 506.4
 });
     MERGE (s:Site {
@@ -5271,7 +5271,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x): </em>Shiretoko has particular importance for a number of marine and terrestrial species. These include a number of endangered and endemic species, such as the Blackiston&rsquo;s Fish owl and the plant species Viola kitamiana. The site is globally important for a number of salmonid species and for a number of marine mammals, including the Steller&rsquo;s sea Lion and a number of cetacean species. The site has significance as a habitat for globally threatened sea birds and is a globally important area for migratory birds.</p>",
     year: 2005,
     longitude: 144.96583,
-    latitude: 43.94944
+    latitude: 43.94944,
     area_hectares: 71100.0
 });
     MERGE (s:Site {
@@ -5280,7 +5280,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 132.435,
-    latitude: 35.11277778
+    latitude: 35.11277778,
     area_hectares: 529.17
 });
     MERGE (s:Site {
@@ -5289,7 +5289,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 141.1077778,
-    latitude: 39.00111111
+    latitude: 39.00111111,
     area_hectares: 176.2
 });
     MERGE (s:Site {
@@ -5298,7 +5298,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 142.0997222,
-    latitude: 27.71833333
+    latitude: 27.71833333,
     area_hectares: 7939.0
 });
     MERGE (s:Site {
@@ -5307,7 +5307,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 138.7275,
-    latitude: 35.36083333
+    latitude: 35.36083333,
     area_hectares: 20702.1
 });
     MERGE (s:Site {
@@ -5316,7 +5316,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 138.8877778,
-    latitude: 36.25527778
+    latitude: 36.25527778,
     area_hectares: 7.2
 });
     MERGE (s:Site {
@@ -5325,7 +5325,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 131.4122222,
-    latitude: 34.43055556
+    latitude: 34.43055556,
     area_hectares: 306.66
 });
     MERGE (s:Site {
@@ -5334,7 +5334,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 128.9038889,
-    latitude: 32.80222222
+    latitude: 32.80222222,
     area_hectares: 5566.55
 });
     MERGE (s:Site {
@@ -5343,7 +5343,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 130.1055556,
-    latitude: 34.245
+    latitude: 34.245,
     area_hectares: 98.93
 });
     MERGE (s:Site {
@@ -5352,7 +5352,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 35.21666667,
-    latitude: 31.78333333
+    latitude: 31.78333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5361,7 +5361,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 35.44333,
-    latitude: 30.33056
+    latitude: 30.33056,
     area_hectares: 26171.0
 });
     MERGE (s:Site {
@@ -5370,7 +5370,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 36.58583,
-    latitude: 31.80194
+    latitude: 31.80194,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5381,7 +5381,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> Umm er-Rasas is strongly associated with monasticism and with the spread of monotheism in the whole region, including Islam.</p>",
     year: 2004,
     longitude: 35.92056,
-    latitude: 31.50167
+    latitude: 31.50167,
     area_hectares: 23.928
 });
     MERGE (s:Site {
@@ -5390,7 +5390,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 35.43388889,
-    latitude: 29.63972222
+    latitude: 29.63972222,
     area_hectares: 74179.7
 });
     MERGE (s:Site {
@@ -5399,7 +5399,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 35.55277778,
-    latitude: 31.83722222
+    latitude: 31.83722222,
     area_hectares: 294.155
 });
     MERGE (s:Site {
@@ -5408,7 +5408,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 69.18888889,
-    latitude: 50.43333333
+    latitude: 50.43333333,
     area_hectares: 450344.0
 });
     MERGE (s:Site {
@@ -5417,7 +5417,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion i: The Mausoleum of Khoja Ahmed Yasawi is an outstanding achievement in the Timurid architecture, and it has significantly contributed to the development of Islamic religious architecture. Criterion iii: The mausoleum and its site represent an exceptional testimony to the culture of the Central Asian region, and to the development of building technology. Criterion iv: The Mausoleum of Khoja Ahmed Yasawi was a prototype for the development of a major building type in the Timurid period, becoming a significant reference in the history of Timurid architecture.</p>",
     year: 2003,
     longitude: 68.27444444,
-    latitude: 43.29305556
+    latitude: 43.29305556,
     area_hectares: 0.55
 });
     MERGE (s:Site {
@@ -5426,7 +5426,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iii):</em> The dense and coherent group of petroglyphs, with sacred images, altars and cult areas, together with their associated settlements and burial sites, provide a substantial testimony to the lives and beliefs of pastoral peoples of the central Asian steppes from the Bronze Age to the present day.</p>",
     year: 2004,
     longitude: 75.535,
-    latitude: 43.80333333
+    latitude: 43.80333333,
     area_hectares: 900.0
 });
     MERGE (s:Site {
@@ -5435,7 +5435,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1997,
     longitude: 37.31555556,
-    latitude: -0.155
+    latitude: -0.155,
     area_hectares: 202334.0
 });
     MERGE (s:Site {
@@ -5444,7 +5444,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed this property on the basis of natural <em>criteria (viii)</em> and <em>(x)</em> for the discoveries of mammal fossil remains in the site which led to the scientific reconstruction of the palaeo-environment of the entire Turkana Lake basin of the Quarternary Period. The Lake Turkana ecosystem with its diverse bird life and desert environment offers an exceptional laboratory for studies of plant and animal communities.</p>",
     year: 1997,
     longitude: 36.50366667,
-    latitude: 3.051305556
+    latitude: 3.051305556,
     area_hectares: 161485.0
 });
     MERGE (s:Site {
@@ -5453,7 +5453,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion ii The architecture and urban structure Lamu graphically demonstrate the cultural influences that have come together there over several hundred years from Europe, Arabia, and India, utilizing traditional Swahili techniques to produce a distinct culture. Criterion iv The growth and decline of the seaports the East African coast and interaction between the Bantu, Arabs, Persians, Indians, and Europeans represents significant cultural and economic phase in the history the region which finds its most outstanding expression Lamu Old Town. Criterion vi Its paramount trading role and its attraction for scholars and teachers gave Lamu an important religious function in the region. It continues to be significant centre for education in Islamic and Swahili culture.</p>",
     year: 2001,
     longitude: 40.8525,
-    latitude: -2.284444444
+    latitude: -2.284444444,
     area_hectares: 15.6
 });
     MERGE (s:Site {
@@ -5462,7 +5462,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 36.24,
-    latitude: -0.4425
+    latitude: -0.4425,
     area_hectares: 32034.0
 });
     MERGE (s:Site {
@@ -5471,7 +5471,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 39.59611111,
-    latitude: -3.931944444
+    latitude: -3.931944444,
     area_hectares: 1538.0
 });
     MERGE (s:Site {
@@ -5480,7 +5480,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 39.67944444,
-    latitude: -4.062777778
+    latitude: -4.062777778,
     area_hectares: 2.36
 });
     MERGE (s:Site {
@@ -5489,7 +5489,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 34.326107,
-    latitude: -0.891338056
+    latitude: -0.891338056,
     area_hectares: 21.0
 });
     MERGE (s:Site {
@@ -5498,7 +5498,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: -172.8575,
-    latitude: -3.649722222
+    latitude: -3.649722222,
     area_hectares: 40825000.0
 });
     MERGE (s:Site {
@@ -5507,7 +5507,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: 72.78277778,
-    latitude: 40.53111111
+    latitude: 40.53111111,
     area_hectares: 112.0
 });
     MERGE (s:Site {
@@ -5516,7 +5516,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 102.13333,
-    latitude: 19.88889
+    latitude: 19.88889,
     area_hectares: 820.0
 });
     MERGE (s:Site {
@@ -5525,7 +5525,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii The Temple Complex of Vat Phou bears exceptional testimony to the cultures of south-east Asia, and in particular to the Khmer Empire which dominated the region in the 10th&ndash;14th centuries. Criterion iv The Vat Phou complex is an outstanding example of the integration of symbolic landscape of great spiritual significance to its natural surroundings. Criterion vi Contrived to express the Hindu version of the relationship between nature and humanity, Vat Phou exhibits a remarkable complex of monuments and other structures over an extensive area between river and mountain, some of outstanding architecture, many containing great works of art, and all expressing intense religious conviction and commitment.</p>",
     year: 2001,
     longitude: 105.8222222,
-    latitude: 14.84833333
+    latitude: 14.84833333,
     area_hectares: 39000.0
 });
     MERGE (s:Site {
@@ -5534,7 +5534,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of <em>criteria (i) and (ii)</em>, considering that the historic centre of Riga, while retaining its medieval and later urban fabric relatively intact, is of outstanding universal value by virtue of the quality and the quantity of its Art Nouveau/Jugendstil architecture, which is unparalleled anywhere in the world, and its 19th century architecture in wood.</p>",
     year: 1997,
     longitude: 24.11667,
-    latitude: 56.95417
+    latitude: 56.95417,
     area_hectares: 438.3
 });
     MERGE (s:Site {
@@ -5543,7 +5543,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 35.92972,
-    latitude: 33.72583
+    latitude: 33.72583,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5552,7 +5552,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 36.20494,
-    latitude: 34.00707
+    latitude: 34.00707,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5561,7 +5561,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 35.6475,
-    latitude: 34.11917
+    latitude: 34.11917,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5570,7 +5570,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 35.19444,
-    latitude: 33.27194
+    latitude: 33.27194,
     area_hectares: 153.8
 });
     MERGE (s:Site {
@@ -5579,7 +5579,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii: The Qadisha Valley has been the site of monastic communities continuously since the earliest years of Christianity. The trees in the Cedar Forest are survivors of a sacred forest and of one of the most highly prized building materials of the ancient world. Criterion iv: The monasteries of the Qadisha Valley are the most significant surviving examples of this fundamental demonstration of Christian faith.</p>",
     year: 1998,
     longitude: 36.04889,
-    latitude: 34.24333
+    latitude: 34.24333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5588,7 +5588,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 14.29306,
-    latitude: 32.63833
+    latitude: 32.63833,
     area_hectares: 387.485
 });
     MERGE (s:Site {
@@ -5597,7 +5597,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 12.485,
-    latitude: 32.80528
+    latitude: 32.80528,
     area_hectares: 90.534
 });
     MERGE (s:Site {
@@ -5606,7 +5606,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 21.85833,
-    latitude: 32.825
+    latitude: 32.825,
     area_hectares: 131.675
 });
     MERGE (s:Site {
@@ -5615,7 +5615,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 10.33333,
-    latitude: 24.83333
+    latitude: 24.83333,
     area_hectares: 3923961.0
 });
     MERGE (s:Site {
@@ -5624,7 +5624,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 9.5,
-    latitude: 30.13333333
+    latitude: 30.13333333,
     area_hectares: 38.4
 });
     MERGE (s:Site {
@@ -5633,7 +5633,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 25.29306,
-    latitude: 54.68667
+    latitude: 54.68667,
     area_hectares: 352.09
 });
     MERGE (s:Site {
@@ -5643,7 +5643,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The settlement patterns and the impressive hill-forts represent outstanding examples of the development of such types of structures and the history of their use in the pre-Christian era.</p>",
     year: 2004,
     longitude: 24.83055556,
-    latitude: 54.88777778
+    latitude: 54.88777778,
     area_hectares: 194.4
 });
     MERGE (s:Site {
@@ -5652,7 +5652,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 6.13333,
-    latitude: 49.61
+    latitude: 49.61,
     area_hectares: 29.94
 });
     MERGE (s:Site {
@@ -5661,7 +5661,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 44.75,
-    latitude: -18.66667
+    latitude: -18.66667,
     area_hectares: 152000.0
 });
     MERGE (s:Site {
@@ -5670,7 +5670,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii The Royal Hill of Ambohimanga is the most significant symbol of the cultural identity of the people of Madagascar. Criterion iv The traditional design, materials, and layout of the Royal Hill of Ambohimanga are representative of the social and political structure of Malagasy society from at least the 16th century. Criterion vi The Royal Hill of Ambohimanga an exceptional example of a place where, over centuries, common human experience has been focused in memory, ritual, and prayer.</p>",
     year: 2001,
     longitude: 47.56278,
-    latitude: -18.75917
+    latitude: -18.75917,
     area_hectares: 59.0
 });
     MERGE (s:Site {
@@ -5679,7 +5679,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 49.7025,
-    latitude: -14.45972222
+    latitude: -14.45972222,
     area_hectares: 479660.7
 });
     MERGE (s:Site {
@@ -5688,7 +5688,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 34.88333,
-    latitude: -14.03333
+    latitude: -14.03333,
     area_hectares: 9400.0
 });
     MERGE (s:Site {
@@ -5697,7 +5697,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 34.27916667,
-    latitude: -14.29333333
+    latitude: -14.29333333,
     area_hectares: 12640.0
 });
     MERGE (s:Site {
@@ -5706,7 +5706,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criteria (ix) and (x): The site has a diverse biota and high endemism. The altitudinal and climatic gradient from tropical forest to alpine conditions combine with precipitous topography, diverse geology and frequent climate oscillations to provide conditions ideal for the development of new species. The Park contains high biodiversity with representatives from more than half the families of all flowering plants. The majority of Borneo&rsquo;s mammals, birds, amphibians and invertebrates (many threatened and vulnerable) occur in the Park.</p>",
     year: 2000,
     longitude: 116.5,
-    latitude: 6.25
+    latitude: 6.25,
     area_hectares: 75370.0
 });
     MERGE (s:Site {
@@ -5715,7 +5715,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criteria (vii), (viii), (ix) and (x): The concentration of caves in Mulu's Melinau Formation with its geomorphic and structural characteristics is an outstanding feature which allows a greater understanding of Earth's history. The caves of Mulu are important for their classic features of underground geomorphology, demonstrating an evolutionary history of more than 1.5 million years. One of the world's finest examples of the collapse process in Karstic terrain can be also found. GMNP provides outstanding scientific opportunities to study theories on the origins of cave faunas. With its deeply-incised canyons, wild rivers, rainforest-covered mountains, spectacular limestone pinnacles, cave passages and decorations, Mulu has outstanding scenic values. GMNP also provides significant natural habitat for a wide range of plant and animal diversity both above and below ground. It is botanically-rich in species and high in endemism, including one of the richest sites in the world for palm species.</p>",
     year: 2000,
     longitude: 114.91667,
-    latitude: 4.13333
+    latitude: 4.13333,
     area_hectares: 52864.0
 });
     MERGE (s:Site {
@@ -5724,7 +5724,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 100.3458333,
-    latitude: 5.421388889
+    latitude: 5.421388889,
     area_hectares: 218.76
 });
     MERGE (s:Site {
@@ -5733,7 +5733,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 100.9723278,
-    latitude: 5.067908333
+    latitude: 5.067908333,
     area_hectares: 398.64
 });
     MERGE (s:Site {
@@ -5742,7 +5742,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -4.555,
-    latitude: 13.90639
+    latitude: 13.90639,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5751,7 +5751,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -2.999444444,
-    latitude: 16.77333333
+    latitude: 16.77333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5760,7 +5760,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1989,
     longitude: -3.41667,
-    latitude: 14.33333
+    latitude: 14.33333,
     area_hectares: 327390.0
 });
     MERGE (s:Site {
@@ -5769,7 +5769,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2004,
     longitude: -0.04456,
-    latitude: 16.2898
+    latitude: 16.2898,
     area_hectares: 4.24
 });
     MERGE (s:Site {
@@ -5778,7 +5778,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 14.50739,
-    latitude: 35.87134
+    latitude: 35.87134,
     area_hectares: 0.13
 });
     MERGE (s:Site {
@@ -5787,7 +5787,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 14.51444,
-    latitude: 35.90056
+    latitude: 35.90056,
     area_hectares: 55.5
 });
     MERGE (s:Site {
@@ -5796,7 +5796,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 14.26947,
-    latitude: 36.04908
+    latitude: 36.04908,
     area_hectares: 3.155
 });
     MERGE (s:Site {
@@ -5805,7 +5805,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 165.3805556,
-    latitude: 11.6
+    latitude: 11.6,
     area_hectares: 73500.0
 });
     MERGE (s:Site {
@@ -5814,7 +5814,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1989,
     longitude: -16.10889,
-    latitude: 20.23472
+    latitude: 20.23472,
     area_hectares: 1200000.0
 });
     MERGE (s:Site {
@@ -5823,7 +5823,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the World Heritage List on the basis of cultural criteria (iii), (iv) and (v) considering that these four ancient cities constitute exceptional examples of settlements built to serve the important trade routes of the Sahara Desert, and which were witness to cultural, social and economic contacts for many centuries.</p>",
     year: 1996,
     longitude: -11.62361,
-    latitude: 20.92889
+    latitude: 20.92889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5832,7 +5832,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 57.50316667,
-    latitude: -20.15863889
+    latitude: -20.15863889,
     area_hectares: 0.164
 });
     MERGE (s:Site {
@@ -5841,7 +5841,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 57.32833333,
-    latitude: -20.45194444
+    latitude: -20.45194444,
     area_hectares: 349.6
 });
     MERGE (s:Site {
@@ -5850,7 +5850,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -87.79167,
-    latitude: 19.38333
+    latitude: 19.38333,
     area_hectares: 528000.0
 });
     MERGE (s:Site {
@@ -5859,7 +5859,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -92.05,
-    latitude: 17.48333
+    latitude: 17.48333,
     area_hectares: 1772.0
 });
     MERGE (s:Site {
@@ -5868,7 +5868,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -99.13278,
-    latitude: 19.41833
+    latitude: 19.41833,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5877,7 +5877,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -98.84167,
-    latitude: 19.69167
+    latitude: 19.69167,
     area_hectares: 250.0
 });
     MERGE (s:Site {
@@ -5886,7 +5886,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -96.72167,
-    latitude: 17.06194
+    latitude: 17.06194,
     area_hectares: 375.0
 });
     MERGE (s:Site {
@@ -5895,7 +5895,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -98.20833,
-    latitude: 19.04722
+    latitude: 19.04722,
     area_hectares: 690.0
 });
     MERGE (s:Site {
@@ -5904,7 +5904,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -101.25556,
-    latitude: 21.01694
+    latitude: 21.01694,
     area_hectares: 2167.5
 });
     MERGE (s:Site {
@@ -5913,7 +5913,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -88.6,
-    latitude: 20.66667
+    latitude: 20.66667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5922,7 +5922,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -114.22778,
-    latitude: 27.79222
+    latitude: 27.79222,
     area_hectares: 369631.0
 });
     MERGE (s:Site {
@@ -5931,7 +5931,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii: Paquim&eacute; Casas Grandes bears eloquent and abundant testimony to an important element in the cultural evolution of North America, and in particular to prehispanic commercial and cultural links. Criterion iv: The extensive remains of the archaeological site of Paquim&eacute; Casas Grandes provide exceptional evidence of the development of adobe architecture in North America, and in particular of the blending of this with the more advanced techniques of Mesoamerica.</p>",
     year: 1998,
     longitude: -107.95556,
-    latitude: 30.37583
+    latitude: 30.37583,
     area_hectares: 146.72
 });
     MERGE (s:Site {
@@ -5940,7 +5940,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: -101.19167,
-    latitude: 19.70444
+    latitude: 19.70444,
     area_hectares: 390.0
 });
     MERGE (s:Site {
@@ -5949,7 +5949,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: -97.3775,
-    latitude: 20.47639
+    latitude: 20.47639,
     area_hectares: 240.0
 });
     MERGE (s:Site {
@@ -5958,7 +5958,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -102.55556,
-    latitude: 22.76667
+    latitude: 22.76667,
     area_hectares: 207.72
 });
     MERGE (s:Site {
@@ -5967,7 +5967,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: -98.89778,
-    latitude: 18.93472
+    latitude: 18.93472,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -5976,7 +5976,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -112.91611,
-    latitude: 27.65556
+    latitude: 27.65556,
     area_hectares: 182600.0
 });
     MERGE (s:Site {
@@ -5985,7 +5985,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (i), (ii) and (iii) considering that the site is of outstanding universal value. The ruins of the ceremonial structures at Uxmal represent the pinnacle of late Mayan art and architecture in their design, layout and ornamentation, and the complex of Uxmal and its three related towns of Kab h, Labn  and Sayil admirably demonstrate the social and economic structure of late Mayan society.</p>",
     year: 1996,
     longitude: -89.77027778,
-    latitude: 20.36166667
+    latitude: 20.36166667,
     area_hectares: 2059.8
 });
     MERGE (s:Site {
@@ -5994,7 +5994,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (ii) and (iv) considering that the site is of outstanding universal value and an exceptional example of a colonial town whose layout symbolizes its multi- ethnic population. It is also endowed with a wealth of outstanding buildings, notably from the 17th and 18th centuries.</p>",
     year: 1996,
     longitude: -100.3666667,
-    latitude: 20.58333333
+    latitude: 20.58333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6003,7 +6003,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (i), (ii), (iii) and (iv), considering that the Hospicio Caba&ntilde;as is a unique architectural complex, designed to respond to social and economic requirements for housing the sick, the aged, the young, and the needy, which provides an outstanding solution of great subtlety and humanity. It also houses one of the acknowledged masterpieces of mural art.</p>",
     year: 1997,
     longitude: -103.3397222,
-    latitude: 20.67388889
+    latitude: 20.67388889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6012,7 +6012,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion ii: The urban layout and architecture of Tlacotalpan represent a fusion of Spanish and Caribbean traditions of exceptional importance and quality. Criterion iv: Tlacotalpan is a Spanish colonial river port on the Gulf coast of Mexico which has preserved its original urban fabric to an exceptional degree. Its outstanding character lies in its townscape of wide streets, modest houses in an exuberant variety of styles and colours, and many mature trees in public and private open spaces.</p>",
     year: 1998,
     longitude: -95.65833333,
-    latitude: 18.60833333
+    latitude: 18.60833333,
     area_hectares: 75.0
 });
     MERGE (s:Site {
@@ -6021,7 +6021,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (ii): The harbour town of Campeche is an urbanization model of a Baroque colonial town, with its checkerboard street plan; the defensive walls surrounding its historic centre reflect the influence of the military architecture in the Caribbean. Criterion (iv): The fortifications system of Campeche, an eminent example of the military architecture of the 17th and 18th centuries, is part of an overall defensive system set up by the Spanish to protect the ports on the Caribbean Sea from pirate attacks.</p>",
     year: 1999,
     longitude: -90.53722,
-    latitude: 19.84639
+    latitude: 19.84639,
     area_hectares: 181.0
 });
     MERGE (s:Site {
@@ -6030,7 +6030,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (iii): Xochicalco is an exceptionally well preserved and complete example of a fortified settlement from the Epiclassic Period of Mesoamerica. Criterion (iv): The architecture and art of Xochicalco represent the fusion of cultural elements from different parts of Mesoamerica, at a period when the breakdown of earlier political structures resulted in intensive cultural regroup-ing.</p>",
     year: 1999,
     longitude: -99.275,
-    latitude: 18.81028
+    latitude: 18.81028,
     area_hectares: 707.65
 });
     MERGE (s:Site {
@@ -6039,7 +6039,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2002,
     longitude: -89.73728333,
-    latitude: 18.05302778
+    latitude: 18.05302778,
     area_hectares: 331397.0
 });
     MERGE (s:Site {
@@ -6048,7 +6048,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion ii: The Sierra Gorda Missions exhibit an important interchange of values in the process of evangelisation of central and northern Mexico, and the western United States. Criterion iii: The five Sierra Gorda missions bear witness to the cultural encounter of the European missions with the nomadic populations of central Mexico, remaining a significant testimony to this second phase of evangelisation in North America.</p>",
     year: 2003,
     longitude: -99.46411111,
-    latitude: 21.20438889
+    latitude: 21.20438889,
     area_hectares: 103.7
 });
     MERGE (s:Site {
@@ -6058,7 +6058,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (ii):</em> The work of Luis Barrag&aacute;n exhibits the integration of modern and traditional influences, which in turn have had an important impact especially on the design of garden and urban landscape design.</p>",
     year: 2004,
     longitude: -99.19833333,
-    latitude: 19.41833333
+    latitude: 19.41833333,
     area_hectares: 0.1161
 });
     MERGE (s:Site {
@@ -6069,7 +6069,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x): </em>The diversity of terrestrial and marine life is extraordinary and constitutes a unique ecoregion of high priority for biodiversity conservation. The number of species of vascular plants (695) present in this serial property is higher than that reported in other marine and insular properties included in the WH List. The number of species of fish (891) is also highest when compared to a number of marine and insular properties. In addition the marine endemism is important, with 90 endemic fishes. The serial property contains 39% of the world s total number of marine mammal s species and a third of the world s total number of marine cetacean s species. In addition the serial property includes a good sample of the Sonora desert ecosystems, considered one of the richest deserts in the world from the desert biodiversity point of view.</p>",
     year: 2005,
     longitude: -112.54583,
-    latitude: 27.62667
+    latitude: 27.62667,
     area_hectares: 688558.0
 });
     MERGE (s:Site {
@@ -6078,7 +6078,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: -103.7786111,
-    latitude: 20.86305556
+    latitude: 20.86305556,
     area_hectares: 35018.852
 });
     MERGE (s:Site {
@@ -6087,7 +6087,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: -99.18805556,
-    latitude: 19.33222222
+    latitude: 19.33222222,
     area_hectares: 176.5
 });
     MERGE (s:Site {
@@ -6096,7 +6096,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: -100.7463889,
-    latitude: 20.91444444
+    latitude: 20.91444444,
     area_hectares: 46.95
 });
     MERGE (s:Site {
@@ -6105,7 +6105,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: -100.2416667,
-    latitude: 19.60638889
+    latitude: 19.60638889,
     area_hectares: 13551.552
 });
     MERGE (s:Site {
@@ -6114,7 +6114,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: -102.3791667,
-    latitude: 22.60805556
+    latitude: 22.60805556,
     area_hectares: 3101.91
 });
     MERGE (s:Site {
@@ -6123,7 +6123,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: -96.42111111,
-    latitude: 16.95083333
+    latitude: 16.95083333,
     area_hectares: 1515.17
 });
     MERGE (s:Site {
@@ -6132,7 +6132,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: -98.66256667,
-    latitude: 19.83527778
+    latitude: 19.83527778,
     area_hectares: 6540.0
 });
     MERGE (s:Site {
@@ -6141,7 +6141,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: -110.9752778,
-    latitude: 18.78805556
+    latitude: 18.78805556,
     area_hectares: 636685.375
 });
     MERGE (s:Site {
@@ -6150,7 +6150,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 158.3308333,
-    latitude: 6.839722222
+    latitude: 6.839722222,
     area_hectares: 76.7
 });
     MERGE (s:Site {
@@ -6161,7 +6161,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Orkhon valley is an outstanding example of a valley that illustrates several significant stages in human history. First and foremost it was the centre of the Mongolian Empire; secondly it reflects a particular Mongolian variation of Turkish power; thirdly, the Tuvkhun hermitage monastery was the setting for the development of a Mongolian form of Buddhism; and fourthly, Khar Balgas, reflects the Uighur urban culture in the capital of the Uighur Empire.</p>",
     year: 2004,
     longitude: 102.8313889,
-    latitude: 47.55666667
+    latitude: 47.55666667,
     area_hectares: 121967.0
 });
     MERGE (s:Site {
@@ -6170,7 +6170,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 88.39527778,
-    latitude: 49.33388889
+    latitude: 49.33388889,
     area_hectares: 11300.0
 });
     MERGE (s:Site {
@@ -6179,7 +6179,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 109.0093278,
-    latitude: 48.76197778
+    latitude: 48.76197778,
     area_hectares: 443739.2
 });
     MERGE (s:Site {
@@ -6188,7 +6188,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 19.0166,
-    latitude: 43.133
+    latitude: 43.133,
     area_hectares: 32100.0
 });
     MERGE (s:Site {
@@ -6197,7 +6197,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 18.7,
-    latitude: 42.48333
+    latitude: 42.48333,
     area_hectares: 14600.0
 });
     MERGE (s:Site {
@@ -6206,7 +6206,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -4.97778,
-    latitude: 34.06111
+    latitude: 34.06111,
     area_hectares: 280.0
 });
     MERGE (s:Site {
@@ -6215,7 +6215,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -7.98667,
-    latitude: 31.63139
+    latitude: 31.63139,
     area_hectares: 1107.0
 });
     MERGE (s:Site {
@@ -6224,7 +6224,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -7.12889,
-    latitude: 31.04722
+    latitude: 31.04722,
     area_hectares: 3.03
 });
     MERGE (s:Site {
@@ -6233,7 +6233,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion ii Essaouira is an outstanding and well preserved example of a late 18th century European fortified seaport town translated to a North African context. Criterion iv With the opening up of Morocco to the rest of the world in the later 17th century Essaouira was laid out by a French architect who had been profoundly influenced by the work of Vauban at Saint-Malo. It has retained its European appearance to a substantial extent.</p>",
     year: 2001,
     longitude: -9.76944,
-    latitude: 31.51667
+    latitude: 31.51667,
     area_hectares: 30.0
 });
     MERGE (s:Site {
@@ -6242,7 +6242,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the Historic City of Meknes under cultural criterion (iv) because it represents in an exceptionally complete and well preserved way the urban fabric and monumental buildings of a 17th century Maghreb capital city which combines elements of Islamic and European design and planning in a harmonious fashion.</p>",
     year: 1996,
     longitude: -5.55833,
-    latitude: 33.88333
+    latitude: 33.88333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6251,7 +6251,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the Archaeological Site of Volubilis on the basis of criteria (ii), (iii), (iv) and (vi), considering that this site is an exceptionally well preserved example of a large Roman colonial town on the fringes of the Empire.</p>",
     year: 1997,
     longitude: -5.55694,
-    latitude: 34.07389
+    latitude: 34.07389,
     area_hectares: 42.0
 });
     MERGE (s:Site {
@@ -6260,7 +6260,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the Medina of T&eacute;touan (formerly known as Titawin) on the basis of criteria (ii), (iv) and (v), considering that it is an exceptionally well preserved and complete example of this type of historic town, displaying all the features of the high Andalusian culture.</p>",
     year: 1997,
     longitude: -5.36667,
-    latitude: 35.57083
+    latitude: 35.57083,
     area_hectares: 6.5
 });
     MERGE (s:Site {
@@ -6270,7 +6270,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Portuguese fortified city of Mazagan is an outstanding and early example of the realisation of the Renaissance ideals integrated with Portuguese construction technology. Notable buildings from the Portuguese period include: the cistern, and the church of the Assumption, built in the Manueline style of the early 16th century.</p>",
     year: 2004,
     longitude: -8.50194,
-    latitude: 33.25667
+    latitude: 33.25667,
     area_hectares: 7.5
 });
     MERGE (s:Site {
@@ -6279,7 +6279,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: -6.822777778,
-    latitude: 34.02416667
+    latitude: 34.02416667,
     area_hectares: 348.59
 });
     MERGE (s:Site {
@@ -6288,7 +6288,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 40.73583,
-    latitude: -15.03417
+    latitude: -15.03417,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6297,7 +6297,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 95.81861111,
-    latitude: 22.47
+    latitude: 22.47,
     area_hectares: 5809.0
 });
     MERGE (s:Site {
@@ -6306,7 +6306,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 14.37258333,
-    latitude: -20.59558333
+    latitude: -20.59558333,
     area_hectares: 57.4269
 });
     MERGE (s:Site {
@@ -6315,7 +6315,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 15.40777778,
-    latitude: -24.88527778
+    latitude: -24.88527778,
     area_hectares: 3077700.0
 });
     MERGE (s:Site {
@@ -6324,7 +6324,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 86.91306,
-    latitude: 27.96528
+    latitude: 27.96528,
     area_hectares: 124400.0
 });
     MERGE (s:Site {
@@ -6333,7 +6333,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 85.30858,
-    latitude: 27.70395
+    latitude: 27.70395,
     area_hectares: 167.37
 });
     MERGE (s:Site {
@@ -6342,7 +6342,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 84.33333,
-    latitude: 27.5
+    latitude: 27.5,
     area_hectares: 93200.0
 });
     MERGE (s:Site {
@@ -6351,7 +6351,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of criteria (iii) and (vi). As the birthplace of the Lord Buddha, the sacred area of Lumbini is one of the holiest places of one of the world's great religions, and its remains contain important evidence about the nature of Buddhist pilgrimage centres from a very early period.</p>",
     year: 1997,
     longitude: 83.27611,
-    latitude: 27.46889
+    latitude: 27.46889,
     area_hectares: 1.95
 });
     MERGE (s:Site {
@@ -6360,7 +6360,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 5.771666667,
-    latitude: 52.63861111
+    latitude: 52.63861111,
     area_hectares: 1306.0
 });
     MERGE (s:Site {
@@ -6369,7 +6369,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural <em>criteria (ii), (iv) and (v)</em> considering that the site is of outstanding universal value as it is an exceptional example of an extensive integrated defence system of the modern period which has survived intact and well conserved since it was created in the later 19th century. It is also notable for the unique way in which the Dutch genius for hydraulic engineering has been incorporated into the defences of the nation's capital city.</p>",
     year: 1996,
     longitude: 4.893055556,
-    latitude: 52.37444444
+    latitude: 52.37444444,
     area_hectares: 17576.0
 });
     MERGE (s:Site {
@@ -6378,7 +6378,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of <em>criteria (i), (ii) and (iv)</em> considering that the Kinderdijk-Elshout mill network is an outstanding man-made landscape that bears powerful testimony to human ingenuity and fortitude over nearly a millennium in draining and protecting an area by the development and application of hydraulic technology.</p>",
     year: 1997,
     longitude: 4.649444444,
-    latitude: 51.8825
+    latitude: 51.8825,
     area_hectares: 322.0
 });
     MERGE (s:Site {
@@ -6387,7 +6387,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this site on the basis of cultural <em>criteria (ii), (iv) and (v)</em>, considering that the Historic Area of Willemstad is a European colonial ensemble in the Caribbean of outstanding value and integrity, which illustrates the organic growth of a multicultural community over three centuries and preserves to a high degree significant elements of the many strands that came together to create it.</p>",
     year: 1997,
     longitude: -68.90222,
-    latitude: 12.10194
+    latitude: 12.10194,
     area_hectares: 86.0
 });
     MERGE (s:Site {
@@ -6398,7 +6398,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Wouda pumping installations bear exceptional witness to the power of steam in controlling the forces of nature, especially as applied to water handling by Dutch engineers.</p>",
     year: 1998,
     longitude: 5.67889,
-    latitude: 52.84583
+    latitude: 52.84583,
     area_hectares: 7.32
 });
     MERGE (s:Site {
@@ -6408,7 +6408,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (ii):</em> The innovative and intellectually imaginative landscape of the Beemster Polder had a profound and lasting impact on reclamation projects in Europe and beyond. Criterion iv The creation of the Beemster Polder marks a major step forward in the interrelationship between humankind and water at a crucial period of social and economic expansion.</p>",
     year: 1999,
     longitude: 4.911111111,
-    latitude: 52.54888889
+    latitude: 52.54888889,
     area_hectares: 7208.0
 });
     MERGE (s:Site {
@@ -6418,7 +6418,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (ii):</em> With its radical approach to design and the use of space, the Rietveld Schr derhuis occupies a seminal position in the development of architecture in the modern age.</p>",
     year: 2000,
     longitude: 5.147555556,
-    latitude: 52.08533333
+    latitude: 52.08533333,
     area_hectares: 0.0075
 });
     MERGE (s:Site {
@@ -6427,7 +6427,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 4.887777778,
-    latitude: 52.365
+    latitude: 52.365,
     area_hectares: 198.2
 });
     MERGE (s:Site {
@@ -6436,7 +6436,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 4.418333333,
-    latitude: 51.92333333
+    latitude: 51.92333333,
     area_hectares: 6.94
 });
     MERGE (s:Site {
@@ -6445,7 +6445,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 175.5622222,
-    latitude: -39.29083333
+    latitude: -39.29083333,
     area_hectares: 79596.0
 });
     MERGE (s:Site {
@@ -6454,7 +6454,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 167.3196111,
-    latitude: -45.03602778
+    latitude: -45.03602778,
     area_hectares: 2600000.0
 });
     MERGE (s:Site {
@@ -6464,7 +6464,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> The New Zealand Sub-Antarctic Islands are remarkable for their high level of biodiversity, population densities,and for endemism in birds, plants and invertebrates. The bird and plant life, especially the endemic albatrosses, cormorants, landbirds and &ldquo;megaherbs&rdquo; are unique to the islands.</p>",
     year: 1998,
     longitude: 166.1044444,
-    latitude: -50.75
+    latitude: -50.75,
     area_hectares: 76458.0
 });
     MERGE (s:Site {
@@ -6473,7 +6473,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii The ruined town of Le&oacute;n Viejo provides exceptional testimony to the material culture of one of the earliest Spanish colonial settlements. Criterion iv The form and nature of early Spanish settlement in the New World, adapting European architectural and planning concepts to the material potential of another region, are uniquely preserved in the archaeological site of Le&oacute;n Viejo.</p>",
     year: 2000,
     longitude: -86.61028,
-    latitude: 12.39722
+    latitude: 12.39722,
     area_hectares: 31.87
 });
     MERGE (s:Site {
@@ -6482,7 +6482,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: -86.87805556,
-    latitude: 12.435
+    latitude: 12.435,
     area_hectares: 0.77
 });
     MERGE (s:Site {
@@ -6491,7 +6491,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 9.0,
-    latitude: 18.0
+    latitude: 18.0,
     area_hectares: 7736000.0
 });
     MERGE (s:Site {
@@ -6500,7 +6500,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 7.991388889,
-    latitude: 16.97361111
+    latitude: 16.97361111,
     area_hectares: 77.6
 });
     MERGE (s:Site {
@@ -6509,7 +6509,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (iii): Sukur is an exceptional landscape which graphically illustrates a form of land-use that marks a critical stage in human settlement and its relationship with its environment. Criterion (v): The cultural landscape of Sukur has survived unchanged for many centuries, and continues to do so at a period when this form of traditional human settlement is under threat in many parts of the world. Criterion vi The cultural landscape of Sukur is eloquent testimony to a strong and continuing cultural tradition that has endured for many centuries.</p>",
     year: 1999,
     longitude: 13.57194,
-    latitude: 10.74056
+    latitude: 10.74056,
     area_hectares: 764.4
 });
     MERGE (s:Site {
@@ -6520,7 +6520,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi): </em>The Osun Grove is a tangible expression of Yoruba divinatory and cosmological systems; its annual festival is a living thriving and evolving response to Yoruba beliefs in the bond between people, their ruler and the Osun goddess.</p>",
     year: 2005,
     longitude: 4.55222,
-    latitude: 7.75556
+    latitude: 7.75556,
     area_hectares: 75.0
 });
     MERGE (s:Site {
@@ -6529,7 +6529,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 11.38555556,
-    latitude: 62.57388889
+    latitude: 62.57388889,
     area_hectares: 16510.0
 });
     MERGE (s:Site {
@@ -6538,7 +6538,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 7.33333,
-    latitude: 61.3
+    latitude: 61.3,
     area_hectares: 0.21
 });
     MERGE (s:Site {
@@ -6547,7 +6547,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 5.32306,
-    latitude: 60.39722
+    latitude: 60.39722,
     area_hectares: 1.196
 });
     MERGE (s:Site {
@@ -6556,7 +6556,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 23.18333,
-    latitude: 69.95
+    latitude: 69.95,
     area_hectares: 53.59
 });
     MERGE (s:Site {
@@ -6565,7 +6565,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (v):</em> The Vega archipelago reflects the way generations of fishermen/farmers have, over the past 1500 years, maintained a sustainable living in an inhospitable seascape near the Arctic Circle, based on the now unique practice of eider down harvesting, and it also celebrate the contribution made by women to the eider down process.</p>",
     year: 2004,
     longitude: 11.75,
-    latitude: 65.61667
+    latitude: 65.61667,
     area_hectares: 107294.0
 });
     MERGE (s:Site {
@@ -6575,7 +6575,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vii): </em>The N&aelig;r&oslash;yfjord and Geirangerfjord areas are considered to be among the most scenically outstanding fjord areas on the planet. Their outstanding natural beauty is derived from their narrow and steep-sided crystalline rock walls that rise up to 1400 m direct from the Norwegian Sea and extend 500 m below sea level. Along the sheer walls of the fjords are numerous waterfalls while free-flowing rivers rise up through deciduous and coniferous forest to glacial lakes, glaciers and rugged mountains. There is a great range of supporting natural phenomena, both terrestrial and marine such as submarine moraines and marine mammals. Remnants of old and now mostly abandoned transhumant farms add a cultural aspect to the dramatic natural landscape that complements and adds human interest to the area.</p>",
     year: 2005,
     longitude: 7.16667,
-    latitude: 62.11667
+    latitude: 62.11667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6584,7 +6584,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 8.593611111,
-    latitude: 59.87861111
+    latitude: 59.87861111,
     area_hectares: 4959.5
 });
     MERGE (s:Site {
@@ -6593,7 +6593,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 57.30111,
-    latitude: 22.96417
+    latitude: 22.96417,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6602,7 +6602,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 56.745,
-    latitude: 23.26986
+    latitude: 23.26986,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6611,7 +6611,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion iii The group of archaeological sites in Oman represent the production and distribution of frankincense, one of the most important luxury items of trade in the Old World in antiquity. Criterion iv The Oasis of Shishr and the entrepots of Khor Rori and Al-Balid are outstanding examples of medieval fortified settlements in the Persian Gulf region.</p>",
     year: 2000,
     longitude: 53.64759,
-    latitude: 18.25333
+    latitude: 18.25333,
     area_hectares: 849.88
 });
     MERGE (s:Site {
@@ -6620,7 +6620,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 57.53605556,
-    latitude: 22.99888889
+    latitude: 22.99888889,
     area_hectares: 1455.949
 });
     MERGE (s:Site {
@@ -6629,7 +6629,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 59.37811111,
-    latitude: 22.69522222
+    latitude: 22.69522222,
     area_hectares: 75.82
 });
     MERGE (s:Site {
@@ -6638,7 +6638,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 68.13888889,
-    latitude: 27.32916667
+    latitude: 27.32916667,
     area_hectares: 240.0
 });
     MERGE (s:Site {
@@ -6647,7 +6647,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 72.8875,
-    latitude: 33.77916667
+    latitude: 33.77916667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6656,7 +6656,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 71.94583333,
-    latitude: 34.32083333
+    latitude: 34.32083333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6665,7 +6665,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 67.9,
-    latitude: 24.76666667
+    latitude: 24.76666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6674,7 +6674,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 74.30972222,
-    latitude: 31.59027778
+    latitude: 31.59027778,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6683,7 +6683,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii) and (iv), considering that the Rohtas Fort is an exceptional example of the Muslim military architecture of central and south Asia, which blends architectural and artistic traditions from Turkey and the Indian sub-continent to create the model for Mughal architecture and its subsequent refinements and adaptations.</p>",
     year: 1997,
     longitude: 73.58888889,
-    latitude: 32.9625
+    latitude: 32.9625,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6692,7 +6692,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 134.3525,
-    latitude: 7.246925
+    latitude: 7.246925,
     area_hectares: 100200.0
 });
     MERGE (s:Site {
@@ -6701,7 +6701,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 35.2075,
-    latitude: 31.70435278
+    latitude: 31.70435278,
     area_hectares: 2.98
 });
     MERGE (s:Site {
@@ -6710,7 +6710,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 35.13055556,
-    latitude: 31.71972222
+    latitude: 31.71972222,
     area_hectares: 348.83
 });
     MERGE (s:Site {
@@ -6719,7 +6719,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 35.10888889,
-    latitude: 31.52416667
+    latitude: 31.52416667,
     area_hectares: 20.6
 });
     MERGE (s:Site {
@@ -6728,7 +6728,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: -79.65583333,
-    latitude: 9.553888889
+    latitude: 9.553888889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6737,7 +6737,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -77.54722222,
-    latitude: 7.736111111
+    latitude: 7.736111111,
     area_hectares: 579000.0
 });
     MERGE (s:Site {
@@ -6746,7 +6746,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of cultural criteria (ii), (iv) and (vi), considering that Panam  was the first European settlement on the Pacific coast of the Americas, in 1519, and the Historic District preserves intact a street pattern, together with a substantial number of early domestic buildings, which are exceptional testimony to the nature of this early settlement. The Sal n Bolivar is of outstanding historical importance, as the venue for Sim n Bolivar's visionary attempt in 1826 to create a Pan-American congress, more than a century before such institutions became a reality.</p>",
     year: 1997,
     longitude: -79.54055556,
-    latitude: 8.951111111
+    latitude: 8.951111111,
     area_hectares: 57.4
 });
     MERGE (s:Site {
@@ -6756,7 +6756,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x): </em>The forests of Coiba Island possess a high variety of endemic birds, mammals and plants. Coiba Island also serves as the last refuge for a number of threatened species that have largely disappeared from the rest of Panama, such as the Crested Eagle and the Scarlet Macaw. Furthermore the marine ecosystems within the property are repositories of extraordinary biodiversity conditioned to the ability of the Gulf of Chiriqu&iacute; to buffer against temperature extremes associated to El Ni&ntilde;o/Southern Oscilation phenomenon. The property includes 760 species of marine fishes, 33 species of sharks and 20 species of cetaceans. The islands within the property are the only group of inshore islands in the tropical eastern Pacific that have significant populations of trans-Pacific fishes, namely, Indo-Pacific species that have established themselves in the eastern Pacific.</p>",
     year: 2005,
     longitude: -81.766,
-    latitude: 7.433
+    latitude: 7.433,
     area_hectares: 270125.0
 });
     MERGE (s:Site {
@@ -6765,7 +6765,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 144.3317222,
-    latitude: -5.783711111
+    latitude: -5.783711111,
     area_hectares: 116.0
 });
     MERGE (s:Site {
@@ -6774,7 +6774,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -55.7,
-    latitude: -27.13333
+    latitude: -27.13333,
     area_hectares: 27.88
 });
     MERGE (s:Site {
@@ -6783,7 +6783,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -71.98333,
-    latitude: -13.52222
+    latitude: -13.52222,
     area_hectares: 142.48
 });
     MERGE (s:Site {
@@ -6792,7 +6792,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -72.58333333,
-    latitude: -13.11666667
+    latitude: -13.11666667,
     area_hectares: 38160.87
 });
     MERGE (s:Site {
@@ -6801,7 +6801,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -77.1784535,
-    latitude: -9.592772544
+    latitude: -9.592772544,
     area_hectares: 14.79
 });
     MERGE (s:Site {
@@ -6810,7 +6810,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -77.4,
-    latitude: -9.33333
+    latitude: -9.33333,
     area_hectares: 340000.0
 });
     MERGE (s:Site {
@@ -6819,7 +6819,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -79.08333,
-    latitude: -8.1
+    latitude: -8.1,
     area_hectares: 1414.57
 });
     MERGE (s:Site {
@@ -6828,7 +6828,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -71.75,
-    latitude: -12.25
+    latitude: -12.25,
     area_hectares: 1716295.22
 });
     MERGE (s:Site {
@@ -6837,7 +6837,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -77.04306,
-    latitude: -12.05139
+    latitude: -12.05139,
     area_hectares: 259.36
 });
     MERGE (s:Site {
@@ -6846,7 +6846,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: -77.25,
-    latitude: -7.75
+    latitude: -7.75,
     area_hectares: 272407.95
 });
     MERGE (s:Site {
@@ -6855,7 +6855,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: -75.14861,
-    latitude: -14.72583
+    latitude: -14.72583,
     area_hectares: 75358.47
 });
     MERGE (s:Site {
@@ -6864,7 +6864,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion i The ornamented architecture in the historic centre of Arequipa represents a masterpiece of the creative integration of European and native characteristics, crucial for the cultural expression of the entire region. Criterion iv The historic centre of Arequipa is an outstanding example of a colonial settlement, challenged by the natural conditions, the indigenous influences, the process of conquest and evangelization, as well as the spectacular nature of its setting.</p>",
     year: 2000,
     longitude: -71.53333333,
-    latitude: -16.4
+    latitude: -16.4,
     area_hectares: 166.52
 });
     MERGE (s:Site {
@@ -6873,7 +6873,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: -77.52138889,
-    latitude: -10.89166667
+    latitude: -10.89166667,
     area_hectares: 626.36
 });
     MERGE (s:Site {
@@ -6882,7 +6882,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1999,
     longitude: 120.3875,
-    latitude: 17.575
+    latitude: 17.575,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6891,7 +6891,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Puerto Princesa Subterranean River National Park features a spectacular limestone karst landscape with its underground river. A distinguishing feature of the river is that it flows directly into the sea, and the lower portion of the river is subject to tidal influences. The area also represents a significant habitat for biodiversity conservation. The site contains a full mountain to the sea ecosystem and protects forests, which are among the most significant in Asia.</p>",
     year: 1999,
     longitude: 118.9166667,
-    latitude: 10.16666667
+    latitude: 10.16666667,
     area_hectares: 22202.0
 });
     MERGE (s:Site {
@@ -6900,7 +6900,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 119.8675,
-    latitude: 8.953333333
+    latitude: 8.953333333,
     area_hectares: 96828.0
 });
     MERGE (s:Site {
@@ -6909,7 +6909,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 120.97,
-    latitude: 14.59
+    latitude: 14.59,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -6918,7 +6918,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 121.13667,
-    latitude: 16.93389
+    latitude: 16.93389,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -6927,7 +6927,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 126.1734306,
-    latitude: 6.717169444
+    latitude: 6.717169444,
     area_hectares: 16923.07
 });
     MERGE (s:Site {
@@ -6936,7 +6936,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: 19.93722222,
-    latitude: 50.06138889
+    latitude: 50.06138889,
     area_hectares: 149.65
 });
     MERGE (s:Site {
@@ -6945,7 +6945,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 21.01167,
-    latitude: 52.26639
+    latitude: 52.26639,
     area_hectares: 25.93
 });
     MERGE (s:Site {
@@ -6954,7 +6954,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 19.175,
-    latitude: 50.03888889
+    latitude: 50.03888889,
     area_hectares: 191.97
 });
     MERGE (s:Site {
@@ -6963,7 +6963,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: 20.06388889,
-    latitude: 49.97916667
+    latitude: 49.97916667,
     area_hectares: 1104.947
 });
     MERGE (s:Site {
@@ -6972,7 +6972,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 23.26667,
-    latitude: 50.71667
+    latitude: 50.71667,
     area_hectares: 75.0391
 });
     MERGE (s:Site {
@@ -6981,7 +6981,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii) and (iv), considering that Torun is a small historic trading city that preserves to a remarkable extent its original street pattern and outstanding early buildings, and which provides an exceptionally complete picture of the medieval way of life.</p>",
     year: 1997,
     longitude: 18.61944,
-    latitude: 53.01
+    latitude: 53.01,
     area_hectares: 48.0
 });
     MERGE (s:Site {
@@ -6990,7 +6990,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii), (iii) and (iv), considering that Malbork Castle is the supreme example of the medieval brick castle that characterizes the unique architecture of the Crusading Teutonic Order in eastern Europe. It is also of considerable historical significance for the evidence that it provides of the evolution of the modern philosophy and practice of restoration and conservation.</p>",
     year: 1997,
     longitude: 19.03333333,
-    latitude: 54.04166667
+    latitude: 54.04166667,
     area_hectares: 18.038
 });
     MERGE (s:Site {
@@ -7000,7 +7000,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Counter Reformation in the late 16th century led to a flowering in the creation of Calvaries in Europe. Kalwaria Zebrzydowska is an outstanding example of this type of large-scale landscape design, which incorporates natural beauty with spiritual objectives and the principles of Baroque park design.</p>",
     year: 1999,
     longitude: 19.66666667,
-    latitude: 49.86666667
+    latitude: 49.86666667,
     area_hectares: 380.0
 });
     MERGE (s:Site {
@@ -7010,7 +7010,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>The churches are the most representative examples of surviving Gothic churches built in horizontal log technique, particularly impressive in their artistic and technical execution, and sponsored by noble families and rulers as symbols of social and political prestige.</p>",
     year: 2003,
     longitude: 21.23333333,
-    latitude: 49.75
+    latitude: 49.75,
     area_hectares: 8.26
 });
     MERGE (s:Site {
@@ -7019,7 +7019,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 18.85122778,
-    latitude: 50.44269722
+    latitude: 50.44269722,
     area_hectares: 1672.76
 });
     MERGE (s:Site {
@@ -7028,7 +7028,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -27.22,
-    latitude: 38.655
+    latitude: 38.655,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7037,7 +7037,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -9.21583,
-    latitude: 38.69194
+    latitude: 38.69194,
     area_hectares: 2.66
 });
     MERGE (s:Site {
@@ -7046,7 +7046,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -8.82694,
-    latitude: 39.65778
+    latitude: 39.65778,
     area_hectares: 0.98
 });
     MERGE (s:Site {
@@ -7055,7 +7055,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -8.4175,
-    latitude: 39.60472
+    latitude: 39.60472,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7064,7 +7064,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -7.90778,
-    latitude: 38.57306
+    latitude: 38.57306,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7073,7 +7073,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1989,
     longitude: -8.97667,
-    latitude: 39.55
+    latitude: 39.55,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7082,7 +7082,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -9.41667,
-    latitude: 38.78333
+    latitude: 38.78333,
     area_hectares: 946.0
 });
     MERGE (s:Site {
@@ -7091,7 +7091,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criterion (iv) considering that the site is of outstanding universal value as the urban fabric and its many historic buildings bear remarkable testimony to the development over the past thousand years of a European city that looks outward to the west for its cultural and commercial links.</p>",
     year: 1996,
     longitude: -8.616666667,
-    latitude: 41.14166667
+    latitude: 41.14166667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7100,7 +7100,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The site contains the largest surviving relict of the virtually extinct laurisilva forest type that was once widespread in Europe. This forest type is considered to be a centre of plant diversity containing numerous rare, relict and endemic species, especially of bryophytes, ferns and flowering plants. It also has a very rich invertebrate fauna. Endemic species include the Madeiran long-toed pigeon and some 66 species of vascular plants.</p>",
     year: 1999,
     longitude: -17.0,
-    latitude: 32.76666667
+    latitude: 32.76666667,
     area_hectares: 15000.0
 });
     MERGE (s:Site {
@@ -7111,7 +7111,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> An exceptionally well preserved town, Guimar es illustrates the evolution of particular building types from the medieval settlement to the present-day city, and particularly in the 15th 19th centuries.</p>",
     year: 2001,
     longitude: -8.292803,
-    latitude: 41.443731
+    latitude: 41.443731,
     area_hectares: 19.45
 });
     MERGE (s:Site {
@@ -7122,7 +7122,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The cultural landscape of the Alto Douro is an outstanding example of a traditional European wine-producing region, reflecting the evolution of this human activity over time.</p>",
     year: 2001,
     longitude: -7.798888889,
-    latitude: 41.10166667
+    latitude: 41.10166667,
     area_hectares: 24600.0
 });
     MERGE (s:Site {
@@ -7131,7 +7131,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criteria (iii) and (v):</em> The Pico Island landscape reflects a unique response to viniculture on a small volcanic island and one that has been evolving since the arrival of the first settlers in the 15th century. The extraordinarily beautiful man-made landscape of small, stone walled fields is testimony to generations of small-scale farmers who, in a hostile environment, created a sustainable living and much-prized wine.</p>",
     year: 2004,
     longitude: -28.54116667,
-    latitude: 38.51344444
+    latitude: 38.51344444,
     area_hectares: 987.0
 });
     MERGE (s:Site {
@@ -7140,7 +7140,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: -8.425775,
-    latitude: 40.20781111
+    latitude: 40.20781111,
     area_hectares: 35.5
 });
     MERGE (s:Site {
@@ -7149,7 +7149,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 51.02972222,
-    latitude: 25.97805556
+    latitude: 25.97805556,
     area_hectares: 415.66
 });
     MERGE (s:Site {
@@ -7158,7 +7158,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 129.35,
-    latitude: 35.78333333
+    latitude: 35.78333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7167,7 +7167,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 128.1,
-    latitude: 35.8
+    latitude: 35.8,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7176,7 +7176,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 126.98333,
-    latitude: 37.55
+    latitude: 37.55,
     area_hectares: 19.4
 });
     MERGE (s:Site {
@@ -7185,7 +7185,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii), (iii) and (iv), considering that the Changdeogung Palace Complex is an outstanding example of Far Eastern palace architecture and garden design, exceptional for the way in which the buildings are integrated into and harmonized with the natural setting, adapting to the topography and retaining indigenous tree cover.</p>",
     year: 1997,
     longitude: 126.9833333,
-    latitude: 37.55
+    latitude: 37.55,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7194,7 +7194,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii) and (iii), considering that the Hwaseong Fortress is an outstanding example of early modern military architecture, incorporating the most highly developed features of that science from both east and west.</p>",
     year: 1997,
     longitude: 127.00833,
-    latitude: 37.27222
+    latitude: 37.27222,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7203,7 +7203,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (ii) The Gyeongju Historic Areas contain a number of sites and monuments of exceptional significance in the development of Buddhist and secular architecture in Korea. Criterion (iii) The Korean peninsula was ruled for nearly a thousand years by the Silla dynasty, and the sites and monuments in and around Gyeongju (including the holy mountain of Namsan) bear outstanding testimony to its cultural achievements.</p>",
     year: 2000,
     longitude: 129.22667,
-    latitude: 35.78889
+    latitude: 35.78889,
     area_hectares: 2880.0
 });
     MERGE (s:Site {
@@ -7212,7 +7212,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 126.7202778,
-    latitude: 33.46888889
+    latitude: 33.46888889,
     area_hectares: 9521.8
 });
     MERGE (s:Site {
@@ -7221,7 +7221,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: 128.4527778,
-    latitude: 37.19722222
+    latitude: 37.19722222,
     area_hectares: 1891.2
 });
     MERGE (s:Site {
@@ -7230,7 +7230,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 128.5166667,
-    latitude: 36.53916667
+    latitude: 36.53916667,
     area_hectares: 599.6
 });
     MERGE (s:Site {
@@ -7239,7 +7239,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 127.1811111,
-    latitude: 37.47888889
+    latitude: 37.47888889,
     area_hectares: 409.06
 });
     MERGE (s:Site {
@@ -7248,7 +7248,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 127.1272222,
-    latitude: 36.46194444
+    latitude: 36.46194444,
     area_hectares: 135.1
 });
     MERGE (s:Site {
@@ -7257,7 +7257,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 127.8333333,
-    latitude: 36.54194444
+    latitude: 36.54194444,
     area_hectares: 55.43
 });
     MERGE (s:Site {
@@ -7266,7 +7266,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 29.5,
-    latitude: 45.08333
+    latitude: 45.08333,
     area_hectares: 312440.0
 });
     MERGE (s:Site {
@@ -7275,7 +7275,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 24.77305556,
-    latitude: 46.13583333
+    latitude: 46.13583333,
     area_hectares: 553.0
 });
     MERGE (s:Site {
@@ -7284,7 +7284,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 24.01666667,
-    latitude: 45.18333333
+    latitude: 45.18333333,
     area_hectares: 22.48
 });
     MERGE (s:Site {
@@ -7293,7 +7293,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 25.71277778,
-    latitude: 47.77833333
+    latitude: 47.77833333,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -7303,7 +7303,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> Sighisoara is an outstanding example of a small fortified city in the border region between the Latin-oriented culture of central Europe and the Byzantine-Orthodox culture of south-eastern Europe. The apparently unstoppable process of emigration by the Saxons, the social stratum which had formed and upheld the cultural traditions of the region, threatens the survival of their architectural heritage as well.</p>",
     year: 1999,
     longitude: 24.79222222,
-    latitude: 46.21777778
+    latitude: 46.21777778,
     area_hectares: 33.0
 });
     MERGE (s:Site {
@@ -7312,7 +7312,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iv):</em> The Maramures wooden churches are outstanding examples of vernacular religious wooden architecture resulting from the interchange of Orthodox religious traditions with Gothic influences in a specific vernacular interpretation of timber construction traditions, showing a high level of artistic maturity and craft skills.</p>",
     year: 1999,
     longitude: 24.05583333,
-    latitude: 47.82083333
+    latitude: 47.82083333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7323,7 +7323,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The hill-fort and its evolved successor, the oppidum, were characteristic of the Late Iron Age in Europe, and the Dacian fortresses are outstanding examples of this type of defended site.</p>",
     year: 1999,
     longitude: 23.31194444,
-    latitude: 45.62305556
+    latitude: 45.62305556,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7332,7 +7332,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 30.31833,
-    latitude: 59.95
+    latitude: 59.95,
     area_hectares: 3934.1
 });
     MERGE (s:Site {
@@ -7341,7 +7341,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 35.2275,
-    latitude: 62.07138889
+    latitude: 62.07138889,
     area_hectares: 0.57
 });
     MERGE (s:Site {
@@ -7350,7 +7350,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 37.62972,
-    latitude: 55.74583
+    latitude: 55.74583,
     area_hectares: 42.1
 });
     MERGE (s:Site {
@@ -7359,7 +7359,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 31.28333,
-    latitude: 58.53333
+    latitude: 58.53333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7368,7 +7368,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 35.66666667,
-    latitude: 65.08333333
+    latitude: 65.08333333,
     area_hectares: 28834.0
 });
     MERGE (s:Site {
@@ -7377,7 +7377,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 40.41666667,
-    latitude: 56.15
+    latitude: 56.15,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7386,7 +7386,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 37.67389,
-    latitude: 55.65556
+    latitude: 55.65556,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7395,7 +7395,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 38.1312,
-    latitude: 56.31035
+    latitude: 56.31035,
     area_hectares: 22.75
 });
     MERGE (s:Site {
@@ -7404,7 +7404,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 58.9525,
-    latitude: 63.62583333
+    latitude: 63.62583333,
     area_hectares: 3280000.0
 });
     MERGE (s:Site {
@@ -7413,7 +7413,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee inscribed Lake Baikal as the most outstanding example of a freshwater ecosystem on the basis of natrual criteria (vii), (viii), (ix) and (x). It is the oldest and deepest of the world&acute;s lakes containing nearly 20% of the world&acute;s unfrozen freshwater reserve. The lake contains an outstanding variety of endemic flora and fauna, which is of exceptional value to evolutionary science. It is also surrounded by a system of protected areas that have high scenic and other natural values. The Committee took note of the confirmation of the revised boundaries of the site, which correspond to the core areas defined in the Baikal Law (excluding the five urban developed areas). It also noted that the special Lake Baikal Law is now in its second reading in the Duma. Finally, it noted concern over a number of integrity issues including pollution, which should be brought to the attention of the Russian authorities.</p>",
     year: 1996,
     longitude: 107.6625,
-    latitude: 53.17361111
+    latitude: 53.17361111,
     area_hectares: 8800000.0
 });
     MERGE (s:Site {
@@ -7426,7 +7426,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> The Kamchatka Volcanoes contain an especially diverse range of palearctic flora (including a number of nationally threatened species and at least 16 endemics), and bird species such as the Stellar s Sea Eagle (50% of world population), white tailed eagle, gyr falcon and peregrine falcon, which are attracted to the availability of spawning salmon. The rivers inside and adjacent to the site contain the world s greatest known diversity of salmonid fish. All 11 species coexist in several of Kamchatka s rivers.</p>",
     year: 1996,
     longitude: 158.5,
-    latitude: 56.33333333
+    latitude: 56.33333333,
     area_hectares: 3830200.0
 });
     MERGE (s:Site {
@@ -7435,7 +7435,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2001,
     longitude: 136.6611111,
-    latitude: 46.68333333
+    latitude: 46.68333333,
     area_hectares: 1566818.0
 });
     MERGE (s:Site {
@@ -7444,7 +7444,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criteria (x)</em>: The Altai region represents an important and original centre of biodiversity of montane plant and animal species in northern Asia, a number of which are rare and endemic.</p>",
     year: 1998,
     longitude: 86.0,
-    latitude: 50.46666667
+    latitude: 50.46666667,
     area_hectares: 1611457.0
 });
     MERGE (s:Site {
@@ -7453,7 +7453,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Western Caucasus has a remarkable diversity of geology, ecosystems and species. It is of global significance as a centre of plant diversity. Along with the Virgin Komi World Heritage site, it is the only large mountain area in Europe that has not experienced significant human impact, containing extensive tracts of undisturbed mountain forests unique on the European scale.</p>",
     year: 1999,
     longitude: 40.0,
-    latitude: 44.0
+    latitude: 44.0,
     area_hectares: 298903.0
 });
     MERGE (s:Site {
@@ -7464,7 +7464,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The site and its key monuments represent an outstanding example of a synthesis of Tatar and Russian influences in architecture, integrating different cultures (Bulgar, Golden Horde, Tatar, Italian, and Russian), as well as showing the impact of Islam and Christianity.</p>",
     year: 2000,
     longitude: 49.095,
-    latitude: 55.79111111
+    latitude: 55.79111111,
     area_hectares: 13.45
 });
     MERGE (s:Site {
@@ -7473,7 +7473,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 49.05638889,
-    latitude: 54.97888889
+    latitude: 54.97888889,
     area_hectares: 424.0
 });
     MERGE (s:Site {
@@ -7483,7 +7483,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The complex of Ferapontov Monastery is the purest and most complete example of an Orthodox monastic community from the 15th-17th centuries, a crucial period in the cultural and spiritual development of Russia.</p>",
     year: 2000,
     longitude: 38.56666667,
-    latitude: 59.95
+    latitude: 59.95,
     area_hectares: 2.1
 });
     MERGE (s:Site {
@@ -7493,7 +7493,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (x):</em> The Wrangel Island Reserve has the highest level of biodiversity in the high Arctic. The island is the breeding habitat of Asia s only Snow goose population which is slowly making a recovery from catastrophically low levels. The marine environment is an increasingly important feeding ground for the Gray whale migrating from Mexico (some from another World Heritage site, the Whale Sanctuary of El Vizcaino). The islands have the largest sea-bird colonies on the Chukchi Sea, are the northernmost nesting grounds for over 100 migratory bird species including several that are endangered such as the Peregrine falcon, have significant populations of resident tundra bird species interspersed with migratory Arctic and non-Arctic species and have the world s highest density of ancestral polar bear dens. Wrangel Island boasts the largest population of Pacific walrus with up to 100,000 animals congregating at any given time at one of the island s important coastal rookeries. Since Wrangel Island contains a high diversity of habitats and climates and conditions vary considerably from one location to another, total reproductive failure of a species in any given year is practically unheard of. Given the relatively small size of the area, this is very unusual in the high Arctic.</p>",
     year: 2004,
     longitude: -179.7152778,
-    latitude: 71.18888889
+    latitude: 71.18888889,
     area_hectares: 1916300.0
 });
     MERGE (s:Site {
@@ -7503,7 +7503,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The ancient city of Derbent and its defence structures are the most significant section of the strategic defence systems designed and built in the Sasanian empire along their northern limes, and maintained during the successive governments until the Russian occupation in the 19th century.</p>",
     year: 2003,
     longitude: 48.29719444,
-    latitude: 42.05297222
+    latitude: 42.05297222,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -7514,7 +7514,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The Novodevichy Convent ensemble integrates the political and cultural nature of the existing World Heritage site of Moscow Kremlin. It is itself closely related to Russian Orthodoxy, as well as with the Russian history especially in the 16th and 17th centuries.</p>",
     year: 2004,
     longitude: 37.55508333,
-    latitude: 55.72611111
+    latitude: 55.72611111,
     area_hectares: 5.18
 });
     MERGE (s:Site {
@@ -7524,7 +7524,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em>Yaroslavl is an outstanding example of the town-planning reform ordered by Empress Catherine The Great in the whole of Russia, implemented between 1763 and 1830.</p>",
     year: 2005,
     longitude: 39.87611,
-    latitude: 57.65278
+    latitude: 57.65278,
     area_hectares: 110.0
 });
     MERGE (s:Site {
@@ -7533,7 +7533,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 94.15805556,
-    latitude: 69.04694444
+    latitude: 69.04694444,
     area_hectares: 1887251.0
 });
     MERGE (s:Site {
@@ -7542,7 +7542,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 127.0,
-    latitude: 60.66666667
+    latitude: 60.66666667,
     area_hectares: 1387000.0
 });
     MERGE (s:Site {
@@ -7551,7 +7551,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 48.65277778,
-    latitude: 55.77027778
+    latitude: 55.77027778,
     area_hectares: 3.25
 });
     MERGE (s:Site {
@@ -7560,7 +7560,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (iii): Brimstone Hill is an outstanding British fortress, built by slave labour to exact standards during a peak period of European colonial expansion in the Caribbean. Criterion (iv): Because of its strategic layout and construction, Brimstone Hill Fortress is an exceptional and well preserved example of 17th and 18th century British military architecture.</p>",
     year: 1999,
     longitude: -62.83722,
-    latitude: 17.34694
+    latitude: 17.34694,
     area_hectares: 15.37
 });
     MERGE (s:Site {
@@ -7570,7 +7570,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vii):</em> The Pitons Management Area derives its primary visual impact and aesthetic qualities from the Pitons, two adjacent forest-clad volcanic lava domes rising abruptly from the sea to heights greater than 700m. The Pitons predominate over the St Lucian landscape, being visible from virtually every part of the island and providing a distinctive landmark for seafarers.The combination of the Pitons against the backdrop of green tropical vegetation and a varying topography combined with a marine foreground gives the area its superlative beauty.</p>",
     year: 2004,
     longitude: -61.07036111,
-    latitude: 13.80708333
+    latitude: 13.80708333,
     area_hectares: 2909.0
 });
     MERGE (s:Site {
@@ -7579,7 +7579,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 12.45194444,
-    latitude: 43.93277778
+    latitude: 43.93277778,
     area_hectares: 55.0
 });
     MERGE (s:Site {
@@ -7588,7 +7588,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 37.955,
-    latitude: 26.78361111
+    latitude: 26.78361111,
     area_hectares: 1621.2
 });
     MERGE (s:Site {
@@ -7597,7 +7597,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 46.57246667,
-    latitude: 24.73413333
+    latitude: 24.73413333,
     area_hectares: 28.78
 });
     MERGE (s:Site {
@@ -7606,7 +7606,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 39.1875,
-    latitude: 21.48388889
+    latitude: 21.48388889,
     area_hectares: 17.92
 });
     MERGE (s:Site {
@@ -7615,7 +7615,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 40.91305556,
-    latitude: 28.01055556
+    latitude: 28.01055556,
     area_hectares: 2043.8
 });
     MERGE (s:Site {
@@ -7624,7 +7624,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 49.63056944,
-    latitude: 25.40216667
+    latitude: 25.40216667,
     area_hectares: 8544.0
 });
     MERGE (s:Site {
@@ -7633,7 +7633,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -16.16667,
-    latitude: 16.5
+    latitude: 16.5,
     area_hectares: 16000.0
 });
     MERGE (s:Site {
@@ -7642,7 +7642,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: -17.40083,
-    latitude: 14.66722
+    latitude: 14.66722,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7651,7 +7651,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -12.71667,
-    latitude: 13.06667
+    latitude: 13.06667,
     area_hectares: 913000.0
 });
     MERGE (s:Site {
@@ -7660,7 +7660,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2000,
     longitude: -16.50444,
-    latitude: 16.02778
+    latitude: 16.02778,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7670,7 +7670,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: -16.49861111,
-    latitude: 13.83527778
+    latitude: 13.83527778,
     area_hectares: 145811.0
 });
     MERGE (s:Site {
@@ -7679,7 +7679,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: -12.84583333,
-    latitude: 12.59333333
+    latitude: 12.59333333,
     area_hectares: 50309.0
 });
     MERGE (s:Site {
@@ -7688,7 +7688,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 20.42278,
-    latitude: 43.11889
+    latitude: 43.11889,
     area_hectares: 198.72
 });
     MERGE (s:Site {
@@ -7697,7 +7697,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 20.53667,
-    latitude: 43.48611
+    latitude: 43.48611,
     area_hectares: 1.16
 });
     MERGE (s:Site {
@@ -7706,7 +7706,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2004,
     longitude: 20.26555556,
-    latitude: 42.66111111
+    latitude: 42.66111111,
     area_hectares: 2.8802
 });
     MERGE (s:Site {
@@ -7715,7 +7715,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 22.18611111,
-    latitude: 43.89930556
+    latitude: 43.89930556,
     area_hectares: 179.217
 });
     MERGE (s:Site {
@@ -7724,7 +7724,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 46.41666667,
-    latitude: -9.416666667
+    latitude: -9.416666667,
     area_hectares: 35000.0
 });
     MERGE (s:Site {
@@ -7733,7 +7733,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 55.7375,
-    latitude: -4.32917
+    latitude: -4.32917,
     area_hectares: 19.5
 });
     MERGE (s:Site {
@@ -7742,7 +7742,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 103.8161111,
-    latitude: 1.315277778
+    latitude: 1.315277778,
     area_hectares: 49.0
 });
     MERGE (s:Site {
@@ -7751,7 +7751,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 18.9,
-    latitude: 48.46111
+    latitude: 48.46111,
     area_hectares: 20632.0
 });
     MERGE (s:Site {
@@ -7761,7 +7761,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 20.7675,
-    latitude: 48.99944444
+    latitude: 48.99944444,
     area_hectares: 1351.2252
 });
     MERGE (s:Site {
@@ -7770,7 +7770,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 19.27833333,
-    latitude: 49.03916667
+    latitude: 49.03916667,
     area_hectares: 4.9
 });
     MERGE (s:Site {
@@ -7780,7 +7780,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The plan, buildings, and fortifications of Bardejov illustrate the urban complex that developed in Central Europe in the Middle Ages at major points along the great trade routes of the period</p>",
     year: 2000,
     longitude: 21.27555556,
-    latitude: 49.29277778
+    latitude: 49.29277778,
     area_hectares: 23.6
 });
     MERGE (s:Site {
@@ -7789,7 +7789,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 19.55833333,
-    latitude: 49.33611111
+    latitude: 49.33611111,
     area_hectares: 2.5644
 });
     MERGE (s:Site {
@@ -7798,7 +7798,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 14.0,
-    latitude: 45.66667
+    latitude: 45.66667,
     area_hectares: 413.0
 });
     MERGE (s:Site {
@@ -7807,7 +7807,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (ix):</em> East Rennell, as a stepping stone in the migration and evolution of species in the western Pacific, is an important site for the science of island biogeography. Combined with the strong climate effects of frequent cyclones, East Rennell is a true natural laboratory for scientific study.</p>",
     year: 1998,
     longitude: 160.33333,
-    latitude: -11.68333
+    latitude: -11.68333,
     area_hectares: 37000.0
 });
     MERGE (s:Site {
@@ -7816,7 +7816,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The St Lucia site consists of thirteen contiguous protected areas with a total size of 234,566 hectares. The site is the largest estuarine system in Africa and includes the southernmost extension of coral reefs on the continent. The site contains a combination of on-going fluvial, marine and aeolian processes that have resulted in a variety of landforms and ecosystems. Features include wide submarine canyons, sandy beaches, forested dune cordon and a mosaic of wetlands, grasslands, forests, lakes and savanna. The variety of morphology as well as major flood and storm events contribute to ongoing evolutionary processes in the area. Natural phenomena include: shifts from low to hyper-saline states in the Park s lakes; large numbers of nesting turtles on the beaches; the migration of whales, dolphins and whale-sharks off-shore; and huge numbers of waterfowl including large breeding colonies of pelicans, storks, herons and terns. The Park s location between sub-tropical and tropical Africa as well as its coastal setting has resulted in exceptional biodiversity including some 521 bird species.</p>",
     year: 1999,
     longitude: 32.55,
-    latitude: -27.83889
+    latitude: -27.83889,
     area_hectares: 239566.0
 });
     MERGE (s:Site {
@@ -7825,7 +7825,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1999,
     longitude: 29.17694,
-    latitude: -24.15861
+    latitude: -24.15861,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7834,7 +7834,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion (iii): The buildings of Robben Island bear eloquent testimony to its sombre history. Criterion (vi): Robben Island and its prison buildings symbolize the triumph of the human spirit, of freedom, and of democracy over oppression.</p>",
     year: 1999,
     longitude: 18.36666667,
-    latitude: -33.8
+    latitude: -33.8,
     area_hectares: 475.0
 });
     MERGE (s:Site {
@@ -7843,7 +7843,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2004,
     longitude: 18.475,
-    latitude: -34.36111111
+    latitude: -34.36111111,
     area_hectares: 1094742.0
 });
     MERGE (s:Site {
@@ -7852,7 +7852,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (ii):</em> The Mapungubwe Cultural Landscape contains evidence for an important interchange of human values that led to far-reaching cultural and social changes in Southern Africa between AD 900 and 1300.<br /> <em>Criterion (iii):</em> The remains in the Mapungubwe cultural landscape are a remarkably complete testimony to the growth and subsequent decline of the Mapungubwe state which at its height was the largest kingdom in the African sub-continent.<br /> <em>Criterion (iv):</em> The establishment of Mapungubwe as a powerful state trading through the East African ports with Arabia and India was a significant stage in the history of the African sub-continent.<br /> <em>Criterion (v)</em> : The remains in the Mapungubwe cultural landscape graphically illustrate the impact of climate change and record the growth and then decline of the kingdom of Mapungubwe as a clear record of a culture that became vulnerable to irreversible change.</p>",
     year: 2003,
     longitude: 29.23889,
-    latitude: -22.1925
+    latitude: -22.1925,
     area_hectares: 28168.6602
 });
     MERGE (s:Site {
@@ -7861,7 +7861,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (viii): </em>Vredefort Dome is the oldest, largest, and most deeply eroded complex meteorite impact structure in the world. It is the site of the world&rsquo;s greatest single, known energy release event. It contains high quality and accessible geological (outcrop) sites which demonstrate a range of geological evidences of a complex meteorite impact structure. The rural and natural landscapes of the serial property help portray the magnitude of the ring structures resulting from the impact. The serial nomination is considered to be a representative sample of a complex meteorite impact structure. A comprehensive comparative analysis with other complex meteorite impact structures demonstrated that it is the only example on earth providing a full geological profile of an astrobleme below the crater floor, thereby enabling research into the genesis and development of an astrobleme immediately post impact.</p>",
     year: 2005,
     longitude: 27.26,
-    latitude: -26.86
+    latitude: -26.86,
     area_hectares: 30000.0
 });
     MERGE (s:Site {
@@ -7870,7 +7870,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 17.20388889,
-    latitude: -28.6
+    latitude: -28.6,
     area_hectares: 160000.0
 });
     MERGE (s:Site {
@@ -7879,7 +7879,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 20.37458333,
-    latitude: -25.68761111
+    latitude: -25.68761111,
     area_hectares: 959100.0
 });
     MERGE (s:Site {
@@ -7888,7 +7888,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 31.01388889,
-    latitude: -25.97388889
+    latitude: -25.97388889,
     area_hectares: 113137.0
 });
     MERGE (s:Site {
@@ -7897,7 +7897,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -4.116166667,
-    latitude: 43.38252778
+    latitude: 43.38252778,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7906,7 +7906,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -4.11675,
-    latitude: 40.94847222
+    latitude: 40.94847222,
     area_hectares: 134.28
 });
     MERGE (s:Site {
@@ -7915,7 +7915,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -5.84303,
-    latitude: 43.36262
+    latitude: 43.36262,
     area_hectares: 0.2
 });
     MERGE (s:Site {
@@ -7924,7 +7924,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -4.779722222,
-    latitude: 37.87919444
+    latitude: 37.87919444,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7933,7 +7933,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -3.59444,
-    latitude: 37.17667
+    latitude: 37.17667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7942,7 +7942,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -3.704011111,
-    latitude: 42.34073333
+    latitude: 42.34073333,
     area_hectares: 1.03
 });
     MERGE (s:Site {
@@ -7951,7 +7951,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -4.126416667,
-    latitude: 40.58175
+    latitude: 40.58175,
     area_hectares: 94.11
 });
     MERGE (s:Site {
@@ -7962,7 +7962,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv): </em> Gaud&iacute;&rsquo;s work represents a series of outstanding examples of the building typology in the architecture of the early 20th century, residential as well as public, to the development of which he made a significant and creative contribution.</p>",
     year: 1984,
     longitude: 2.152972,
-    latitude: 41.41338
+    latitude: 41.41338,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -7971,7 +7971,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -8.54468,
-    latitude: 42.88076
+    latitude: 42.88076,
     area_hectares: 107.59
 });
     MERGE (s:Site {
@@ -7980,7 +7980,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: -4.70012,
-    latitude: 40.65645
+    latitude: 40.65645,
     area_hectares: 36.4
 });
     MERGE (s:Site {
@@ -7989,7 +7989,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -1.10722,
-    latitude: 40.34389
+    latitude: 40.34389,
     area_hectares: 4.269
 });
     MERGE (s:Site {
@@ -7998,7 +7998,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -4.029416667,
-    latitude: 39.86688889
+    latitude: 39.86688889,
     area_hectares: 259.85
 });
     MERGE (s:Site {
@@ -8007,7 +8007,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -17.23722222,
-    latitude: 28.12625
+    latitude: 28.12625,
     area_hectares: 3984.0
 });
     MERGE (s:Site {
@@ -8016,7 +8016,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -5.6645,
-    latitude: 40.96525
+    latitude: 40.96525,
     area_hectares: 50.78
 });
     MERGE (s:Site {
@@ -8025,7 +8025,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -5.99155,
-    latitude: 37.38384
+    latitude: 37.38384,
     area_hectares: 12.0
 });
     MERGE (s:Site {
@@ -8034,7 +8034,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -6.37,
-    latitude: 39.47444
+    latitude: 39.47444,
     area_hectares: 9.0
 });
     MERGE (s:Site {
@@ -8047,7 +8047,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Upper Town of Ibiza is an excellent example of a fortified acropolis which preserves in an exceptional way in its walls and in its urban fabric successive imprints of the earliest Phoenicians settlements and the Arab and Catalan periods through to the Renaissance bastions. The long process of building the defensive walls has not destroyed the earlier phases or the street pattern, but has incorporated them in the ultimate phase.</p>",
     year: 1999,
     longitude: 1.435194444,
-    latitude: 38.91113889
+    latitude: 38.91113889,
     area_hectares: 9020.3
 });
     MERGE (s:Site {
@@ -8056,7 +8056,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 1.0825,
-    latitude: 41.38083
+    latitude: 41.38083,
     area_hectares: 18.0
 });
     MERGE (s:Site {
@@ -8066,7 +8066,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The central areas of  beda and Baeza constitute outstanding early examples of Renaissance civic architecture and urban planning in Spain in the early 16th century.</p>",
     year: 2003,
     longitude: -3.37122,
-    latitude: 38.01131
+    latitude: 38.01131,
     area_hectares: 9.0
 });
     MERGE (s:Site {
@@ -8075,7 +8075,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -6.33778,
-    latitude: 38.91611
+    latitude: 38.91611,
     area_hectares: 30.77
 });
     MERGE (s:Site {
@@ -8084,7 +8084,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -5.3275,
-    latitude: 39.45285
+    latitude: 39.45285,
     area_hectares: 1.1
 });
     MERGE (s:Site {
@@ -8093,7 +8093,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -6.414722222,
-    latitude: 43.335
+    latitude: 43.335,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -8102,7 +8102,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: -6.358861,
-    latitude: 36.9477
+    latitude: 36.9477,
     area_hectares: 54251.7
 });
     MERGE (s:Site {
@@ -8111,7 +8111,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (ii) and (v) considering that the site is of outstanding universal value as it is an exceptional example of the medieval fortress town that has preserved its original townscape remarkably intact along with many excellent examples of religious and secular architecture from the 12th to the 18th centuries. It is also exceptional because the walled town blends into and enhances the fine rural and natural landscape within which it is situated.</p>",
     year: 1996,
     longitude: -2.13174,
-    latitude: 40.07662
+    latitude: 40.07662,
     area_hectares: 22.79
 });
     MERGE (s:Site {
@@ -8120,7 +8120,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural criteria (i) and (iv), considering that the site is of outstanding universal value as it is a wholly exceptional example of a secular building in late Gothic style, which dramatically illustrates the power and wealth of one of the great Mediterranean mercantile cities.</p>",
     year: 1996,
     longitude: -0.378444444,
-    latitude: 39.47441667
+    latitude: 39.47441667,
     area_hectares: 0.2
 });
     MERGE (s:Site {
@@ -8129,7 +8129,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (i), (ii), (iii) and (iv), considering that the Las M dulas gold-mining area is an outstanding example of innovative Roman technology, in which all the elements of the ancient landscape, both industrial and domestic, have survived to an exceptional degree.</p>",
     year: 1997,
     longitude: -6.77075,
-    latitude: 42.46939
+    latitude: 42.46939,
     area_hectares: 2208.2
 });
     MERGE (s:Site {
@@ -8138,7 +8138,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe these two properties on the basis of criteria (i), (ii) and (iv), considering that the Palau de la M sica Catalana and the Hospital de Sant Pau in Barcelona are masterpieces of the imaginative and exuberant Art Nouveau that flowered in early 20th century Barcelona.</p>",
     year: 1997,
     longitude: 2.175,
-    latitude: 41.38778
+    latitude: 41.38778,
     area_hectares: 6.87
 });
     MERGE (s:Site {
@@ -8147,7 +8147,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii), (iv) and (vi), considering that the Monasteries of Suso and Yuso at San Mill&aacute;n de la Cogolla are exceptional testimony to the introduction and continuous survival of Christian monasticism, from the 6th century to the present day. The property is also of outstanding associative significance as the birthplace of the modern written and spoken Spanish language.</p>",
     year: 1997,
     longitude: -2.86496,
-    latitude: 42.32586
+    latitude: 42.32586,
     area_hectares: 19.01
 });
     MERGE (s:Site {
@@ -8156,7 +8156,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iii):</em> The corpus of late prehistoric mural paintings in the Mediterranean basin of eastern Spain is the largest group of rock-art sites anywhere in Europe, and provides an exceptional picture of human life in a seminal period of human cultural evolution.</p>",
     year: 1998,
     longitude: -1.03331,
-    latitude: 39.78995
+    latitude: 39.78995,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8166,7 +8166,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iii):</em> T rraco provides eloquent and unparalleled testimony to a significant stage in the history of the Mediterranean lands in antiquity.</p>",
     year: 2000,
     longitude: 1.259305556,
-    latitude: 41.11472222
+    latitude: 41.11472222,
     area_hectares: 32.65
 });
     MERGE (s:Site {
@@ -8177,7 +8177,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The contribution of Alcal  de Henares to the intellectual development of humankind finds expression in its materialization of the Civitas Dei, in the advances in linguistics that took place there, not least in the definition of the Spanish language, and through the work of its great son, Miguel de Cervantes Saavedra and his masterpiece, Don Quixote.</p>",
     year: 1998,
     longitude: -3.368055556,
-    latitude: 40.48138889
+    latitude: 40.48138889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8186,7 +8186,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criteria (ii) and (iv):</em> San Crist&oacute;bal de la Laguna was the first non-fortified Spanish colonial town, and its layout provided the model for many colonial towns in the Americas.</p>",
     year: 1999,
     longitude: -16.31177778,
-    latitude: 28.47788889
+    latitude: 28.47788889,
     area_hectares: 60.38
 });
     MERGE (s:Site {
@@ -8196,7 +8196,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The palm grove or garden is a typical feature of the North African landscape which was brought to Europe during the Islamic occupation of much of the Iberian peninsula and has survived to the present day. The ancient irrigation system, which is still functioning, is of special interest.</p>",
     year: 2000,
     longitude: -0.716666667,
-    latitude: 38.26666667
+    latitude: 38.26666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8205,7 +8205,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iv):</em> The Roman walls of Lugo are the finest surviving example of late Roman military fortifications.</p>",
     year: 2000,
     longitude: -7.55333,
-    latitude: 43.01111
+    latitude: 43.01111,
     area_hectares: 1.68
 });
     MERGE (s:Site {
@@ -8215,7 +8215,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Churches of the Vall de Bo  are an especially pure and consistent example of Romanesque art in a virtually untouched rural setting.</p>",
     year: 2000,
     longitude: 0.803611111,
-    latitude: 42.50472222
+    latitude: 42.50472222,
     area_hectares: 7.98
 });
     MERGE (s:Site {
@@ -8225,7 +8225,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The fossil remains in the Sierra de Atapuerca constitute an exceptional reserve of information about the physical nature and the way of life of the earliest human communities in Europe.</p>",
     year: 2000,
     longitude: -3.547222222,
-    latitude: 42.37138889
+    latitude: 42.37138889,
     area_hectares: 284.119
 });
     MERGE (s:Site {
@@ -8235,7 +8235,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion iv</em> : The complex designed cultural landscape of Aranjuez, derived from a variety of sources, mark a seminal stage in the development of landscape design.</p>",
     year: 2001,
     longitude: -3.60934,
-    latitude: 40.03645
+    latitude: 40.03645,
     area_hectares: 2047.5601
 });
     MERGE (s:Site {
@@ -8244,7 +8244,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: -3.016833333,
-    latitude: 43.323175
+    latitude: 43.323175,
     area_hectares: 0.8595
 });
     MERGE (s:Site {
@@ -8253,7 +8253,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: -16.64361111,
-    latitude: 28.27138889
+    latitude: 28.27138889,
     area_hectares: 18990.0
 });
     MERGE (s:Site {
@@ -8262,7 +8262,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: -8.406388889,
-    latitude: 43.38583333
+    latitude: 43.38583333,
     area_hectares: 233.0
 });
     MERGE (s:Site {
@@ -8271,7 +8271,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 2.694722222,
-    latitude: 39.73083333
+    latitude: 39.73083333,
     area_hectares: 30745.0
 });
     MERGE (s:Site {
@@ -8280,7 +8280,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: -4.544444444,
-    latitude: 37.025
+    latitude: 37.025,
     area_hectares: 2446.3
 });
     MERGE (s:Site {
@@ -8289,7 +8289,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: -4.867694444,
-    latitude: 37.88588889
+    latitude: 37.88588889,
     area_hectares: 111.0
 });
     MERGE (s:Site {
@@ -8298,7 +8298,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 80.38333333,
-    latitude: 8.333333333
+    latitude: 8.333333333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8307,7 +8307,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 81.00055556,
-    latitude: 7.915833333
+    latitude: 7.915833333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8316,7 +8316,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 80.75,
-    latitude: 7.95
+    latitude: 7.95,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8325,7 +8325,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 80.5,
-    latitude: 6.416666667
+    latitude: 6.416666667,
     area_hectares: 8864.0
 });
     MERGE (s:Site {
@@ -8334,7 +8334,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 80.64027778,
-    latitude: 7.293611111
+    latitude: 7.293611111,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8343,7 +8343,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 80.21861111,
-    latitude: 6.021388889
+    latitude: 6.021388889,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8352,7 +8352,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 80.64916667,
-    latitude: 7.856666667
+    latitude: 7.856666667,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8361,7 +8361,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 80.8021,
-    latitude: 7.45245
+    latitude: 7.45245,
     area_hectares: 56844.0
 });
     MERGE (s:Site {
@@ -8370,7 +8370,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 37.44305556,
-    latitude: 19.73611111
+    latitude: 19.73611111,
     area_hectares: 260700.0
 });
     MERGE (s:Site {
@@ -8379,7 +8379,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criteria i, ii, iii and iv: The pyramids and tombs, being also part of the special desert border landscape, on the banks of the Nile, are unique in their typology and technique. The remains are the testimony to an ancient important culture which existed and flourished in this region only. Criterion (vi): Since antiquity the hill of Gebel Barkal has been strongly associated with religious traditions and local folklore. For this reason, the largest temples (Amon Temple for example) were built at the foot of the hill and are still considered by the local people as sacred places.</p>",
     year: 2003,
     longitude: 31.81666667,
-    latitude: 18.53333333
+    latitude: 18.53333333,
     area_hectares: 182.5
 });
     MERGE (s:Site {
@@ -8388,7 +8388,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 33.71666667,
-    latitude: 16.93333333
+    latitude: 16.93333333,
     area_hectares: 2357.36
 });
     MERGE (s:Site {
@@ -8398,7 +8398,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion iv Paramaribo is a unique example of the contact between the European culture of the Netherlands and the indigenous cultures and environment of South America in the years of intensive colonization of this region in the 16th and 17th centuries.</p>",
     year: 2002,
     longitude: -55.15,
-    latitude: 5.82611
+    latitude: 5.82611,
     area_hectares: 30.0
 });
     MERGE (s:Site {
@@ -8407,7 +8407,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criteria (ix) and (x):</em> The site encompasses significant vertical relief, topography and soil conditions that have resulted in a variety of ecosystems. This ecosystem variation allows organisms within these ecosystems to move in response to disturbance, adapt to change and maintain gene flow between populations. The site&rsquo;s size, undisturbed state (in general a rare condition in Amazonian forest parks) and protection of the entire Coppename watershed, will allow long-term functioning of the ecosystem. The site contains a high diversity of plant and animal species, many of which are endemic to the Guyana Shield and are globally threatened.</p>",
     year: 2000,
     longitude: -56.5,
-    latitude: 4.0
+    latitude: 4.0,
     area_hectares: 1600000.0
 });
     MERGE (s:Site {
@@ -8416,7 +8416,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 17.54264,
-    latitude: 59.33514
+    latitude: 59.33514,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8425,7 +8425,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 16.00833,
-    latitude: 59.96667
+    latitude: 59.96667,
     area_hectares: 9.596
 });
     MERGE (s:Site {
@@ -8434,7 +8434,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 11.34111,
-    latitude: 58.70111
+    latitude: 58.70111,
     area_hectares: 4137.609
 });
     MERGE (s:Site {
@@ -8443,7 +8443,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 18.09944,
-    latitude: 59.27556
+    latitude: 59.27556,
     area_hectares: 108.08
 });
     MERGE (s:Site {
@@ -8452,7 +8452,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 17.88333,
-    latitude: 59.32306
+    latitude: 59.32306,
     area_hectares: 162.429
 });
     MERGE (s:Site {
@@ -8461,7 +8461,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: 18.29583,
-    latitude: 57.64167
+    latitude: 57.64167,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8470,7 +8470,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of cultural <em>criteria (ii), (iv) and (v)</em>, considering that the site is of outstanding universal value as it is a remarkable example of the traditional church town of northern Scandanavia, and admirably illustrates the adaptation of conventional urban design to the special geographical and climatic conditions of a hostile natural environment.</p>",
     year: 1996,
     longitude: 22.02861,
-    latitude: 65.64611
+    latitude: 65.64611,
     area_hectares: 16.402
 });
     MERGE (s:Site {
@@ -8479,7 +8479,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe the nominated property on the basis of <em>natural criteria (vii), (viii) and (ix)</em> and <em>cultural criteria (iii) and (v)</em>. The Committee considered that the site is of outstanding universal value as it contains examples of ongoing geological, biological and ecological processes, a great variety of natural phenomena of exceptional beauty and significant biological diversity including a population of brown bear and alpine flora. It was noted that the site meets all conditions of integrity. The site has been occupied continuously by the Saami people since prehistoric times, is one of the last and unquestionably largest and best preserved examples of an area of transhumance, involving summer grazing by large reindeer herds, a practice that was widespread at one time and which dates back to an early stage in human economic and social development.</p>",
     year: 1996,
     longitude: 17.58333,
-    latitude: 67.33333
+    latitude: 67.33333,
     area_hectares: 940900.0
 });
     MERGE (s:Site {
@@ -8489,7 +8489,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Naval bases played an important role in the centuries during which naval power was a determining factor in European Realpolitik, and Karlskrona is the best preserved and most complete of those that survive.</p>",
     year: 1998,
     longitude: 15.58333,
-    latitude: 56.16667
+    latitude: 56.16667,
     area_hectares: 320.417
 });
     MERGE (s:Site {
@@ -8499,7 +8499,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> S dra  land is an outstanding example of human settlement, making the optimum use of diverse landscape types on a single island.</p>",
     year: 2000,
     longitude: 16.48333,
-    latitude: 56.325
+    latitude: 56.325,
     area_hectares: 56323.0
 });
     MERGE (s:Site {
@@ -8510,7 +8510,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The successive stages in the economic and social evolution of the copper industry in the Falun region, from a form of  cottage industry  to full industrial production, can be seen in the abundant industrial, urban, and domestic remains characteristic of this industry that still survive.</p>",
     year: 2001,
     longitude: 15.63083,
-    latitude: 60.60472
+    latitude: 60.60472,
     area_hectares: 42.82
 });
     MERGE (s:Site {
@@ -8520,7 +8520,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The Varberg radio station is an exceptionally well preserved example of a type of telecommunication centre, representing the technological achievements by the early 1920s, as well as documenting the further development over some three decades.</p>",
     year: 2004,
     longitude: 12.38333333,
-    latitude: 57.1
+    latitude: 57.1,
     area_hectares: 109.09
 });
     MERGE (s:Site {
@@ -8533,7 +8533,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These decorated farms bear witness to a culture that has disappeared today but has been preserved in an exceptional way.</p>",
     year: 2012,
     longitude: 16.19583333,
-    latitude: 61.70722222
+    latitude: 61.70722222,
     area_hectares: 14.84
 });
     MERGE (s:Site {
@@ -8542,7 +8542,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 7.45028,
-    latitude: 46.94806
+    latitude: 46.94806,
     area_hectares: 84.684
 });
     MERGE (s:Site {
@@ -8551,7 +8551,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 9.37778,
-    latitude: 47.42333
+    latitude: 47.42333,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8560,7 +8560,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: 10.44765,
-    latitude: 46.62945
+    latitude: 46.62945,
     area_hectares: 2.036
 });
     MERGE (s:Site {
@@ -8569,7 +8569,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iv):</em>&nbsp;The fortified ensemble of Bellinzona is an outstanding example of a late medieval defensive structure guarding a key strategic Alpine pass.</p>",
     year: 2000,
     longitude: 9.02242,
-    latitude: 46.19314
+    latitude: 46.19314,
     area_hectares: 5.0
 });
     MERGE (s:Site {
@@ -8578,7 +8578,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2001,
     longitude: 8.033333333,
-    latitude: 46.5
+    latitude: 46.5,
     area_hectares: 82400.0
 });
     MERGE (s:Site {
@@ -8587,7 +8587,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 9.25,
-    latitude: 46.91666667
+    latitude: 46.91666667,
     area_hectares: 32850.0
 });
     MERGE (s:Site {
@@ -8596,7 +8596,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 6.746111111,
-    latitude: 46.49194444
+    latitude: 46.49194444,
     area_hectares: 898.0
 });
     MERGE (s:Site {
@@ -8605,7 +8605,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: 6.832777778,
-    latitude: 47.10388889
+    latitude: 47.10388889,
     area_hectares: 283.9
 });
     MERGE (s:Site {
@@ -8614,7 +8614,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 36.30639,
-    latitude: 33.51139
+    latitude: 33.51139,
     area_hectares: 86.12
 });
     MERGE (s:Site {
@@ -8623,7 +8623,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 37.16277778,
-    latitude: 36.19916667
+    latitude: 36.19916667,
     area_hectares: 364.0
 });
     MERGE (s:Site {
@@ -8632,7 +8632,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 36.48167,
-    latitude: 32.51806
+    latitude: 32.51806,
     area_hectares: 116.2
 });
     MERGE (s:Site {
@@ -8641,7 +8641,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 38.26667,
-    latitude: 34.55417
+    latitude: 34.55417,
     area_hectares: 1640.0
 });
     MERGE (s:Site {
@@ -8650,7 +8650,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 36.26305556,
-    latitude: 34.78166667
+    latitude: 34.78166667,
     area_hectares: 8.87
 });
     MERGE (s:Site {
@@ -8659,7 +8659,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 36.84416667,
-    latitude: 36.33416667
+    latitude: 36.33416667,
     area_hectares: 12290.0
 });
     MERGE (s:Site {
@@ -8668,7 +8668,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 67.46027778,
-    latitude: 39.50777778
+    latitude: 39.50777778,
     area_hectares: 15.93
 });
     MERGE (s:Site {
@@ -8677,7 +8677,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 72.30527778,
-    latitude: 38.765
+    latitude: 38.765,
     area_hectares: 2611674.0
 });
     MERGE (s:Site {
@@ -8686,7 +8686,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 99.78972,
-    latitude: 17.00722
+    latitude: 17.00722,
     area_hectares: 11852.0
 });
     MERGE (s:Site {
@@ -8695,7 +8695,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: 103.35833,
-    latitude: 17.54861
+    latitude: 17.54861,
     area_hectares: 30.0
 });
     MERGE (s:Site {
@@ -8704,7 +8704,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 100.56056,
-    latitude: 14.34778
+    latitude: 14.34778,
     area_hectares: 289.0
 });
     MERGE (s:Site {
@@ -8713,7 +8713,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (x): </em>The Dong Phayayen-Khao Yai Forest Complex (DPKY-FC) contains more than 800 fauna species, including 112 species of mammals, 392 species of birds and 200 reptiles and amphibians. It is internationally important for the conservation of globally threatened and endangered mammal, bird and reptile species that are recognised as being of outstanding universal value. This includes 1 critically endangered, 4 endangered and 19 vulnerable species. The area contains the last substantial area of globally important tropical forest ecosystems of the Thailandian Monsoon Forest biogeographic province in northeast Thailand, which in turn can provide a viable area for long-term survival of endangered, globally important species, including tiger, elephant, leopard cat and banteng. The unique overlap of the range of two species of gibbon, including the vulnerable Pileated Gibbon, further adds to the global value of the complex. In addition to the resident species the complex plays an important role for the conservation of migratory species, including the endangered Spot-billed Pelican and critically endangered Greater Adjutant.</p>",
     year: 2005,
     longitude: 102.05,
-    latitude: 14.33
+    latitude: 14.33,
     area_hectares: 615500.0
 });
     MERGE (s:Site {
@@ -8722,7 +8722,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1991,
     longitude: 98.91667,
-    latitude: 15.33333
+    latitude: 15.33333,
     area_hectares: 622200.0
 });
     MERGE (s:Site {
@@ -8731,7 +8731,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 20.81333,
-    latitude: 41.11806
+    latitude: 41.11806,
     area_hectares: 83350.0
 });
     MERGE (s:Site {
@@ -8741,7 +8741,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (vi): The Koutammakou is an eloquent testimony to the strength of spiritual association between people and landscape, as manifested in the harmony between the Batammariba and their natural surroundings.</p>",
     year: 2004,
     longitude: 1.133333333,
-    latitude: 10.06666667
+    latitude: 10.06666667,
     area_hectares: 50000.0
 });
     MERGE (s:Site {
@@ -8750,7 +8750,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: 9.67472,
-    latitude: 37.16361
+    latitude: 37.16361,
     area_hectares: 12600.0
 });
     MERGE (s:Site {
@@ -8759,7 +8759,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 10.16667,
-    latitude: 36.81667
+    latitude: 36.81667,
     area_hectares: 296.41
 });
     MERGE (s:Site {
@@ -8768,7 +8768,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 10.32333,
-    latitude: 36.85278
+    latitude: 36.85278,
     area_hectares: 616.02
 });
     MERGE (s:Site {
@@ -8777,7 +8777,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 10.70694,
-    latitude: 35.29639
+    latitude: 35.29639,
     area_hectares: 1.37
 });
     MERGE (s:Site {
@@ -8786,7 +8786,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 11.09917,
-    latitude: 36.94639
+    latitude: 36.94639,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -8795,7 +8795,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 10.63861,
-    latitude: 35.82778
+    latitude: 35.82778,
     area_hectares: 31.68
 });
     MERGE (s:Site {
@@ -8804,7 +8804,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 10.10389,
-    latitude: 35.68167
+    latitude: 35.68167,
     area_hectares: 68.02
 });
     MERGE (s:Site {
@@ -8813,7 +8813,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of criteria (ii) and (iii), considering that Dougga is the best preserved Roman small town in North Africa and as such provides an exceptional picture of everyday life in antiquity.</p>",
     year: 1997,
     longitude: 9.22028,
-    latitude: 36.42361
+    latitude: 36.42361,
     area_hectares: 70.0
 });
     MERGE (s:Site {
@@ -8822,7 +8822,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 28.97993,
-    latitude: 41.00847
+    latitude: 41.00847,
     area_hectares: 765.5
 });
     MERGE (s:Site {
@@ -8831,7 +8831,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 34.85,
-    latitude: 38.66667
+    latitude: 38.66667,
     area_hectares: 9883.81
 });
     MERGE (s:Site {
@@ -8840,7 +8840,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1985,
     longitude: 38.121826,
-    latitude: 39.371271
+    latitude: 39.371271,
     area_hectares: 2016.0
 });
     MERGE (s:Site {
@@ -8849,7 +8849,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 34.62056,
-    latitude: 40.01389
+    latitude: 40.01389,
     area_hectares: 268.46
 });
     MERGE (s:Site {
@@ -8858,7 +8858,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 38.76369,
-    latitude: 38.03661
+    latitude: 38.03661,
     area_hectares: 11.0
 });
     MERGE (s:Site {
@@ -8867,7 +8867,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 29.32028,
-    latitude: 36.335
+    latitude: 36.335,
     area_hectares: 126.4
 });
     MERGE (s:Site {
@@ -8876,7 +8876,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 29.12333,
-    latitude: 37.92389
+    latitude: 37.92389,
     area_hectares: 1077.0
 });
     MERGE (s:Site {
@@ -8885,7 +8885,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 32.68972,
-    latitude: 41.26
+    latitude: 41.26,
     area_hectares: 193.0
 });
     MERGE (s:Site {
@@ -8894,7 +8894,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The archaeological site of Troy is of immense significance in the understanding of the development of European civilization at a critical stage in its early development. It is, moreover, of exceptional cultural importance because of the profound influence of Homer&rsquo;s Iliad on the creative arts over more than two millennia.</p>",
     year: 1998,
     longitude: 26.239,
-    latitude: 39.95644
+    latitude: 39.95644,
     area_hectares: 158.0
 });
     MERGE (s:Site {
@@ -8903,7 +8903,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 27.35944444,
-    latitude: 37.92916667
+    latitude: 37.92916667,
     area_hectares: 662.62
 });
     MERGE (s:Site {
@@ -8912,7 +8912,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 26.55944444,
-    latitude: 41.67777778
+    latitude: 41.67777778,
     area_hectares: 2.5
 });
     MERGE (s:Site {
@@ -8921,7 +8921,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2012,
     longitude: 32.82805556,
-    latitude: 37.66666667
+    latitude: 37.66666667,
     area_hectares: 37.0
 });
     MERGE (s:Site {
@@ -8930,7 +8930,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 29.06233611,
-    latitude: 40.18473056
+    latitude: 40.18473056,
     area_hectares: 27.467
 });
     MERGE (s:Site {
@@ -8939,7 +8939,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 27.18,
-    latitude: 39.12583333
+    latitude: 39.12583333,
     area_hectares: 332.5
 });
     MERGE (s:Site {
@@ -8948,7 +8948,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: 40.23930833,
-    latitude: 37.9031
+    latitude: 37.9031,
     area_hectares: 521.23
 });
     MERGE (s:Site {
@@ -8957,7 +8957,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: 43.56666667,
-    latitude: 40.5
+    latitude: 40.5,
     area_hectares: 250.7
 });
     MERGE (s:Site {
@@ -8966,7 +8966,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: 28.72361111,
-    latitude: 37.70833333
+    latitude: 37.70833333,
     area_hectares: 152.25
 });
     MERGE (s:Site {
@@ -8975,7 +8975,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2018,
     longitude: 38.92236389,
-    latitude: 37.22324194
+    latitude: 37.22324194,
     area_hectares: 126.0
 });
     MERGE (s:Site {
@@ -8985,7 +8985,7 @@ MERGE (c:Category {name: "Cultural"});
 <p>Criterion (iii): The sequence of the cities of the Merv oasis, their fortifications, and their urban lay-outs bear exceptional testimony to the civilizations of Central Asia over several millennia.</p>",
     year: 1999,
     longitude: 62.1775,
-    latitude: 37.70083
+    latitude: 37.70083,
     area_hectares: 353.24
 });
     MERGE (s:Site {
@@ -8995,7 +8995,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iii): </em>Kunya-Urgench provides an exceptional testimony to a cultural tradition (the Islamic culture of the Khorezm) and is unique in its state of preservation. The society that created this centre has disappeared; however we note that most of visitors are in fact pilgrims from the region.</p>",
     year: 2005,
     longitude: 59.08494,
-    latitude: 42.18318
+    latitude: 42.18318,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9004,7 +9004,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2007,
     longitude: 58.19861111,
-    latitude: 37.99972222
+    latitude: 37.99972222,
     area_hectares: 77.905
 });
     MERGE (s:Site {
@@ -9013,7 +9013,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 29.66138889,
-    latitude: -1.080555556
+    latitude: -1.080555556,
     area_hectares: 32092.0
 });
     MERGE (s:Site {
@@ -9022,7 +9022,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 29.92416667,
-    latitude: 0.223611111
+    latitude: 0.223611111,
     area_hectares: 99600.0
 });
     MERGE (s:Site {
@@ -9031,7 +9031,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>Criterion i The Kasubi Tombs site is a masterpiece of human creativity both in its conception and its execution. Criterion iii The Kasubi Tombs site bears eloquent witness to the living cultural traditions of the Baganda. Criterion iv The spatial organization of the Kasubi Tombs site represents the best extant example of a Baganda palace/architectural ensemble. Built in the finest traditions of Ganda architecture and palace design, it reflects technical achievements developed over many centuries. Criterion vi The built and natural elements of the Kasubi Tombs site are charged with historical, traditional, and spiritual values. It is a major spiritual centre for the Baganda and is the most active religious place in the kingdom.</p>",
     year: 2001,
     longitude: 32.55138889,
-    latitude: 0.348611111
+    latitude: 0.348611111,
     area_hectares: 26.8
 });
     MERGE (s:Site {
@@ -9040,7 +9040,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 30.51686,
-    latitude: 50.45258
+    latitude: 50.45258,
     area_hectares: 28.52
 });
     MERGE (s:Site {
@@ -9050,7 +9050,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v):</em> The political and commercial role of L viv attracted to it a number of ethnic groups with different cultural and religious traditions, who established separate yet interdependent communities within the city, evidence for which is still discernible in the modern townscape.</p>",
     year: 1998,
     longitude: 24.03198,
-    latitude: 49.84163
+    latitude: 49.84163,
     area_hectares: 120.0
 });
     MERGE (s:Site {
@@ -9059,7 +9059,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 25.92472222,
-    latitude: 48.29666667
+    latitude: 48.29666667,
     area_hectares: 8.0
 });
     MERGE (s:Site {
@@ -9069,7 +9069,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2013,
     longitude: 33.49138889,
-    latitude: 44.61083333
+    latitude: 44.61083333,
     area_hectares: 259.3752
 });
     MERGE (s:Site {
@@ -9078,7 +9078,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 55.80638889,
-    latitude: 24.06777778
+    latitude: 24.06777778,
     area_hectares: 4945.45
 });
     MERGE (s:Site {
@@ -9087,7 +9087,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -6.485277778,
-    latitude: 55.25
+    latitude: 55.25,
     area_hectares: 239.405
 });
     MERGE (s:Site {
@@ -9096,7 +9096,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -1.576111111,
-    latitude: 54.77472222
+    latitude: 54.77472222,
     area_hectares: 8.79
 });
     MERGE (s:Site {
@@ -9105,7 +9105,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -2.472777778,
-    latitude: 52.62638889
+    latitude: 52.62638889,
     area_hectares: 547.9
 });
     MERGE (s:Site {
@@ -9114,7 +9114,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -1.573055556,
-    latitude: 54.11611111
+    latitude: 54.11611111,
     area_hectares: 309.0
 });
     MERGE (s:Site {
@@ -9123,7 +9123,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -1.825277778,
-    latitude: 51.17888889
+    latitude: 51.17888889,
     area_hectares: 4985.4
 });
     MERGE (s:Site {
@@ -9132,7 +9132,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -4.276944444,
-    latitude: 53.13972222
+    latitude: 53.13972222,
     area_hectares: 6.0
 });
     MERGE (s:Site {
@@ -9141,7 +9141,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: -8.576666667,
-    latitude: 57.81722222
+    latitude: 57.81722222,
     area_hectares: 24201.4004
 });
     MERGE (s:Site {
@@ -9150,7 +9150,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2017,
     longitude: -3.082416667,
-    latitude: 54.47661111
+    latitude: 54.47661111,
     area_hectares: 229205.19
 });
     MERGE (s:Site {
@@ -9159,7 +9159,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -1.361388889,
-    latitude: 51.84194444
+    latitude: 51.84194444,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9168,7 +9168,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -0.128611111,
-    latitude: 51.49972222
+    latitude: 51.49972222,
     area_hectares: 10.26
 });
     MERGE (s:Site {
@@ -9177,7 +9177,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -2.358611111,
-    latitude: 51.38138889
+    latitude: 51.38138889,
     area_hectares: 2900.0
 });
     MERGE (s:Site {
@@ -9188,7 +9188,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi):</em> The name of New Lanark is synonymous with that of Robert Owen and his social philosophy in matters such as progressive education, factory reform, humane working practices, international cooperation, and garden cities, which was to have a profound influence on social developments throughout the 19th century and beyond.</p>",
     year: 2001,
     longitude: -3.783055556,
-    latitude: 55.66333333
+    latitude: 55.66333333,
     area_hectares: 146.0
 });
     MERGE (s:Site {
@@ -9197,7 +9197,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -128.3333333,
-    latitude: -24.36666667
+    latitude: -24.36666667,
     area_hectares: 3700.0
 });
     MERGE (s:Site {
@@ -9206,7 +9206,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: -0.076111111,
-    latitude: 51.50805556
+    latitude: 51.50805556,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9215,7 +9215,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1988,
     longitude: 1.083333333,
-    latitude: 51.28
+    latitude: 51.28,
     area_hectares: 18.17
 });
     MERGE (s:Site {
@@ -9224,7 +9224,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criteria (i), (ii), (iii), and (iv):</em> The monuments of Orkney, dating back to 3000-2000 BC, are outstanding testimony to the cultural achievements of the Neolithic peoples of northern Europe.</p>",
     year: 1999,
     longitude: -3.188666667,
-    latitude: 58.99605556
+    latitude: 58.99605556,
     area_hectares: 15.0
 });
     MERGE (s:Site {
@@ -9233,7 +9233,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -3.216666667,
-    latitude: 55.95
+    latitude: 55.95,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9242,7 +9242,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -9.928611111,
-    latitude: -40.32472222
+    latitude: -40.32472222,
     area_hectares: 7900.0
 });
     MERGE (s:Site {
@@ -9251,7 +9251,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p>The Committee decided to inscribe this property on the basis of cultural <em>criteria (i), (ii), (iv) and (vi)</em>, considering that the public and private buildings and the Royal Park at Greenwich form an exceptional ensemble that bears witness to human artistic and scientific endeavour of the highest quality, to European architecture at an important stage of its evolution, and to the creation of a landscape that integrates nature and culture in a harmonious whole.</p>",
     year: 1997,
     longitude: -0.003777778,
-    latitude: 51.48116667
+    latitude: 51.48116667,
     area_hectares: 109.5
 });
     MERGE (s:Site {
@@ -9260,7 +9260,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (iv):</em> The Historic Town of St George with its related fortifications is an outstanding example of a continuously occupied, fortified, colonial town dating from the early 17th century and the oldest English town in the New World.</p>",
     year: 2000,
     longitude: -64.67777778,
-    latitude: 32.37944444
+    latitude: 32.37944444,
     area_hectares: 257.5
 });
     MERGE (s:Site {
@@ -9270,7 +9270,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The components of the Blaenavon industrial landscape together make up an outstanding and remarkably complete example of a 19th century industrial landscape.</p>",
     year: 2000,
     longitude: -3.088055556,
-    latitude: 51.77638889
+    latitude: 51.77638889,
     area_hectares: 3290.0
 });
     MERGE (s:Site {
@@ -9280,7 +9280,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> The layout and architecture of Saltaire admirably reflect mid 19th century philanthropic paternalism, as well as the important role played by the textile industry in economic and social development.</p>",
     year: 2001,
     longitude: -1.788333333,
-    latitude: 53.83916667
+    latitude: 53.83916667,
     area_hectares: 20.0
 });
     MERGE (s:Site {
@@ -9289,7 +9289,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "<p><em>Criterion (viii):</em> The coastal exposures within the site provide an almost continuous sequence of Triassic, Jurassic and Cretaceous rock formations spanning the Mesozoic Era and document approximately 185 million years of Earth history. The site includes a range of internationally important fossil localities &ndash; both vertebrate and invertebrate, marine and terrestrial - which have produced well preserved and diverse evidence of life during Mesozoic times.</p>",
     year: 2001,
     longitude: -2.989888889,
-    latitude: 50.70555556
+    latitude: 50.70555556,
     area_hectares: 2550.0
 });
     MERGE (s:Site {
@@ -9299,7 +9299,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> In the Derwent Valley for the first time there was large-scale industrial production in a hitherto rural landscape. The need to provide housing and other facilities for workers and managers resulted in the creation of the first modern industrial towns.</p>",
     year: 2001,
     longitude: -1.488055556,
-    latitude: 53.02888889
+    latitude: 53.02888889,
     area_hectares: 1228.7
 });
     MERGE (s:Site {
@@ -9309,7 +9309,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iii):</em> Kew Gardens have largely contributed to advances in many scientific disciplines, particularly botany and ecology. The landscape gardens and the edifices created by celebrated artists such as Charles Bridgeman, William Kent, Lancelot &lsquo;Capability&rsquo; Brown and William Chambers reflect the beginning of movements which were to have international influence.</p>",
     year: 2003,
     longitude: -0.294027778,
-    latitude: 51.48194444
+    latitude: 51.48194444,
     area_hectares: 132.0
 });
     MERGE (s:Site {
@@ -9320,7 +9320,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iv):</em> Liverpool is an outstanding example of a world mercantile port city, which represents the early development of global trading and cultural connections throughout the British Empire.</p>",
     year: 2004,
     longitude: -2.994444444,
-    latitude: 53.40666667
+    latitude: 53.40666667,
     area_hectares: 136.0
 });
     MERGE (s:Site {
@@ -9329,7 +9329,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: -5.383611111,
-    latitude: 50.13611111
+    latitude: 50.13611111,
     area_hectares: 19719.0
 });
     MERGE (s:Site {
@@ -9338,7 +9338,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2009,
     longitude: -3.087777778,
-    latitude: 52.97027778
+    latitude: 52.97027778,
     area_hectares: 105.0
 });
     MERGE (s:Site {
@@ -9347,7 +9347,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: -3.388888889,
-    latitude: 56.00111111
+    latitude: 56.00111111,
     area_hectares: 7.5
 });
     MERGE (s:Site {
@@ -9356,7 +9356,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2016,
     longitude: -5.342061111,
-    latitude: 36.12266944
+    latitude: 36.12266944,
     area_hectares: 28.0
 });
     MERGE (s:Site {
@@ -9365,7 +9365,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: 35.54083,
-    latitude: -3.18722
+    latitude: -3.18722,
     area_hectares: 809440.0
 });
     MERGE (s:Site {
@@ -9374,7 +9374,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 39.52278,
-    latitude: -8.95778
+    latitude: -8.95778,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9383,7 +9383,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: 34.56667,
-    latitude: -2.33333
+    latitude: -2.33333,
     area_hectares: 1476300.0
 });
     MERGE (s:Site {
@@ -9394,7 +9394,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion vi</em> : Zanzibar has great symbolic importance in the suppression of slavery, since it was one of the main slave-trading ports in East Africa and also the base from which its opponents such as David Livingstone conducted their campaign.</p>",
     year: 2000,
     longitude: 39.18917,
-    latitude: -6.16306
+    latitude: -6.16306,
     area_hectares: 96.0
 });
     MERGE (s:Site {
@@ -9403,7 +9403,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 37.4,
-    latitude: -9.0
+    latitude: -9.0,
     area_hectares: 5120000.0
 });
     MERGE (s:Site {
@@ -9412,7 +9412,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: 37.36667,
-    latitude: -3.06667
+    latitude: -3.06667,
     area_hectares: 75575.0
 });
     MERGE (s:Site {
@@ -9421,7 +9421,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2006,
     longitude: 35.83388889,
-    latitude: -4.724444444
+    latitude: -4.724444444,
     area_hectares: 233600.0
 });
     MERGE (s:Site {
@@ -9430,7 +9430,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: -108.4855556,
-    latitude: 37.26166667
+    latitude: 37.26166667,
     area_hectares: 21043.0
 });
     MERGE (s:Site {
@@ -9439,7 +9439,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1978,
     longitude: -110.82778,
-    latitude: 44.46056
+    latitude: 44.46056,
     area_hectares: 898349.0
 });
     MERGE (s:Site {
@@ -9448,7 +9448,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -112.0905556,
-    latitude: 36.10083333
+    latitude: 36.10083333,
     area_hectares: 493270.0
 });
     MERGE (s:Site {
@@ -9457,7 +9457,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -80.99638889,
-    latitude: 25.55444444
+    latitude: 25.55444444,
     area_hectares: 567017.0
 });
     MERGE (s:Site {
@@ -9466,7 +9466,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1979,
     longitude: -75.15,
-    latitude: 39.94861111
+    latitude: 39.94861111,
     area_hectares: 2.0
 });
     MERGE (s:Site {
@@ -9475,7 +9475,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1980,
     longitude: -123.9980556,
-    latitude: 41.37388889
+    latitude: 41.37388889,
     area_hectares: 56883.0
 });
     MERGE (s:Site {
@@ -9484,7 +9484,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -86.10305556,
-    latitude: 37.18722222
+    latitude: 37.18722222,
     area_hectares: 21191.0
 });
     MERGE (s:Site {
@@ -9493,7 +9493,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1981,
     longitude: -123.4488889,
-    latitude: 47.74833333
+    latitude: 47.74833333,
     area_hectares: nan
 });
     MERGE (s:Site {
@@ -9502,7 +9502,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: -90.06138889,
-    latitude: 38.65861111
+    latitude: 38.65861111,
     area_hectares: 541.0
 });
     MERGE (s:Site {
@@ -9511,7 +9511,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -83.43555556,
-    latitude: 35.59305556
+    latitude: 35.59305556,
     area_hectares: 209000.0
 });
     MERGE (s:Site {
@@ -9520,7 +9520,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1983,
     longitude: -66.125,
-    latitude: 18.46666667
+    latitude: 18.46666667,
     area_hectares: 33.39
 });
     MERGE (s:Site {
@@ -9529,7 +9529,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -74.04472222,
-    latitude: 40.68944444
+    latitude: 40.68944444,
     area_hectares: 5.95
 });
     MERGE (s:Site {
@@ -9538,7 +9538,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: -119.5966667,
-    latitude: 37.74611111
+    latitude: 37.74611111,
     area_hectares: 307934.0
 });
     MERGE (s:Site {
@@ -9547,7 +9547,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -107.9708333,
-    latitude: 36.06377778
+    latitude: 36.06377778,
     area_hectares: 14261.0
 });
     MERGE (s:Site {
@@ -9556,7 +9556,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -155.1236111,
-    latitude: 19.40083333
+    latitude: 19.40083333,
     area_hectares: 87940.0
 });
     MERGE (s:Site {
@@ -9565,7 +9565,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1987,
     longitude: -78.50388889,
-    latitude: 38.03277778
+    latitude: 38.03277778,
     area_hectares: 795.96
 });
     MERGE (s:Site {
@@ -9574,7 +9574,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1992,
     longitude: -105.54167,
-    latitude: 36.43889
+    latitude: 36.43889,
     area_hectares: 19.01
 });
     MERGE (s:Site {
@@ -9583,7 +9583,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -104.3833333,
-    latitude: 32.16666667
+    latitude: 32.16666667,
     area_hectares: 18926.0
 });
     MERGE (s:Site {
@@ -9592,7 +9592,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: -170.14582,
-    latitude: 25.34907
+    latitude: 25.34907,
     area_hectares: 36207499.0
 });
     MERGE (s:Site {
@@ -9601,7 +9601,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: -91.40638889,
-    latitude: 32.63694444
+    latitude: 32.63694444,
     area_hectares: 163.0
 });
     MERGE (s:Site {
@@ -9610,7 +9610,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: -98.46,
-    latitude: 29.32805556
+    latitude: 29.32805556,
     area_hectares: 300.8
 });
     MERGE (s:Site {
@@ -9619,7 +9619,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1995,
     longitude: -57.85333333,
-    latitude: -34.46777778
+    latitude: -34.46777778,
     area_hectares: 16.0
 });
     MERGE (s:Site {
@@ -9628,7 +9628,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2015,
     longitude: -58.33166667,
-    latitude: -33.11777778
+    latitude: -33.11777778,
     area_hectares: 273.8
 });
     MERGE (s:Site {
@@ -9637,7 +9637,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1990,
     longitude: 60.36389,
-    latitude: 41.37833
+    latitude: 41.37833,
     area_hectares: 37.5
 });
     MERGE (s:Site {
@@ -9646,7 +9646,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 64.42861,
-    latitude: 39.77472
+    latitude: 39.77472,
     area_hectares: 216.0
 });
     MERGE (s:Site {
@@ -9657,7 +9657,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion iv </em>: The historic town of Samarkand illustrates in its art, architecture, and urban structure the most important stages of Central Asian cultural and political history from the 13th century to the present day.</p>",
     year: 2001,
     longitude: 67.0,
-    latitude: 39.66861
+    latitude: 39.66861,
     area_hectares: 1123.0
 });
     MERGE (s:Site {
@@ -9667,7 +9667,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion iv</em> : The buildings of Shakhrisyabz, notably the Ak-Sarai Palace and the Tomb of Timur, are outstanding examples of a style which had a profound influence on the architecture of this region.</p>",
     year: 2000,
     longitude: 66.83333,
-    latitude: 39.05
+    latitude: 39.05,
     area_hectares: 240.0
 });
     MERGE (s:Site {
@@ -9676,7 +9676,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 168.1777194,
-    latitude: -17.62806944
+    latitude: -17.62806944,
     area_hectares: 886.31
 });
     MERGE (s:Site {
@@ -9685,7 +9685,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: -69.68333333,
-    latitude: 11.4
+    latitude: 11.4,
     area_hectares: 18.4
 });
     MERGE (s:Site {
@@ -9694,7 +9694,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: -61.5,
-    latitude: 5.33333
+    latitude: 5.33333,
     area_hectares: 3000000.0
 });
     MERGE (s:Site {
@@ -9703,7 +9703,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1994,
     longitude: 107.1,
-    latitude: 20.9
+    latitude: 20.9,
     area_hectares: 150000.0
 });
     MERGE (s:Site {
@@ -9712,7 +9712,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 107.57778,
-    latitude: 16.46944
+    latitude: 16.46944,
     area_hectares: 315.47
 });
     MERGE (s:Site {
@@ -9722,7 +9722,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (v)</em> : Hoi An is an exceptionally well preserved example of a traditional Asian trading port.</p>",
     year: 1999,
     longitude: 108.3333333,
-    latitude: 15.88333333
+    latitude: 15.88333333,
     area_hectares: 30.0
 });
     MERGE (s:Site {
@@ -9732,7 +9732,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (iii)</em> :The Champa Kingdom was an important phenomenon in the political and cultural history of South-East Asia, vividly illustrated by the ruins of My Son.</p>",
     year: 1999,
     longitude: 108.5666667,
-    latitude: 15.51666667
+    latitude: 15.51666667,
     area_hectares: 142.0
 });
     MERGE (s:Site {
@@ -9741,7 +9741,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2003,
     longitude: 106.15125,
-    latitude: 17.53722222
+    latitude: 17.53722222,
     area_hectares: 123326.0
 });
     MERGE (s:Site {
@@ -9750,7 +9750,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2010,
     longitude: 105.8372222,
-    latitude: 21.03944444
+    latitude: 21.03944444,
     area_hectares: 18.395
 });
     MERGE (s:Site {
@@ -9759,7 +9759,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2011,
     longitude: 105.6047222,
-    latitude: 20.07805556
+    latitude: 20.07805556,
     area_hectares: 155.5
 });
     MERGE (s:Site {
@@ -9768,7 +9768,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2014,
     longitude: 105.8963889,
-    latitude: 20.25666667
+    latitude: 20.25666667,
     area_hectares: 6226.0
 });
     MERGE (s:Site {
@@ -9777,7 +9777,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1982,
     longitude: 48.62667,
-    latitude: 15.92694
+    latitude: 15.92694,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9786,7 +9786,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 44.20805556,
-    latitude: 15.35555556
+    latitude: 15.35555556,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9795,7 +9795,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1993,
     longitude: 43.33,
-    latitude: 14.19806
+    latitude: 14.19806,
     area_hectares: 0.0
 });
     MERGE (s:Site {
@@ -9804,7 +9804,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 2008,
     longitude: 53.83333333,
-    latitude: 12.5
+    latitude: 12.5,
     area_hectares: 410460.0
 });
     MERGE (s:Site {
@@ -9813,7 +9813,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1984,
     longitude: 29.40805556,
-    latitude: -15.81944444
+    latitude: -15.81944444,
     area_hectares: 676600.0
 });
     MERGE (s:Site {
@@ -9824,7 +9824,7 @@ MERGE (c:Category {name: "Cultural"});
 <p><em>Criterion (vi)</em> : The Mwari religion, centred on Matoba, which may date back to the Iron Age, is the most powerful oracular tradition in southern Africa.</p>",
     year: 2003,
     longitude: 28.5,
-    latitude: -20.5
+    latitude: -20.5,
     area_hectares: 205000.0
 });
     MERGE (s:Site {
@@ -9833,7 +9833,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 30.93333333,
-    latitude: -20.28333333
+    latitude: -20.28333333,
     area_hectares: 722.0
 });
     MERGE (s:Site {
@@ -9842,7 +9842,7 @@ MERGE (c:Category {name: "Cultural"});
     justification: "nan",
     year: 1986,
     longitude: 28.37666667,
-    latitude: -20.15833333
+    latitude: -20.15833333,
     area_hectares: 0.0
 });
     MATCH (s:Site {name: "Cultural Landscape and Archaeological Remains of the Bamiyan Valley"})
